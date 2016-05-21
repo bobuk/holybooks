@@ -1,0 +1,967 @@
+{
+  "name": "Ecclesiastes",
+  "text": [
+    {
+      "name": "Ecclesiastes 1",
+      "text": [
+        {
+          "text": "THE WORDS of the Preacher, the son of David and king in Jerusalem.",
+          "ID": "1"
+        },
+        {
+          "text": "Vapor of vapors and futility of futilities, says the Preacher. Vapor of vapors and futility of futilities! All is vanity (emptiness, falsity, and vainglory). [Rom. 8:20.]",
+          "ID": "2"
+        },
+        {
+          "text": "What profit does man have left from all his toil at which he toils under the sun? [Is life worth living?]",
+          "ID": "3"
+        },
+        {
+          "text": "One generation goes and another generation comes, but the earth remains forever. [Ps. 119:90.]",
+          "ID": "4"
+        },
+        {
+          "text": "The sun also rises and the sun goes down, and hastens to the place where it rises.",
+          "ID": "5"
+        },
+        {
+          "text": "The wind goes to the south and circles about to the north; it circles and circles about continually, and on its circuit the wind returns again. [John 3:8.]",
+          "ID": "6"
+        },
+        {
+          "text": "All the rivers run into the sea, yet the sea is not full. To the place from which the rivers come, to there and from there they return again.",
+          "ID": "7"
+        },
+        {
+          "text": "All things are weary with toil and all words are feeble; man cannot utter it. The eye is not satisfied with seeing, nor the ear filled with hearing. [Prov. 27:20.]",
+          "ID": "8"
+        },
+        {
+          "text": "The thing that has been–it is what will be again, and that which has been done is that which will be done again; and there is nothing new under the sun.",
+          "ID": "9"
+        },
+        {
+          "text": "Is there a thing of which it may be said, See, this is new? It has already been, in the vast ages of time [recorded or unrecorded] which were before us.",
+          "ID": "10"
+        },
+        {
+          "text": "There is no remembrance of former happenings or men, neither will there be any remembrance of happenings of generations that are to come by those who are to come after them.",
+          "ID": "11"
+        },
+        {
+          "text": "I, the Preacher, have been king over Israel in Jerusalem.",
+          "ID": "12"
+        },
+        {
+          "text": "And I applied myself by heart and mind to seek and search out by [human] wisdom all human activity under heaven. It is a miserable business which God has given to the sons of man with which to busy themselves.",
+          "ID": "13"
+        },
+        {
+          "text": "I have seen all the works that are done under the sun, and behold, all is vanity, a striving after the wind and a feeding on wind.",
+          "ID": "14"
+        },
+        {
+          "text": "What is crooked cannot be made straight, and what is defective and lacking cannot be counted.",
+          "ID": "15"
+        },
+        {
+          "text": "I entered into counsel with my own mind, saying, Behold, I have acquired great [human] wisdom, yes, more than all who have been over Jerusalem before me; and my mind has had great experience of [moral] wisdom and [scientific] knowledge.",
+          "ID": "16"
+        },
+        {
+          "text": "And I gave my mind to know [practical] wisdom and to discern [the character of] madness and folly [in which men seem to find satisfaction]; I perceived that this also is a searching after wind and a feeding on it. [I Thess. 5:21.]",
+          "ID": "17"
+        },
+        {
+          "text": "For in much [human] wisdom is much vexation, and he who increases knowledge increases sorrow.",
+          "ID": "18"
+        }
+      ],
+      "ID": "OT:ECC.1"
+    },
+    {
+      "name": "Ecclesiastes 2",
+      "text": [
+        {
+          "text": "I SAID in my mind, Come now, I will prove you with mirth and test you with pleasure; so have a good time [enjoy pleasure]. But this also was vanity (emptiness, falsity, and futility)! [Luke 12:19, 20.]",
+          "ID": "1"
+        },
+        {
+          "text": "I said of laughter, It is mad, and of pleasure, What does it accomplish?",
+          "ID": "2"
+        },
+        {
+          "text": "I searched in my mind how to cheer my body with wine–yet at the same time having my mind hold its course and guide me with [human] wisdom–and how to lay hold of folly, till I might see what was good for the sons of men to do under heaven all the days of their lives.",
+          "ID": "3"
+        },
+        {
+          "text": "I made great works; I built myself houses, I planted vineyards.",
+          "ID": "4"
+        },
+        {
+          "text": "I made for myself gardens and orchards and I planted in them all kinds of fruit trees.",
+          "ID": "5"
+        },
+        {
+          "text": "I made for myself pools of water from which to water the forest and make the trees bud.",
+          "ID": "6"
+        },
+        {
+          "text": "I bought menservants and maidservants and had servants born in my house. Also I had great possessions of herds and flocks, more than any who had been before me in Jerusalem.",
+          "ID": "7"
+        },
+        {
+          "text": "I also gathered for myself silver and gold and the treasure of kings and of the provinces. I got for myself men singers and women singers, and the delights of the sons of men–concubines very many. [I Kings 9:28; 10:10, 14, 21.]",
+          "ID": "8"
+        },
+        {
+          "text": "So I became great and increased more than all who were before me in Jerusalem. Also my wisdom remained with me and stood by me.",
+          "ID": "9"
+        },
+        {
+          "text": "And whatever my eyes desired I kept not from them; I withheld not my heart from any pleasure, for my heart rejoiced in all my labor, and this was my portion and reward for all my toil.",
+          "ID": "10"
+        },
+        {
+          "text": "Then I looked on all that my hands had done and the labor I had spent in doing it, and behold, all was vanity and a striving after the wind and a feeding on it, and there was no profit under the sun. [Matt. 16:26.]",
+          "ID": "11"
+        },
+        {
+          "text": "So I turned to consider [human] wisdom and madness and folly; for what can the man do who succeeds the king? Nothing but what has been done already.",
+          "ID": "12"
+        },
+        {
+          "text": "Then I saw that even [human] wisdom [that brings sorrow] is better than [the pleasures of] folly as far as light is better than darkness.",
+          "ID": "13"
+        },
+        {
+          "text": "The wise man's eyes are in his head, but the fool walks in darkness; and yet I perceived that [in the end] one event happens to them both. [Prov. 17:24.]",
+          "ID": "14"
+        },
+        {
+          "text": "Then said I in my heart, As it happens to the fool, so it will happen even to me. And of what use is it then for me to be more wise? Then I said in my heart, This also is vanity (emptiness, vainglory, and futility)!",
+          "ID": "15"
+        },
+        {
+          "text": "For of the wise man, the same as of the fool, there is no permanent remembrance, since in the days to come all will be long forgotten. And how does the wise man die? Even as the fool!",
+          "ID": "16"
+        },
+        {
+          "text": "So I hated life, because what is done under the sun was grievous to me; for all is vanity and a striving after the wind and a feeding on it.",
+          "ID": "17"
+        },
+        {
+          "text": "And I hated all my labor in which I had toiled under the sun, seeing that I must leave it to the man who will succeed me. [Ps. 49:10.]",
+          "ID": "18"
+        },
+        {
+          "text": "And who knows whether he will be a wise man or a fool? Yet he will have dominion over all my labor in which I have toiled and in which I have shown myself wise under the sun. This is also vanity (emptiness, falsity, and futility)!",
+          "ID": "19"
+        },
+        {
+          "text": "So I turned around and gave my heart up to despair over all the labor of my efforts under the sun.",
+          "ID": "20"
+        },
+        {
+          "text": "For here is a man whose labor is with wisdom and knowledge and skill; yet to a man who has not toiled for it he must leave it all as his portion. This also is vanity (emptiness, falsity, and futility) and a great evil!",
+          "ID": "21"
+        },
+        {
+          "text": "For what has a man left from all his labor and from the striving and vexation of his heart in which he has toiled under the sun?",
+          "ID": "22"
+        },
+        {
+          "text": "For all his days are but pain and sorrow, and his work is a vexation and grief; his mind takes no rest even at night. This is also vanity (emptiness, falsity, and futility)!",
+          "ID": "23"
+        },
+        {
+          "text": "There is nothing better for a man than that he should eat and drink and make himself enjoy good in his labor. Even this, I have seen, is from the hand of God.",
+          "ID": "24"
+        },
+        {
+          "text": "For who can eat or who can have enjoyment any more than I can–apart from Him ?",
+          "ID": "25"
+        },
+        {
+          "text": "For to the person who pleases Him God gives wisdom and knowledge and joy; but to the sinner He gives the work of gathering and heaping up, that he may give to one who pleases God. This also is vanity and a striving after the wind and a feeding on it.",
+          "ID": "26"
+        }
+      ],
+      "ID": "OT:ECC.2"
+    },
+    {
+      "name": "Ecclesiastes 3",
+      "text": [
+        {
+          "text": "TO EVERYTHING there is a season, and a time for every matter or purpose under heaven:",
+          "ID": "1"
+        },
+        {
+          "text": "A time to be born and a time to die, a time to plant and a time to pluck up what is planted, [Heb. 9:27.]",
+          "ID": "2"
+        },
+        {
+          "text": "A time to kill and a time to heal, a time to break down and a time to build up,",
+          "ID": "3"
+        },
+        {
+          "text": "A time to weep and a time to laugh, a time to mourn and a time to dance,",
+          "ID": "4"
+        },
+        {
+          "text": "A time to cast away stones and a time to gather stones together, a time to embrace and a time to refrain from embracing,",
+          "ID": "5"
+        },
+        {
+          "text": "A time to get and a time to lose, a time to keep and a time to cast away,",
+          "ID": "6"
+        },
+        {
+          "text": "A time to rend and a time to sew, a time to keep silence and a time to speak, [Amos 5:13.]",
+          "ID": "7"
+        },
+        {
+          "text": "A time to love and a time to hate, a time for war and a time for peace. [Luke 14:26.]",
+          "ID": "8"
+        },
+        {
+          "text": "What profit remains for the worker from his toil?",
+          "ID": "9"
+        },
+        {
+          "text": "I have seen the painful labor and exertion and miserable business which God has given to the sons of men with which to exercise and busy themselves.",
+          "ID": "10"
+        },
+        {
+          "text": "He has made everything beautiful in its time. He also has planted eternity in men's hearts and minds [a divinely implanted sense of a purpose working through the ages which nothing under the sun but God alone can satisfy], yet so that men cannot find out what God has done from the beginning to the end.",
+          "ID": "11"
+        },
+        {
+          "text": "I know that there is nothing better for them than to be glad and to get and do good as long as they live;",
+          "ID": "12"
+        },
+        {
+          "text": "And also that every man should eat and drink and enjoy the good of all his labor–it is the gift of God.",
+          "ID": "13"
+        },
+        {
+          "text": "I know that whatever God does, it endures forever; nothing can be added to it nor anything taken from it. And God does it so that men will [reverently] fear Him [revere and worship Him, knowing that He is]. [Ps. 19:9; James 1:17.]",
+          "ID": "14"
+        },
+        {
+          "text": "That which is now already has been, and that which is to be already has been; and God seeks that which has passed by [so that history repeats itself].",
+          "ID": "15"
+        },
+        {
+          "text": "Moreover, I saw under the sun that in the place of justice there was wickedness, and that in the place of righteousness wickedness was there also.",
+          "ID": "16"
+        },
+        {
+          "text": "I said in my heart, God will judge the righteous and the wicked, for there is a time [appointed] for every matter and purpose and for every work.",
+          "ID": "17"
+        },
+        {
+          "text": "I said in my heart regarding the subject of the sons of men, God is trying (separating and sifting) them, that they may see that by themselves [under the sun, without God] they are but like beasts.",
+          "ID": "18"
+        },
+        {
+          "text": "For that which befalls the sons of men befalls beasts; even [in the end] one thing befalls them both. As the one dies, so dies the other. Yes, they all have one breath and spirit, so that a man has no preeminence over a beast; for all is vanity (emptiness, falsity, and futility)!",
+          "ID": "19"
+        },
+        {
+          "text": "All go to one place; all are of the dust, and all turn to dust again.",
+          "ID": "20"
+        },
+        {
+          "text": "Who knows the spirit of man, whether it goes upward, and the spirit of the beast, whether it goes downward to the earth?",
+          "ID": "21"
+        },
+        {
+          "text": "So I saw that there is nothing better than that a man should rejoice in his own works, for that is his portion. For who shall bring him back to see what will happen after he is gone?",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:ECC.3"
+    },
+    {
+      "name": "Ecclesiastes 4",
+      "text": [
+        {
+          "text": "THEN I returned and considered all the oppressions that are practiced under the sun: And I beheld the tears of the oppressed, and they had no comforter; and on the side of their oppressors was power, but they [too] had no comforter.",
+          "ID": "1"
+        },
+        {
+          "text": "So I praised and thought more fortunate those who have been long dead than the living, who are still alive.",
+          "ID": "2"
+        },
+        {
+          "text": "But better than them both [I thought] is he who has not yet been born, who has not seen the evil deeds that are done under the sun.",
+          "ID": "3"
+        },
+        {
+          "text": "Then I saw that all painful effort in labor and all skill in work comes from man's rivalry with his neighbor. This is also vanity, a vain striving after the wind and a feeding on it.",
+          "ID": "4"
+        },
+        {
+          "text": "The fool folds his hands together and eats his own flesh [destroying himself by indolence].",
+          "ID": "5"
+        },
+        {
+          "text": "Better is a handful with quietness than both hands full with painful effort, a vain striving after the wind and a feeding on it.",
+          "ID": "6"
+        },
+        {
+          "text": "Then I returned, and I saw vanity under the sun [in one of its peculiar forms].",
+          "ID": "7"
+        },
+        {
+          "text": "Here is one alone–no one with him; he neither has child nor brother. Yet there is no end to all his labor, neither is his eye satisfied with riches, neither does he ask, For whom do I labor and deprive myself of good? This is also vanity (emptiness, falsity, and futility); yes, it is a painful effort and an unhappy business. [Prov. 27:20; I John 2:16.]",
+          "ID": "8"
+        },
+        {
+          "text": "Two are better than one, because they have a good [more satisfying] reward for their labor;",
+          "ID": "9"
+        },
+        {
+          "text": "For if they fall, the one will lift up his fellow. But woe to him who is alone when he falls and has not another to lift him up!",
+          "ID": "10"
+        },
+        {
+          "text": "Again, if two lie down together, then they have warmth; but how can one be warm alone?",
+          "ID": "11"
+        },
+        {
+          "text": "And though a man might prevail against him who is alone, two will withstand him. A threefold cord is not quickly broken.",
+          "ID": "12"
+        },
+        {
+          "text": "Better is a poor and wise youth than an old and foolish king who no longer knows how to receive counsel (friendly reproof and warning)–",
+          "ID": "13"
+        },
+        {
+          "text": "Even though [the youth] comes out of prison to reign, while the other, born a king, becomes needy.",
+          "ID": "14"
+        },
+        {
+          "text": "I saw all the living who walk under the sun with the youth who was to stand up in the king's stead.",
+          "ID": "15"
+        },
+        {
+          "text": "There was no end to all the people; he was over all of them. Yet those who come later will not rejoice in him. Surely this also is vanity (emptiness, falsity, vainglory) and a striving after the wind and a feeding on it.",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:ECC.4"
+    },
+    {
+      "name": "Ecclesiastes 5",
+      "text": [
+        {
+          "text": "KEEP YOUR foot [give your mind to what you are doing] when you go [as Jacob to sacred Bethel] to the house of God. For to draw near to hear and obey is better than to give the sacrifice of fools [carelessly, irreverently] too ignorant to know that they are doing evil. [Gen. 35:1-4; Exod. 3:5.]",
+          "ID": "1"
+        },
+        {
+          "text": "Be not rash with your mouth, and let not your heart be hasty to utter a word before God. For God is in heaven, and you are on earth; therefore let your words be few.",
+          "ID": "2"
+        },
+        {
+          "text": "For a dream comes with much business and painful effort, and a fool's voice with many words.",
+          "ID": "3"
+        },
+        {
+          "text": "When you vow a vow or make a pledge to God, do not put off paying it; for God has no pleasure in fools (those who witlessly mock Him). Pay what you vow. [Ps. 50:14; 66:13, 14; 76:11.]",
+          "ID": "4"
+        },
+        {
+          "text": "It is better that you should not vow than that you should vow and not pay. [Prov. 20:25; Acts 5:4.]",
+          "ID": "5"
+        },
+        {
+          "text": "Do not allow your mouth to cause your body to sin, and do not say before the messenger [the priest] that it was an error or mistake. Why should God be [made] angry at your voice and destroy the work of your hands? [Mal. 2:7.]",
+          "ID": "6"
+        },
+        {
+          "text": "For in a multitude of dreams there is futility and worthlessness, and ruin in a flood of words. But [reverently] fear God [revere and worship Him, knowing that He is].",
+          "ID": "7"
+        },
+        {
+          "text": "If you see the oppression of the poor and the violent taking away of justice and righteousness in the state or province, do not marvel at the matter. [Be sure that there are those who will attend to it] for a higher [official] than the high is observing, and higher ones are over them.",
+          "ID": "8"
+        },
+        {
+          "text": "Moreover, the profit of the earth is for all; the king himself is served by the field and in all, a king is an advantage to a land with cultivated fields.",
+          "ID": "9"
+        },
+        {
+          "text": "He who loves silver will not be satisfied with silver, nor he who loves abundance with gain. This also is vanity (emptiness, falsity, and futility)!",
+          "ID": "10"
+        },
+        {
+          "text": "When goods increase, they who eat them increase also. And what gain is there to their owner except to see them with his eyes?",
+          "ID": "11"
+        },
+        {
+          "text": "The sleep of a laboring man is sweet, whether he eats little or much, but the fullness of the rich will not let him sleep.",
+          "ID": "12"
+        },
+        {
+          "text": "There is a serious and severe evil which I have seen under the sun: riches were kept by their owner to his hurt.",
+          "ID": "13"
+        },
+        {
+          "text": "But those riches are lost in a bad venture; and he becomes the father of a son, and there is nothing in his hand [with which to support the child].",
+          "ID": "14"
+        },
+        {
+          "text": "As [the man] came forth from his mother's womb, so he will go again, naked as he came; and he will take away nothing for all his labor which he can carry in his hand.",
+          "ID": "15"
+        },
+        {
+          "text": "And this also is a serious and severe evil–that in all points as he came, so shall he go; and what gain has he who labors for the wind? [I Tim. 6:6.]",
+          "ID": "16"
+        },
+        {
+          "text": "All his days also he eats in darkness [cheerlessly, with no sweetness and light in them], and much sorrow and sickness and wrath are his.",
+          "ID": "17"
+        },
+        {
+          "text": "Behold, what I have seen to be good and fitting is for one to eat and drink, and to find enjoyment in all the labor in which he labors under the sun all the days which God gives him–for this is his [allotted] part. [I Tim. 6:17.]",
+          "ID": "18"
+        },
+        {
+          "text": "Also, every man to whom God has given riches and possessions, and the power to enjoy them and to accept his appointed lot and to rejoice in his toil–this is the gift of God [to him].",
+          "ID": "19"
+        },
+        {
+          "text": "For he shall not much remember [seriously] the days of his life, because God [Himself] answers and corresponds to the joy of his heart [the tranquillity of God is mirrored in him].",
+          "ID": "20"
+        }
+      ],
+      "ID": "OT:ECC.5"
+    },
+    {
+      "name": "Ecclesiastes 6",
+      "text": [
+        {
+          "text": "THERE IS an evil which I have seen under the sun, and it lies heavily upon men:",
+          "ID": "1"
+        },
+        {
+          "text": "A man to whom God has given riches, possessions, and honor, so that he lacks nothing for his soul of all that he might desire, yet God does not give him the power or capacity to enjoy them [things which are gifts from God], but a stranger [in whom he has no interest succeeds him and] consumes and enjoys them. This is vanity (emptiness, falsity, and futility); it is a sore affliction! [Luke 12:20.]",
+          "ID": "2"
+        },
+        {
+          "text": "If a man begets a hundred children and lives many years so that the days of his years are many, but his life is not filled with good, and also he is given no burial [honors nor is laid to rest in the sepulcher of his fathers], I say that [he who had] an untimely birth [resulting in death] is better off than he, [Job 3:16.]",
+          "ID": "3"
+        },
+        {
+          "text": "For [the untimely one] comes in futility and goes into darkness, and in darkness his name is covered.",
+          "ID": "4"
+        },
+        {
+          "text": "Moreover, he has not seen the sun nor had any knowledge, yet he [the stillborn child] has rest rather than he [who is aware of all that he has missed and all that he would not have had to suffer].",
+          "ID": "5"
+        },
+        {
+          "text": "Even though he lives a thousand years twice over and yet has seen no good and experienced no enjoyment–do not all go to one place [the place of the dead]?",
+          "ID": "6"
+        },
+        {
+          "text": "All the labor of man is for his mouth [for self-preservation and enjoyment], and yet his desire is not satisfied. [Prov. 16:26.]",
+          "ID": "7"
+        },
+        {
+          "text": "For what advantage has the wise man over the fool [being worldly-wise is not the secret to happiness]? What advantage has the poor man who has learned how to walk before the living [publicly, with men's eyes upon him; being poor is not the secret to happiness either]?",
+          "ID": "8"
+        },
+        {
+          "text": "Better is the sight of the eyes [the enjoyment of what is available to one] than the cravings of wandering desire. This is also vanity (emptiness, falsity, and futility) and a striving after the wind and a feeding on it!",
+          "ID": "9"
+        },
+        {
+          "text": "Whatever [man] is, he has been named that long ago, and it is known that it is man [Adam]; nor can he contend with Him who is mightier than he [whether God or death].",
+          "ID": "10"
+        },
+        {
+          "text": "Seeing that there are [all these and] many other things and words that increase the emptiness, falsity, vainglory, and futility [of living], what profit and what outcome is there for man?",
+          "ID": "11"
+        },
+        {
+          "text": "For who [limited to human wisdom] knows what is good for man in his life, all the days of his vain life which he spends as a shadow [going through the motions but accomplishing nothing]? For who can tell a man what will happen [to his work, his treasure, his plans] under the sun after he is gone?",
+          "ID": "12"
+        }
+      ],
+      "ID": "OT:ECC.6"
+    },
+    {
+      "name": "Ecclesiastes 7",
+      "text": [
+        {
+          "text": "A GOOD name is better than precious perfume, and the day of death better than the day of one's birth.",
+          "ID": "1"
+        },
+        {
+          "text": "It is better to go to the house of mourning than to go to the house of feasting, for that is the end of all men; and the living will lay it to heart.",
+          "ID": "2"
+        },
+        {
+          "text": "Sorrow is better than laughter, for by the sadness of the countenance the heart is made better and gains gladness. [II Cor. 7:10.]",
+          "ID": "3"
+        },
+        {
+          "text": "The heart of the wise is in the house of mourning, but the heart of fools is in the house of mirth and sensual joy.",
+          "ID": "4"
+        },
+        {
+          "text": "It is better for a man to hear the rebuke of the wise than to hear the song of fools.",
+          "ID": "5"
+        },
+        {
+          "text": "For like the crackling of thorns under a pot, so is the laughter of the fool. This also is vanity (emptiness, falsity, and futility)!",
+          "ID": "6"
+        },
+        {
+          "text": "Surely oppression and extortion make a wise man foolish, and a bribe destroys the understanding and judgment.",
+          "ID": "7"
+        },
+        {
+          "text": "Better is the end of a thing than the beginning of it, and the patient in spirit is better than the proud in spirit.",
+          "ID": "8"
+        },
+        {
+          "text": "Do not be quick in spirit to be angry or vexed, for anger and vexation lodge in the bosom of fools. [James 1:19, 20.]",
+          "ID": "9"
+        },
+        {
+          "text": "Do not say, Why were the old days better than these? For it is not wise or because of wisdom that you ask this.",
+          "ID": "10"
+        },
+        {
+          "text": "Wisdom is as good as an inheritance, yes, more excellent it is for those [the living] who see the sun.",
+          "ID": "11"
+        },
+        {
+          "text": "For wisdom is a defense even as money is a defense, but the excellency of knowledge is that wisdom shields and preserves the life of him who has it.",
+          "ID": "12"
+        },
+        {
+          "text": "Consider the work of God: who can make straight what He has made crooked?",
+          "ID": "13"
+        },
+        {
+          "text": "In the day of prosperity be joyful, but in the day of adversity consider that God has made the one side by side with the other, so that man may not find out anything that shall be after him.",
+          "ID": "14"
+        },
+        {
+          "text": "I have seen everything in the days of my vanity (my emptiness, falsity, vainglory, and futility): there is a righteous man who perishes in his righteousness, and there is a wicked man who prolongs his life in [spite of] his evildoing.",
+          "ID": "15"
+        },
+        {
+          "text": "Be not [morbidly exacting and externally] righteous overmuch, neither strive to make yourself [pretentiously appear] overwise–why should you [get puffed up and] destroy yourself [with presumptuous self-sufficiency]?",
+          "ID": "16"
+        },
+        {
+          "text": "[Although all have sinned] be not wicked overmuch or willfully, neither be foolish–why should you die before your time?",
+          "ID": "17"
+        },
+        {
+          "text": "It is good that you should take hold of this and from that withdraw not your hand; for he who [reverently] fears and worships God will come forth from them all.",
+          "ID": "18"
+        },
+        {
+          "text": "[True] wisdom is a strength to the wise man more than ten rulers or valiant generals who are in the city. [Ps. 127:1; II Tim. 3:15.]",
+          "ID": "19"
+        },
+        {
+          "text": "Surely there is not a righteous man upon earth who does good and never sins. [Isa. 53:6; Rom. 3:23.]",
+          "ID": "20"
+        },
+        {
+          "text": "Do not give heed to everything that is said, lest you hear your servant cursing you–",
+          "ID": "21"
+        },
+        {
+          "text": "For often your own heart knows that you have likewise cursed others.",
+          "ID": "22"
+        },
+        {
+          "text": "All this have I tried and proved by wisdom. I said, I will be wise [independently of God]–but it was far from me.",
+          "ID": "23"
+        },
+        {
+          "text": "That which is is far off, and that which is deep is very deep–who can find it out [true wisdom independent of the fear of God]? [Job 28:12-28; I Cor. 2:9-16.]",
+          "ID": "24"
+        },
+        {
+          "text": "I turned about [penitent] and my heart was set to know and to search out and to seek [true] wisdom and the reason of things, and to know that wickedness is folly and that foolishness is madness [and what had led me into such wickedness and madness].",
+          "ID": "25"
+        },
+        {
+          "text": "And I found that [of all sinful follies none has been so ruinous in seducing one away from God as idolatrous women] more bitter than death is the woman whose heart is snares and nets and whose hands are bands. Whoever pleases God shall escape from her, but the sinner shall be taken by her.",
+          "ID": "26"
+        },
+        {
+          "text": "Behold, this I have found, says the Preacher, while weighing one thing after another to find out the right estimate [and the reason]–",
+          "ID": "27"
+        },
+        {
+          "text": "Which I am still seeking but have not found–one upright man among a thousand have I found, but an upright woman among all those [one thousand in my harem] have I not found. [I Kings 11:3.]",
+          "ID": "28"
+        },
+        {
+          "text": "Behold, this is the only [reason for it that] I have found: God made man upright, but they [men and women] have sought out many devices [for evil].",
+          "ID": "29"
+        }
+      ],
+      "ID": "OT:ECC.7"
+    },
+    {
+      "name": "Ecclesiastes 8",
+      "text": [
+        {
+          "text": "WHO IS like the wise man? And who knows the interpretation of a thing? A man's wisdom makes his face shine, and the hardness of his countenance is changed.",
+          "ID": "1"
+        },
+        {
+          "text": "I counsel you to keep the king's command, and that in regard to the oath of God [by which you swore to him loyalty]. [II Sam. 21:7.]",
+          "ID": "2"
+        },
+        {
+          "text": "Be not panic-stricken and hasty to get out of his presence. Persist not in an evil thing, for he does whatever he pleases.",
+          "ID": "3"
+        },
+        {
+          "text": "For the word of a king is authority and power, and who can say to him, What are you doing?",
+          "ID": "4"
+        },
+        {
+          "text": "Whoever observes the [king's] command will experience no harm, and a wise man's mind will know both when and what to do.",
+          "ID": "5"
+        },
+        {
+          "text": "For every purpose and matter has its [right] time and judgment, although the misery and wickedness of man lies heavily upon him [who rebels against the king].",
+          "ID": "6"
+        },
+        {
+          "text": "For he does not know what is to be, for who can tell him how and when it will be?",
+          "ID": "7"
+        },
+        {
+          "text": "There is no man who has power over the spirit to retain the breath of life, neither has he power over the day of death; and there is no discharge in battle [against death], neither will wickedness deliver those who are its possessors and given to it.",
+          "ID": "8"
+        },
+        {
+          "text": "All this have I seen while applying my mind to every work that is done under the sun. There is a time in which one man has power over another to his own hurt or to the other man's.",
+          "ID": "9"
+        },
+        {
+          "text": "And so I saw the wicked buried–those who had come and gone out of the holy place [but did not thereby escape their doom], and they are [praised and] forgotten in the city where they had done such things. This also is vanity (emptiness, falsity, vainglory, and futility)!",
+          "ID": "10"
+        },
+        {
+          "text": "Because the sentence against an evil work is not executed speedily, the hearts of the sons of men are fully set to do evil.",
+          "ID": "11"
+        },
+        {
+          "text": "Though a sinner does evil a hundred times and his days [seemingly] are prolonged [in his wickedness], yet surely I know that it will be well with those who [reverently] fear God, who revere and worship Him, realizing His continual presence. [Ps. 37:11, 18, 19; Isa. 3:10, 11; Matt. 25:34.]",
+          "ID": "12"
+        },
+        {
+          "text": "But it will not be well with the wicked, neither will he prolong his days like a shadow, because he does not [reverently] fear and worship God. [Matt. 25:41.]",
+          "ID": "13"
+        },
+        {
+          "text": "Here also is a futility that goes on upon the earth: there are righteous men who fare as though they were wicked, and wicked men who fare as though they were righteous. I say that this also is vanity (emptiness, falsity, and futility)!",
+          "ID": "14"
+        },
+        {
+          "text": "Then I commended enjoyment, because a man has no better thing under the sun [without God] than to eat and to drink and to be joyful, for that will remain with him in his toil through the days of his life which God gives him under the sun.",
+          "ID": "15"
+        },
+        {
+          "text": "When I applied my mind to know wisdom and to see the business activity and the painful effort that take place upon the earth–how neither day nor night some men's eyes sleep–",
+          "ID": "16"
+        },
+        {
+          "text": "Then I saw all the work of God, that man cannot find out the work that is done under the sun–because however much a man may toil in seeking, yet he will not find it out; yes, more than that, though a wise man thinks and claims he knows, yet will he not be able to find it out. [Deut. 29:29; Rom. 11:33.]",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:ECC.8"
+    },
+    {
+      "name": "Ecclesiastes 9",
+      "text": [
+        {
+          "text": "FOR ALL this I took to heart, exploring and examining it all, how the righteous (the upright, in right standing with God) and the wise and their works are in the hands of God. Whether it is to be love or hatred no man knows; all that is before them.",
+          "ID": "1"
+        },
+        {
+          "text": "All things come alike to all. There is one event to the righteous and to the wicked, to the good and to the clean and to the unclean; to him who sacrifices and to him who does not sacrifice. As is the good man, so is the sinner; and he who swears is as he who fears and shuns an oath.",
+          "ID": "2"
+        },
+        {
+          "text": "This evil is in all that is done under the sun: one fate comes to all. Also the hearts of men are full of evil, and madness is in their hearts while they live, and after that they go to the dead.",
+          "ID": "3"
+        },
+        {
+          "text": "[There is no exemption] but he who is joined to all the living has hope–for a living dog is better than a dead lion.",
+          "ID": "4"
+        },
+        {
+          "text": "For the living know that they will die, but the dead know nothing; and they have no more reward [here], for the memory of them is forgotten.",
+          "ID": "5"
+        },
+        {
+          "text": "Their love and their hatred and their envy have already perished; neither have they any more a share in anything that is done under the sun.",
+          "ID": "6"
+        },
+        {
+          "text": "Go your way, eat your bread with joy, and drink your wine with a cheerful heart [if you are righteous, wise, and in the hands of God], for God has already accepted your works.",
+          "ID": "7"
+        },
+        {
+          "text": "Let your garments be always white [with purity], and let your head not lack [the] oil [of gladness].",
+          "ID": "8"
+        },
+        {
+          "text": "Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun–all the days of futility. For that is your portion in this life and in your work at which you toil under the sun.",
+          "ID": "9"
+        },
+        {
+          "text": "Whatever your hand finds to do, do it with all your might, for there is no work or device or knowledge or wisdom in Sheol (the place of the dead), where you are going.",
+          "ID": "10"
+        },
+        {
+          "text": "I returned and saw under the sun that the race is not to the swift nor the battle to the strong, neither is bread to the wise nor riches to men of intelligence and understanding nor favor to men of skill; but time and chance happen to them all. [Ps. 33:16-19; Rom. 9:16.]",
+          "ID": "11"
+        },
+        {
+          "text": "For man also knows not his time [of death]: as the fishes are taken in an evil net, and as the birds are caught in the snare, so are the sons of men snared in an evil time when [calamity] falls suddenly upon them.",
+          "ID": "12"
+        },
+        {
+          "text": "This [illustration of] wisdom have I seen also under the sun, and it seemed great to me:",
+          "ID": "13"
+        },
+        {
+          "text": "There was a little city with few men in it. And a great king came against it and besieged it and built great bulwarks against it.",
+          "ID": "14"
+        },
+        {
+          "text": "But there was found in it a poor wise man, and he by his wisdom delivered the city. Yet no man [seriously] remembered that poor man.",
+          "ID": "15"
+        },
+        {
+          "text": "But I say that wisdom is better than might, though the poor man's wisdom is despised and his words are not heeded.",
+          "ID": "16"
+        },
+        {
+          "text": "The words of wise men heard in quiet are better than the shouts of him who rules among fools.",
+          "ID": "17"
+        },
+        {
+          "text": "Wisdom is better than weapons of war, but one sinner destroys much good.",
+          "ID": "18"
+        }
+      ],
+      "ID": "OT:ECC.9"
+    },
+    {
+      "name": "Ecclesiastes 10",
+      "text": [
+        {
+          "text": "DEAD FLIES cause the ointment of the perfumer to putrefy [and] send forth a vile odor; so does a little folly [in him who is valued for wisdom] outweigh wisdom and honor.",
+          "ID": "1"
+        },
+        {
+          "text": "A wise man's heart turns him toward his right hand, but a fool's heart toward his left. [Matt. 25:31-41.]",
+          "ID": "2"
+        },
+        {
+          "text": "Even when he who is a fool walks along the road, his heart and understanding fail him, and he says of everyone and to everyone that he is a fool.",
+          "ID": "3"
+        },
+        {
+          "text": "If the temper of the ruler rises up against you, do not leave your place [or show a resisting spirit]; for gentleness and calmness prevent or put a stop to great offenses.",
+          "ID": "4"
+        },
+        {
+          "text": "There is an evil which I have seen under the sun, like an error which proceeds from the ruler:",
+          "ID": "5"
+        },
+        {
+          "text": "Folly is set in great dignity and in high places, and the rich sit in low places.",
+          "ID": "6"
+        },
+        {
+          "text": "I have seen slaves on horses, and princes walking like slaves on the earth.",
+          "ID": "7"
+        },
+        {
+          "text": "He who digs a pit [for others] will fall into it, and whoever breaks through a fence or a [stone] wall, a serpent will bite him. [Ps. 57:6.]",
+          "ID": "8"
+        },
+        {
+          "text": "Whoever removes [landmark] stones or hews out [new ones with similar intent] will be hurt with them, and he who fells trees will be endangered by them. [Prov. 26:27.]",
+          "ID": "9"
+        },
+        {
+          "text": "If the ax is dull and the man does not whet the edge, he must put forth more strength; but wisdom helps him to succeed.",
+          "ID": "10"
+        },
+        {
+          "text": "If the serpent bites before it is charmed, then it is no use to call a charmer [and the slanderer is no better than the uncharmed snake].",
+          "ID": "11"
+        },
+        {
+          "text": "The words of a wise man's mouth are gracious and win him favor, but the lips of a fool consume him.",
+          "ID": "12"
+        },
+        {
+          "text": "The beginning of the words of his mouth is foolishness, and the end of his talk is wicked madness.",
+          "ID": "13"
+        },
+        {
+          "text": "A fool also multiplies words, though no man can tell what will be–and what will happen after he is gone, who can tell him?",
+          "ID": "14"
+        },
+        {
+          "text": "The labor of fools wearies every one of them, because [he is so ignorant of the ordinary matters that] he does not even know how to get to town.",
+          "ID": "15"
+        },
+        {
+          "text": "Woe to you, O land, when your king is a child or a servant and when your officials feast in the morning!",
+          "ID": "16"
+        },
+        {
+          "text": "Happy (fortunate and to be envied) are you, O land, when your king is a free man and of noble birth and character and when your officials feast at the proper time–for strength and not for drunkenness! [Isa. 32:8.]",
+          "ID": "17"
+        },
+        {
+          "text": "Through indolence the rafters [of state affairs] decay and the roof sinks in, and through idleness of the hands the house leaks.",
+          "ID": "18"
+        },
+        {
+          "text": "[Instead of repairing the breaches, the officials] make a feast for laughter, serve wine to cheer life, and [depend on tax] money to answer for all of it.",
+          "ID": "19"
+        },
+        {
+          "text": "Curse not the king, no, not even in your thoughts, and curse not the rich in your bedchamber, for a bird of the air will carry the voice, and a winged creature will tell the matter. [Exod. 22:28.]",
+          "ID": "20"
+        }
+      ],
+      "ID": "OT:ECC.10"
+    },
+    {
+      "name": "Ecclesiastes 11",
+      "text": [
+        {
+          "text": "CAST YOUR bread upon the waters, for you will find it after many days.",
+          "ID": "1"
+        },
+        {
+          "text": "Give a portion to seven, yes, even [divide it] to eight, for you know not what evil may come upon the earth.",
+          "ID": "2"
+        },
+        {
+          "text": "If the clouds are full of rain, they empty themselves upon the earth; and if a tree falls toward the south or toward the north, in the place where the tree falls, there it will lie.",
+          "ID": "3"
+        },
+        {
+          "text": "He who observes the wind [and waits for all conditions to be favorable] will not sow, and he who regards the clouds will not reap.",
+          "ID": "4"
+        },
+        {
+          "text": "As you know not what is the way of the wind, or how the spirit comes to the bones in the womb of a pregnant woman, even so you know not the work of God, Who does all.",
+          "ID": "5"
+        },
+        {
+          "text": "In the morning sow your seed, and in the evening withhold not your hands, for you know not which shall prosper, whether this or that, or whether both alike will be good.",
+          "ID": "6"
+        },
+        {
+          "text": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun.",
+          "ID": "7"
+        },
+        {
+          "text": "Yes, if a man should live many years, let him rejoice in them all; yet let him [seriously] remember the days of darkness, for they will be many. All that comes is vanity (emptiness, falsity, vainglory, and futility)!",
+          "ID": "8"
+        },
+        {
+          "text": "Rejoice, O young man, in your adolescence, and let your heart cheer you in the days of your [full-grown] youth. And walk in the ways of your heart and in the sight of your eyes, but know that for all these things God will bring you into judgment.",
+          "ID": "9"
+        },
+        {
+          "text": "Therefore remove [the lusts that end in] sorrow and vexation from your heart and mind and put away evil from your body, for youth and the dawn of life are vanity [transitory, idle, empty, and devoid of truth]. [II Cor. 7:1; II Tim. 2:22.]",
+          "ID": "10"
+        }
+      ],
+      "ID": "OT:ECC.11"
+    },
+    {
+      "name": "Ecclesiastes 12",
+      "text": [
+        {
+          "text": "REMEMBER [earnestly] also your Creator [that you are not your own, but His property now] in the days of your youth, before the evil days come or the years draw near when you will say [of physical pleasures], I have no enjoyment in them–[II Sam. 19:35.]",
+          "ID": "1"
+        },
+        {
+          "text": "Before the sun and the light and the moon and the stars are darkened [sight is impaired], and the clouds [of depression] return after the rain [of tears];",
+          "ID": "2"
+        },
+        {
+          "text": "In the day when the keepers of the house [the hands and the arms] tremble, and the strong men [the feet and the knees] bow themselves, and the grinders [the molar teeth] cease because they are few, and those who look out of the windows [the eyes] are darkened;",
+          "ID": "3"
+        },
+        {
+          "text": "When the doors [the lips] are shut in the streets and the sound of the grinding [of the teeth] is low, and one rises up at the voice of a bird and the crowing of a cock, and all the daughters of music [the voice and the ear] are brought low;",
+          "ID": "4"
+        },
+        {
+          "text": "Also when [the old] are afraid of danger from that which is high, and fears are in the way, and the almond tree [their white hair] blooms, and the grasshopper [a little thing] is a burden, and desire and appetite fail, because man goes to his everlasting home and the mourners go about the streets or marketplaces. [Job 17:13.]",
+          "ID": "5"
+        },
+        {
+          "text": "[Remember your Creator earnestly now] before the silver cord [of life] is snapped apart, or the golden bowl is broken, or the pitcher is broken at the fountain, or the wheel broken at the cistern [and the whole circulatory system of the blood ceases to function];",
+          "ID": "6"
+        },
+        {
+          "text": "Then shall the dust [out of which God made man's body] return to the earth as it was, and the spirit shall return to God Who gave it.",
+          "ID": "7"
+        },
+        {
+          "text": "Vapor of vapors and futility of futilities, says the Preacher. All is futility (emptiness, falsity, vainglory, and transitoriness)!",
+          "ID": "8"
+        },
+        {
+          "text": "And furthermore, because the Preacher was wise, he [Solomon] still taught the people knowledge; and he pondered and searched out and set in order many proverbs.",
+          "ID": "9"
+        },
+        {
+          "text": "The Preacher sought acceptable words, even to write down rightly words of truth or correct sentiment.",
+          "ID": "10"
+        },
+        {
+          "text": "The words of the wise are like prodding goads, and firmly fixed [in the mind] like nails are the collected sayings which are given [as proceeding] from one Shepherd. [Ezek. 37:24.]",
+          "ID": "11"
+        },
+        {
+          "text": "But about going further [than the words given by one Shepherd], my son, be warned. Of making many books there is no end [so do not believe everything you read], and much study is a weariness of the flesh.",
+          "ID": "12"
+        },
+        {
+          "text": "All has been heard; the end of the matter is: Fear God [revere and worship Him, knowing that He is] and keep His commandments, for this is the whole of man [the full, original purpose of his creation, the object of God's providence, the root of character, the foundation of all happiness, the adjustment to all inharmonious circumstances and conditions under the sun] and the whole [duty] for every man.",
+          "ID": "13"
+        },
+        {
+          "text": "For God shall bring every work into judgment, with every secret thing, whether it is good or evil. [Matt. 12:36; Acts 17:30, 31; Rom. 2:16; I Cor. 4:5.]",
+          "ID": "14"
+        }
+      ],
+      "ID": "OT:ECC.12"
+    }
+  ],
+  "version": "AMP",
+  "ID": "OT:ECC(AMP)"
+}

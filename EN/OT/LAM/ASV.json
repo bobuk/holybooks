@@ -1,0 +1,1777 @@
+{
+  "name": "The Lamentations of Jeremiah",
+  "text": [
+    {
+      "name": "The Lamentations of Jeremiah 1",
+      "text": [
+        {
+          "text": "How doth the city sit solitary, that was full of people!",
+          "ID": "1"
+        },
+        {
+          "text": "She is become as a widow, that was great among the nations!",
+          "ID": "1"
+        },
+        {
+          "text": "She that was a princess among the provinces is become tributary!",
+          "ID": "1"
+        },
+        {
+          "text": "",
+          "ID": "1"
+        },
+        {
+          "text": "She weepeth sore in the night, and her tears are on her cheeks;",
+          "ID": "2"
+        },
+        {
+          "text": "Among all her lovers she hath none to comfort her:",
+          "ID": "2"
+        },
+        {
+          "text": "All her friends have dealt treacherously with her; they are become her enemies.",
+          "ID": "2"
+        },
+        {
+          "text": "",
+          "ID": "2"
+        },
+        {
+          "text": "Judah is gone into captivity because of affliction, and because of great servitude;",
+          "ID": "3"
+        },
+        {
+          "text": "She dwelleth among the nations, she findeth no rest:",
+          "ID": "3"
+        },
+        {
+          "text": "All her persecutors overtook her within the straits.",
+          "ID": "3"
+        },
+        {
+          "text": "",
+          "ID": "3"
+        },
+        {
+          "text": "The ways of Zion do mourn, because none come to the solemn assembly;",
+          "ID": "4"
+        },
+        {
+          "text": "All her gates are desolate, her priests do sigh:",
+          "ID": "4"
+        },
+        {
+          "text": "Her virgins are afflicted, and she herself is in bitterness.",
+          "ID": "4"
+        },
+        {
+          "text": "",
+          "ID": "4"
+        },
+        {
+          "text": "Her adversaries are become the head, her enemies prosper;",
+          "ID": "5"
+        },
+        {
+          "text": "For Jehovah hath afflicted her for the multitude of her transgressions:",
+          "ID": "5"
+        },
+        {
+          "text": "Her young children are gone into captivity before the adversary.",
+          "ID": "5"
+        },
+        {
+          "text": "",
+          "ID": "5"
+        },
+        {
+          "text": "And from the daughter of Zion all her majesty is departed:",
+          "ID": "6"
+        },
+        {
+          "text": "Her princes are become like harts that find no pasture,",
+          "ID": "6"
+        },
+        {
+          "text": "And they are gone without strength before the pursuer.",
+          "ID": "6"
+        },
+        {
+          "text": "",
+          "ID": "6"
+        },
+        {
+          "text": "Jerusalem remembereth in the days of her affliction and of her miseries all her pleasant things that were from the days of old:",
+          "ID": "7"
+        },
+        {
+          "text": "When her people fell into the hand of the adversary, and none did help her,",
+          "ID": "7"
+        },
+        {
+          "text": "The adversaries saw her, they did mock at her desolations.",
+          "ID": "7"
+        },
+        {
+          "text": "",
+          "ID": "7"
+        },
+        {
+          "text": "Jerusalem hath grievously sinned; therefore she is become as an unclean thing;",
+          "ID": "8"
+        },
+        {
+          "text": "All that honored her despise her, because they have seen her nakedness:",
+          "ID": "8"
+        },
+        {
+          "text": "Yea, she sigheth, and turneth backward.",
+          "ID": "8"
+        },
+        {
+          "text": "",
+          "ID": "8"
+        },
+        {
+          "text": "Her filthiness was in her skirts; she remembered not her latter end;",
+          "ID": "9"
+        },
+        {
+          "text": "Therefore is she come down wonderfully; she hath no comforter:",
+          "ID": "9"
+        },
+        {
+          "text": "Behold, O Jehovah, my affliction; for the enemy hath magnified himself.",
+          "ID": "9"
+        },
+        {
+          "text": "",
+          "ID": "9"
+        },
+        {
+          "text": "The adversary hath spread out his hand upon all her pleasant things:",
+          "ID": "10"
+        },
+        {
+          "text": "For she hath seen that the nations are entered into her sanctuary,",
+          "ID": "10"
+        },
+        {
+          "text": "Concerning whom thou didst command that they should not enter into thine assembly.",
+          "ID": "10"
+        },
+        {
+          "text": "",
+          "ID": "10"
+        },
+        {
+          "text": "All her people sigh, they seek bread;",
+          "ID": "11"
+        },
+        {
+          "text": "They have given their pleasant things for food to refresh the soul:",
+          "ID": "11"
+        },
+        {
+          "text": "See, O Jehovah, and behold; for I am become abject.",
+          "ID": "11"
+        },
+        {
+          "text": "",
+          "ID": "11"
+        },
+        {
+          "text": "Is it nothing to you, all ye that pass by?",
+          "ID": "12"
+        },
+        {
+          "text": "Behold, and see if there be any sorrow like unto my sorrow, which is brought upon me,",
+          "ID": "12"
+        },
+        {
+          "text": "Wherewith Jehovah hath afflicted me in the day of his fierce anger.",
+          "ID": "12"
+        },
+        {
+          "text": "",
+          "ID": "12"
+        },
+        {
+          "text": "From on high hath he sent fire into my bones, and it prevaileth against them;",
+          "ID": "13"
+        },
+        {
+          "text": "He hath spread a net for my feet, he hath turned me back:",
+          "ID": "13"
+        },
+        {
+          "text": "He hath made me desolate and faint all the day.",
+          "ID": "13"
+        },
+        {
+          "text": "",
+          "ID": "13"
+        },
+        {
+          "text": "The yoke of my transgressions is bound by his hand;",
+          "ID": "14"
+        },
+        {
+          "text": "They are knit together, they are come up upon my neck; he hath made my strength to fail:",
+          "ID": "14"
+        },
+        {
+          "text": "The Lord hath delivered me into their hands, against whom I am not able to stand.",
+          "ID": "14"
+        },
+        {
+          "text": "",
+          "ID": "14"
+        },
+        {
+          "text": "The Lord hath set at nought all my mighty men in the midst of me;",
+          "ID": "15"
+        },
+        {
+          "text": "He hath called a solemn assembly against me to crush my young men:",
+          "ID": "15"
+        },
+        {
+          "text": "The Lord hath trodden as in a winepress the virgin daughter of Judah.",
+          "ID": "15"
+        },
+        {
+          "text": "",
+          "ID": "15"
+        },
+        {
+          "text": "For these things I weep; mine eye, mine eye runneth down with water;",
+          "ID": "16"
+        },
+        {
+          "text": "Because the comforter that should refresh my soul is far from me:",
+          "ID": "16"
+        },
+        {
+          "text": "My children are desolate, because the enemy hath prevailed.",
+          "ID": "16"
+        },
+        {
+          "text": "",
+          "ID": "16"
+        },
+        {
+          "text": "Zion spreadeth forth her hands; there is none to comfort her;",
+          "ID": "17"
+        },
+        {
+          "text": "Jehovah hath commanded concerning Jacob, that they that are round about him should be his adversaries:",
+          "ID": "17"
+        },
+        {
+          "text": "Jerusalem is among them as an unclean thing.",
+          "ID": "17"
+        },
+        {
+          "text": "",
+          "ID": "17"
+        },
+        {
+          "text": "Jehovah is righteous; for I have rebelled against his commandment:",
+          "ID": "18"
+        },
+        {
+          "text": "Hear, I pray you, all ye peoples, and behold my sorrow:",
+          "ID": "18"
+        },
+        {
+          "text": "My virgins and my young men are gone into captivity.",
+          "ID": "18"
+        },
+        {
+          "text": "",
+          "ID": "18"
+        },
+        {
+          "text": "I called for my lovers, but they deceived me:",
+          "ID": "19"
+        },
+        {
+          "text": "My priests and mine elders gave up the ghost in the city,",
+          "ID": "19"
+        },
+        {
+          "text": "While they sought them food to refresh their souls.",
+          "ID": "19"
+        },
+        {
+          "text": "",
+          "ID": "19"
+        },
+        {
+          "text": "Behold, O Jehovah; for I am in distress; my heart is troubled;",
+          "ID": "20"
+        },
+        {
+          "text": "My heart is turned within me; for I have grievously rebelled:",
+          "ID": "20"
+        },
+        {
+          "text": "Abroad the sword bereaveth, at home there is as death.",
+          "ID": "20"
+        },
+        {
+          "text": "",
+          "ID": "20"
+        },
+        {
+          "text": "They have heard that I sigh; there is none to comfort me;",
+          "ID": "21"
+        },
+        {
+          "text": "All mine enemies have heard of my trouble; they are glad that thou hast done it:",
+          "ID": "21"
+        },
+        {
+          "text": "Thou wilt bring the day that thou hast proclaimed, and they shall be like unto me.",
+          "ID": "21"
+        },
+        {
+          "text": "",
+          "ID": "21"
+        },
+        {
+          "text": "Let all their wickedness come before thee;",
+          "ID": "22"
+        },
+        {
+          "text": "And do unto them, as thou hast done unto me for all my transgressions:",
+          "ID": "22"
+        },
+        {
+          "text": "For my sighs are many, and my heart is faint.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.1"
+    },
+    {
+      "name": "The Lamentations of Jeremiah 2",
+      "text": [
+        {
+          "text": "How hath the Lord covered the daughter of Zion with a cloud in his anger!",
+          "ID": "1"
+        },
+        {
+          "text": "He hath cast down from heaven unto the earth the beauty of Israel,",
+          "ID": "1"
+        },
+        {
+          "text": "And hath not remembered his footstool in the day of his anger.",
+          "ID": "1"
+        },
+        {
+          "text": "",
+          "ID": "1"
+        },
+        {
+          "text": "The Lord hath swallowed up all the habitations of Jacob, and hath not pitied:",
+          "ID": "2"
+        },
+        {
+          "text": "He hath thrown down in his wrath the strongholds of the daughter of Judah;",
+          "ID": "2"
+        },
+        {
+          "text": "He hath brought them down to the ground; he hath profaned the kingdom and the princes thereof.",
+          "ID": "2"
+        },
+        {
+          "text": "",
+          "ID": "2"
+        },
+        {
+          "text": "He hath cut off in fierce anger all the horn of Israel;",
+          "ID": "3"
+        },
+        {
+          "text": "He hath drawn back his right hand from before the enemy:",
+          "ID": "3"
+        },
+        {
+          "text": "And he hath burned up Jacob like a flaming fire, which devoureth round about.",
+          "ID": "3"
+        },
+        {
+          "text": "",
+          "ID": "3"
+        },
+        {
+          "text": "He hath bent his bow like an enemy, he hath stood with his right hand as an adversary,",
+          "ID": "4"
+        },
+        {
+          "text": "And hath slain all that were pleasant to the eye:",
+          "ID": "4"
+        },
+        {
+          "text": "In the tent of the daughter of Zion he hath poured out his wrath like fire.",
+          "ID": "4"
+        },
+        {
+          "text": "",
+          "ID": "4"
+        },
+        {
+          "text": "The Lord is become as an enemy, he hath swallowed up Israel;",
+          "ID": "5"
+        },
+        {
+          "text": "He hath swallowed up all her palaces, he hath destroyed his strongholds;",
+          "ID": "5"
+        },
+        {
+          "text": "And he hath multiplied in the daughter of Judah mourning and lamentation.",
+          "ID": "5"
+        },
+        {
+          "text": "",
+          "ID": "5"
+        },
+        {
+          "text": "And he hath violently taken away his tabernacle, as if it were of a garden; he hath destroyed his place of assembly:",
+          "ID": "6"
+        },
+        {
+          "text": "Jehovah hath caused solemn assembly and sabbath to be forgotten in Zion,",
+          "ID": "6"
+        },
+        {
+          "text": "And hath despised in the indignation of his anger the king and the priest.",
+          "ID": "6"
+        },
+        {
+          "text": "",
+          "ID": "6"
+        },
+        {
+          "text": "The Lord hath cast off his altar, he hath abhorred his sanctuary;",
+          "ID": "7"
+        },
+        {
+          "text": "He hath given up into the hand of the enemy the walls of her palaces:",
+          "ID": "7"
+        },
+        {
+          "text": "They have made a noise in the house of Jehovah, as in the day of a solemn assembly.",
+          "ID": "7"
+        },
+        {
+          "text": "",
+          "ID": "7"
+        },
+        {
+          "text": "Jehovah hath purposed to destroy the wall of the daughter of Zion;",
+          "ID": "8"
+        },
+        {
+          "text": "He hath stretched out the line, he hath not withdrawn his hand from destroying;",
+          "ID": "8"
+        },
+        {
+          "text": "And he hath made the rampart and wall to lament; they languish together.",
+          "ID": "8"
+        },
+        {
+          "text": "",
+          "ID": "8"
+        },
+        {
+          "text": "Her gates are sunk into the ground; he hath destroyed and broken her bars:",
+          "ID": "9"
+        },
+        {
+          "text": "Her king and her princes are among the nations where the law is not;",
+          "ID": "9"
+        },
+        {
+          "text": "Yea, her prophets find no vision from Jehovah.",
+          "ID": "9"
+        },
+        {
+          "text": "",
+          "ID": "9"
+        },
+        {
+          "text": "The elders of the daughter of Zion sit upon the ground, they keep silence;",
+          "ID": "10"
+        },
+        {
+          "text": "They have cast up dust upon their heads; they have girded themselves with sackcloth:",
+          "ID": "10"
+        },
+        {
+          "text": "The virgins of Jerusalem hang down their heads to the ground.",
+          "ID": "10"
+        },
+        {
+          "text": "",
+          "ID": "10"
+        },
+        {
+          "text": "Mine eyes do fail with tears, my heart is troubled;",
+          "ID": "11"
+        },
+        {
+          "text": "My liver is poured upon the earth, because of the destruction of the daughter of my people,",
+          "ID": "11"
+        },
+        {
+          "text": "Because the young children and the sucklings swoon in the streets of the city.",
+          "ID": "11"
+        },
+        {
+          "text": "",
+          "ID": "11"
+        },
+        {
+          "text": "They say to their mothers, Where is grain and wine?",
+          "ID": "12"
+        },
+        {
+          "text": "When they swoon as the wounded in the streets of the city,",
+          "ID": "12"
+        },
+        {
+          "text": "When their soul is poured out into their mothers’ bosom.",
+          "ID": "12"
+        },
+        {
+          "text": "",
+          "ID": "12"
+        },
+        {
+          "text": "What shall I testify unto thee? what shall I liken to thee, O daughter of Jerusalem?",
+          "ID": "13"
+        },
+        {
+          "text": "What shall I compare to thee, that I may comfort thee, O virgin daughter of Zion?",
+          "ID": "13"
+        },
+        {
+          "text": "For thy breach is great like the sea: who can heal thee?",
+          "ID": "13"
+        },
+        {
+          "text": "",
+          "ID": "13"
+        },
+        {
+          "text": "Thy prophets have seen for thee false and foolish visions;",
+          "ID": "14"
+        },
+        {
+          "text": "And they have not uncovered thine iniquity, to bring back thy captivity,",
+          "ID": "14"
+        },
+        {
+          "text": "But have seen for thee false oracles and causes of banishment.",
+          "ID": "14"
+        },
+        {
+          "text": "",
+          "ID": "14"
+        },
+        {
+          "text": "All that pass by clap their hands at thee;",
+          "ID": "15"
+        },
+        {
+          "text": "They hiss and wag their head at the daughter of Jerusalem, saying,",
+          "ID": "15"
+        },
+        {
+          "text": "Is this the city that men called The perfection of beauty, The joy of the whole earth?",
+          "ID": "15"
+        },
+        {
+          "text": "",
+          "ID": "15"
+        },
+        {
+          "text": "All thine enemies have opened their mouth wide against thee;",
+          "ID": "16"
+        },
+        {
+          "text": "They hiss and gnash the teeth; they say, We have swallowed her up;",
+          "ID": "16"
+        },
+        {
+          "text": "Certainly this is the day that we looked for; we have found, we have seen it.",
+          "ID": "16"
+        },
+        {
+          "text": "",
+          "ID": "16"
+        },
+        {
+          "text": "Jehovah hath done that which he purposed; he hath fulfilled his word that he commanded in the days of old;",
+          "ID": "17"
+        },
+        {
+          "text": "He hath thrown down, and hath not pitied:",
+          "ID": "17"
+        },
+        {
+          "text": "And he hath caused the enemy to rejoice over thee; he hath exalted the horn of thine adversaries.",
+          "ID": "17"
+        },
+        {
+          "text": "",
+          "ID": "17"
+        },
+        {
+          "text": "Their heart cried unto the Lord:",
+          "ID": "18"
+        },
+        {
+          "text": "O wall of the daughter of Zion, let tears run down like a river day and night;",
+          "ID": "18"
+        },
+        {
+          "text": "Give thyself no respite; let not the apple of thine eye cease.",
+          "ID": "18"
+        },
+        {
+          "text": "",
+          "ID": "18"
+        },
+        {
+          "text": "Arise, cry out in the night, at the beginning of the watches;",
+          "ID": "19"
+        },
+        {
+          "text": "Pour out thy heart like water before the face of the Lord:",
+          "ID": "19"
+        },
+        {
+          "text": "Lift up thy hands toward him for the life of thy young children, that faint for hunger at the head of every street.",
+          "ID": "19"
+        },
+        {
+          "text": "",
+          "ID": "19"
+        },
+        {
+          "text": "See, O Jehovah, and behold to whom thou hast done thus!",
+          "ID": "20"
+        },
+        {
+          "text": "Shall the women eat their fruit, the children that are dandled in the hands?",
+          "ID": "20"
+        },
+        {
+          "text": "Shall the priest and the prophet be slain in the sanctuary of the Lord?",
+          "ID": "20"
+        },
+        {
+          "text": "",
+          "ID": "20"
+        },
+        {
+          "text": "The youth and the old man lie on the ground in the streets;",
+          "ID": "21"
+        },
+        {
+          "text": "My virgins and my young men are fallen by the sword:",
+          "ID": "21"
+        },
+        {
+          "text": "Thou hast slain them in the day of thine anger; thou hast slaughtered, and not pitied.",
+          "ID": "21"
+        },
+        {
+          "text": "",
+          "ID": "21"
+        },
+        {
+          "text": "Thou hast called, as in the day of a solemn assembly, my terrors on every side;",
+          "ID": "22"
+        },
+        {
+          "text": "And there was none that escaped or remained in the day of Jehovah’s anger:",
+          "ID": "22"
+        },
+        {
+          "text": "Those that I have dandled and brought up hath mine enemy consumed.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.2"
+    },
+    {
+      "name": "The Lamentations of Jeremiah 3",
+      "text": [
+        {
+          "text": "I am the man that hath seen affliction by the rod of his wrath.",
+          "ID": "1"
+        },
+        {
+          "text": "",
+          "ID": "1"
+        },
+        {
+          "text": "He hath led me and caused me to walk in darkness, and not in light.",
+          "ID": "2"
+        },
+        {
+          "text": "",
+          "ID": "2"
+        },
+        {
+          "text": "Surely against me he turneth his hand again and again all the day.",
+          "ID": "3"
+        },
+        {
+          "text": "",
+          "ID": "3"
+        },
+        {
+          "text": "My flesh and my skin hath he made old; he hath broken my bones.",
+          "ID": "4"
+        },
+        {
+          "text": "",
+          "ID": "4"
+        },
+        {
+          "text": "He hath builded against me, and compassed me with gall and travail.",
+          "ID": "5"
+        },
+        {
+          "text": "",
+          "ID": "5"
+        },
+        {
+          "text": "He hath made me to dwell in dark places, as those that have been long dead.",
+          "ID": "6"
+        },
+        {
+          "text": "",
+          "ID": "6"
+        },
+        {
+          "text": "He hath walled me about, that I cannot go forth; he hath made my chain heavy.",
+          "ID": "7"
+        },
+        {
+          "text": "",
+          "ID": "7"
+        },
+        {
+          "text": "Yea, when I cry, and call for help, he shutteth out my prayer.",
+          "ID": "8"
+        },
+        {
+          "text": "",
+          "ID": "8"
+        },
+        {
+          "text": "He hath walled up my ways with hewn stone; he hath made my paths crooked.",
+          "ID": "9"
+        },
+        {
+          "text": "",
+          "ID": "9"
+        },
+        {
+          "text": "He is unto me as a bear lying in wait, as a lion in secret places.",
+          "ID": "10"
+        },
+        {
+          "text": "",
+          "ID": "10"
+        },
+        {
+          "text": "He hath turned aside my ways, and pulled me in pieces; he hath made me desolate.",
+          "ID": "11"
+        },
+        {
+          "text": "",
+          "ID": "11"
+        },
+        {
+          "text": "He hath bent his bow, and set me as a mark for the arrow.",
+          "ID": "12"
+        },
+        {
+          "text": "",
+          "ID": "12"
+        },
+        {
+          "text": "He hath caused the shafts of his quiver to enter into my reins.",
+          "ID": "13"
+        },
+        {
+          "text": "",
+          "ID": "13"
+        },
+        {
+          "text": "I am become a derision to all my people, and their song all the day.",
+          "ID": "14"
+        },
+        {
+          "text": "",
+          "ID": "14"
+        },
+        {
+          "text": "He hath filled me with bitterness, he hath sated me with wormwood.",
+          "ID": "15"
+        },
+        {
+          "text": "",
+          "ID": "15"
+        },
+        {
+          "text": "He hath also broken my teeth with gravel stones; he hath covered me with ashes.",
+          "ID": "16"
+        },
+        {
+          "text": "",
+          "ID": "16"
+        },
+        {
+          "text": "And thou hast removed my soul far off from peace; I forgat prosperity.",
+          "ID": "17"
+        },
+        {
+          "text": "",
+          "ID": "17"
+        },
+        {
+          "text": "And I said, My strength is perished, and mine expectation from Jehovah.",
+          "ID": "18"
+        },
+        {
+          "text": "",
+          "ID": "18"
+        },
+        {
+          "text": "Remember mine affliction and my misery, the wormwood and the gall.",
+          "ID": "19"
+        },
+        {
+          "text": "",
+          "ID": "19"
+        },
+        {
+          "text": "My soul hath them still in remembrance, and is bowed down within me.",
+          "ID": "20"
+        },
+        {
+          "text": "",
+          "ID": "20"
+        },
+        {
+          "text": "This I recall to my mind; therefore have I hope.",
+          "ID": "21"
+        },
+        {
+          "text": "",
+          "ID": "21"
+        },
+        {
+          "text": "It is of Jehovah’s lovingkindnesses that we are not consumed, because his compassions fail not.",
+          "ID": "22"
+        },
+        {
+          "text": "",
+          "ID": "22"
+        },
+        {
+          "text": "They are new every morning; great is thy faithfulness.",
+          "ID": "23"
+        },
+        {
+          "text": "",
+          "ID": "23"
+        },
+        {
+          "text": "Jehovah is my portion, saith my soul; therefore will I hope in him.",
+          "ID": "24"
+        },
+        {
+          "text": "",
+          "ID": "24"
+        },
+        {
+          "text": "Jehovah is good unto them that wait for him, to the soul that seeketh him.",
+          "ID": "25"
+        },
+        {
+          "text": "",
+          "ID": "25"
+        },
+        {
+          "text": "It is good that a man should hope and quietly wait for the salvation of Jehovah.",
+          "ID": "26"
+        },
+        {
+          "text": "",
+          "ID": "26"
+        },
+        {
+          "text": "It is good for a man that he bear the yoke in his youth.",
+          "ID": "27"
+        },
+        {
+          "text": "",
+          "ID": "27"
+        },
+        {
+          "text": "Let him sit alone and keep silence, because he hath laid it upon him.",
+          "ID": "28"
+        },
+        {
+          "text": "",
+          "ID": "28"
+        },
+        {
+          "text": "Let him put his mouth in the dust, if so be there may be hope.",
+          "ID": "29"
+        },
+        {
+          "text": "",
+          "ID": "29"
+        },
+        {
+          "text": "Let him give his cheek to him that smiteth him; let him be filled full with reproach.",
+          "ID": "30"
+        },
+        {
+          "text": "",
+          "ID": "30"
+        },
+        {
+          "text": "For the Lord will not cast off for ever.",
+          "ID": "31"
+        },
+        {
+          "text": "",
+          "ID": "31"
+        },
+        {
+          "text": "For though he cause grief, yet will he have compassion according to the multitude of his lovingkindnesses.",
+          "ID": "32"
+        },
+        {
+          "text": "",
+          "ID": "32"
+        },
+        {
+          "text": "For he doth not afflict willingly, nor grieve the children of men.",
+          "ID": "33"
+        },
+        {
+          "text": "",
+          "ID": "33"
+        },
+        {
+          "text": "To crush under foot all the prisoners of the earth,",
+          "ID": "34"
+        },
+        {
+          "text": "",
+          "ID": "34"
+        },
+        {
+          "text": "To turn aside the right of a man before the face of the Most High,",
+          "ID": "35"
+        },
+        {
+          "text": "",
+          "ID": "35"
+        },
+        {
+          "text": "To subvert a man in his cause, the Lord approveth not.",
+          "ID": "36"
+        },
+        {
+          "text": "",
+          "ID": "36"
+        },
+        {
+          "text": "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?",
+          "ID": "37"
+        },
+        {
+          "text": "",
+          "ID": "37"
+        },
+        {
+          "text": "Out of the mouth of the Most High cometh there not evil and good?",
+          "ID": "38"
+        },
+        {
+          "text": "",
+          "ID": "38"
+        },
+        {
+          "text": "Wherefore doth a living man complain, a man for the punishment of his sins?",
+          "ID": "39"
+        },
+        {
+          "text": "",
+          "ID": "39"
+        },
+        {
+          "text": "Let us search and try our ways, and turn again to Jehovah.",
+          "ID": "40"
+        },
+        {
+          "text": "",
+          "ID": "40"
+        },
+        {
+          "text": "Let us lift up our heart with our hands unto God in the heavens.",
+          "ID": "41"
+        },
+        {
+          "text": "",
+          "ID": "41"
+        },
+        {
+          "text": "We have transgressed and have rebelled; thou hast not pardoned.",
+          "ID": "42"
+        },
+        {
+          "text": "",
+          "ID": "42"
+        },
+        {
+          "text": "Thou hast covered with anger and pursued us; thou hast slain, thou hast not pitied.",
+          "ID": "43"
+        },
+        {
+          "text": "",
+          "ID": "43"
+        },
+        {
+          "text": "Thou hast covered thyself with a cloud, so that no prayer can pass through.",
+          "ID": "44"
+        },
+        {
+          "text": "",
+          "ID": "44"
+        },
+        {
+          "text": "Thou hast made us an off-scouring and refuse in the midst of the peoples.",
+          "ID": "45"
+        },
+        {
+          "text": "",
+          "ID": "45"
+        },
+        {
+          "text": "All our enemies have opened their mouth wide against us.",
+          "ID": "46"
+        },
+        {
+          "text": "",
+          "ID": "46"
+        },
+        {
+          "text": "Fear and the pit are come upon us, devastation and destruction.",
+          "ID": "47"
+        },
+        {
+          "text": "",
+          "ID": "47"
+        },
+        {
+          "text": "Mine eye runneth down with streams of water, for the destruction of the daughter of my people.",
+          "ID": "48"
+        },
+        {
+          "text": "",
+          "ID": "48"
+        },
+        {
+          "text": "Mine eye poureth down, and ceaseth not, without any intermission,",
+          "ID": "49"
+        },
+        {
+          "text": "",
+          "ID": "49"
+        },
+        {
+          "text": "Till Jehovah look down, and behold from heaven.",
+          "ID": "50"
+        },
+        {
+          "text": "",
+          "ID": "50"
+        },
+        {
+          "text": "Mine eye affecteth my soul, because of all the daughters of my city.",
+          "ID": "51"
+        },
+        {
+          "text": "",
+          "ID": "51"
+        },
+        {
+          "text": "They have chased me sore like a bird, they that are mine enemies without cause.",
+          "ID": "52"
+        },
+        {
+          "text": "",
+          "ID": "52"
+        },
+        {
+          "text": "They have cut off my life in the dungeon, and have cast a stone upon me.",
+          "ID": "53"
+        },
+        {
+          "text": "",
+          "ID": "53"
+        },
+        {
+          "text": "Waters flowed over my head; I said, I am cut off.",
+          "ID": "54"
+        },
+        {
+          "text": "",
+          "ID": "54"
+        },
+        {
+          "text": "I called upon thy name, O Jehovah, out of the lowest dungeon.",
+          "ID": "55"
+        },
+        {
+          "text": "",
+          "ID": "55"
+        },
+        {
+          "text": "Thou heardest my voice; hide not thine ear at my breathing, at my cry.",
+          "ID": "56"
+        },
+        {
+          "text": "",
+          "ID": "56"
+        },
+        {
+          "text": "Thou drewest near in the day that I called upon thee; thou saidst, Fear not.",
+          "ID": "57"
+        },
+        {
+          "text": "",
+          "ID": "57"
+        },
+        {
+          "text": "O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
+          "ID": "58"
+        },
+        {
+          "text": "",
+          "ID": "58"
+        },
+        {
+          "text": "O Jehovah, thou hast seen my wrong; judge thou my cause.",
+          "ID": "59"
+        },
+        {
+          "text": "",
+          "ID": "59"
+        },
+        {
+          "text": "Thou hast seen all their vengeance and all their devices against me.",
+          "ID": "60"
+        },
+        {
+          "text": "",
+          "ID": "60"
+        },
+        {
+          "text": "Thou hast heard their reproach, O Jehovah, and all their devices against me,",
+          "ID": "61"
+        },
+        {
+          "text": "",
+          "ID": "61"
+        },
+        {
+          "text": "The lips of those that rose up against me, and their device against me all the day.",
+          "ID": "62"
+        },
+        {
+          "text": "",
+          "ID": "62"
+        },
+        {
+          "text": "Behold thou their sitting down, and their rising up; I am their song.",
+          "ID": "63"
+        },
+        {
+          "text": "",
+          "ID": "63"
+        },
+        {
+          "text": "Thou wilt render unto them a recompense, O Jehovah, according to the work of their hands.",
+          "ID": "64"
+        },
+        {
+          "text": "",
+          "ID": "64"
+        },
+        {
+          "text": "Thou wilt give them hardness of heart, thy curse unto them.",
+          "ID": "65"
+        },
+        {
+          "text": "",
+          "ID": "65"
+        },
+        {
+          "text": "Thou wilt pursue them in anger, and destroy them from under the heavens of Jehovah.",
+          "ID": "66"
+        }
+      ],
+      "ID": "OT:LAM.3"
+    },
+    {
+      "name": "The Lamentations of Jeremiah 4",
+      "text": [
+        {
+          "text": "How is the gold become dim! how is the most pure gold changed!",
+          "ID": "1"
+        },
+        {
+          "text": "The stones of the sanctuary are poured out at the head of every street.",
+          "ID": "1"
+        },
+        {
+          "text": "",
+          "ID": "1"
+        },
+        {
+          "text": "The precious sons of Zion, comparable to fine gold,",
+          "ID": "2"
+        },
+        {
+          "text": "How are they esteemed as earthen pitchers, the work of the hands of the potter!",
+          "ID": "2"
+        },
+        {
+          "text": "",
+          "ID": "2"
+        },
+        {
+          "text": "Even the jackals draw out the breast, they give suck to their young ones:",
+          "ID": "3"
+        },
+        {
+          "text": "The daughter of my people is become cruel, like the ostriches in the wilderness.",
+          "ID": "3"
+        },
+        {
+          "text": "",
+          "ID": "3"
+        },
+        {
+          "text": "The tongue of the sucking child cleaveth to the roof of his mouth for thirst:",
+          "ID": "4"
+        },
+        {
+          "text": "The young children ask bread, and no man breaketh it unto them.",
+          "ID": "4"
+        },
+        {
+          "text": "",
+          "ID": "4"
+        },
+        {
+          "text": "They that did feed delicately are desolate in the streets:",
+          "ID": "5"
+        },
+        {
+          "text": "They that were brought up in scarlet embrace dunghills.",
+          "ID": "5"
+        },
+        {
+          "text": "",
+          "ID": "5"
+        },
+        {
+          "text": "For the iniquity of the daughter of my people is greater than the sin of Sodom,",
+          "ID": "6"
+        },
+        {
+          "text": "That was overthrown as in a moment, and no hands were laid upon her.",
+          "ID": "6"
+        },
+        {
+          "text": "",
+          "ID": "6"
+        },
+        {
+          "text": "Her nobles were purer than snow, they were whiter than milk;",
+          "ID": "7"
+        },
+        {
+          "text": "They were more ruddy in body than rubies, their polishing was as of sapphire.",
+          "ID": "7"
+        },
+        {
+          "text": "",
+          "ID": "7"
+        },
+        {
+          "text": "Their visage is blacker than a coal; they are not known in the streets:",
+          "ID": "8"
+        },
+        {
+          "text": "Their skin cleaveth to their bones; it is withered, it is become like a stick.",
+          "ID": "8"
+        },
+        {
+          "text": "",
+          "ID": "8"
+        },
+        {
+          "text": "They that are slain with the sword are better than they that are slain with hunger;",
+          "ID": "9"
+        },
+        {
+          "text": "For these pine away, stricken through, for want of the fruits of the field.",
+          "ID": "9"
+        },
+        {
+          "text": "",
+          "ID": "9"
+        },
+        {
+          "text": "The hands of the pitiful women have boiled their own children;",
+          "ID": "10"
+        },
+        {
+          "text": "They were their food in the destruction of the daughter of my people.",
+          "ID": "10"
+        },
+        {
+          "text": "",
+          "ID": "10"
+        },
+        {
+          "text": "Jehovah hath accomplished his wrath, he hath poured out his fierce anger;",
+          "ID": "11"
+        },
+        {
+          "text": "And he hath kindled a fire in Zion, which hath devoured the foundations thereof.",
+          "ID": "11"
+        },
+        {
+          "text": "",
+          "ID": "11"
+        },
+        {
+          "text": "The kings of the earth believed not, neither all the inhabitants of the world,",
+          "ID": "12"
+        },
+        {
+          "text": "That the adversary and the enemy would enter into the gates of Jerusalem.",
+          "ID": "12"
+        },
+        {
+          "text": "",
+          "ID": "12"
+        },
+        {
+          "text": "It is because of the sins of her prophets, and  the iniquities of her priests,",
+          "ID": "13"
+        },
+        {
+          "text": "That have shed the blood of the just in the midst of her.",
+          "ID": "13"
+        },
+        {
+          "text": "",
+          "ID": "13"
+        },
+        {
+          "text": "They wander as blind men in the streets, they are polluted with blood,",
+          "ID": "14"
+        },
+        {
+          "text": "So that men cannot touch their garments.",
+          "ID": "14"
+        },
+        {
+          "text": "",
+          "ID": "14"
+        },
+        {
+          "text": "Depart ye, they cried unto them, Unclean! depart, depart, touch not!",
+          "ID": "15"
+        },
+        {
+          "text": "When they fled away and wandered, men said among the nations, They shall no more sojourn here.",
+          "ID": "15"
+        },
+        {
+          "text": "",
+          "ID": "15"
+        },
+        {
+          "text": "The anger of Jehovah hath scattered them; he will no more regard them:",
+          "ID": "16"
+        },
+        {
+          "text": "They respected not the persons of the priests, they favored not the elders.",
+          "ID": "16"
+        },
+        {
+          "text": "",
+          "ID": "16"
+        },
+        {
+          "text": "Our eyes do yet fail in looking for our vain help:",
+          "ID": "17"
+        },
+        {
+          "text": "In our watching we have watched for a nation that could not save.",
+          "ID": "17"
+        },
+        {
+          "text": "",
+          "ID": "17"
+        },
+        {
+          "text": "They hunt our steps, so that we cannot go in our streets:",
+          "ID": "18"
+        },
+        {
+          "text": "Our end is near, our days are fulfilled; for our end is come.",
+          "ID": "18"
+        },
+        {
+          "text": "",
+          "ID": "18"
+        },
+        {
+          "text": "Our pursuers were swifter than the eagles of the heavens:",
+          "ID": "19"
+        },
+        {
+          "text": "They chased us upon the mountains, they laid wait for us in the wilderness.",
+          "ID": "19"
+        },
+        {
+          "text": "",
+          "ID": "19"
+        },
+        {
+          "text": "The breath of our nostrils, the anointed of Jehovah, was taken in their pits;",
+          "ID": "20"
+        },
+        {
+          "text": "Of whom we said, Under his shadow we shall live among the nations.",
+          "ID": "20"
+        },
+        {
+          "text": "",
+          "ID": "20"
+        },
+        {
+          "text": "Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz:",
+          "ID": "21"
+        },
+        {
+          "text": "The cup shall pass through unto thee also; thou shalt be drunken, and shalt make thyself naked.",
+          "ID": "21"
+        },
+        {
+          "text": "",
+          "ID": "21"
+        },
+        {
+          "text": "The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity:",
+          "ID": "22"
+        },
+        {
+          "text": "He will visit thine iniquity, O daughter of Edom; he will uncover thy sins.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.4"
+    },
+    {
+      "name": "The Lamentations of Jeremiah 5",
+      "text": [
+        {
+          "text": "Remember, O Jehovah, what is come upon us:",
+          "ID": "1"
+        },
+        {
+          "text": "Behold, and see our reproach.",
+          "ID": "1"
+        },
+        {
+          "text": "",
+          "ID": "1"
+        },
+        {
+          "text": "Our inheritance is turned unto strangers,",
+          "ID": "2"
+        },
+        {
+          "text": "Our houses unto aliens.",
+          "ID": "2"
+        },
+        {
+          "text": "",
+          "ID": "2"
+        },
+        {
+          "text": "We are orphans and fatherless;",
+          "ID": "3"
+        },
+        {
+          "text": "Our mothers are as widows.",
+          "ID": "3"
+        },
+        {
+          "text": "",
+          "ID": "3"
+        },
+        {
+          "text": "We have drunken our water for money;",
+          "ID": "4"
+        },
+        {
+          "text": "Our wood is sold unto us.",
+          "ID": "4"
+        },
+        {
+          "text": "",
+          "ID": "4"
+        },
+        {
+          "text": "Our pursuers are upon our necks:",
+          "ID": "5"
+        },
+        {
+          "text": "We are weary, and have no rest.",
+          "ID": "5"
+        },
+        {
+          "text": "",
+          "ID": "5"
+        },
+        {
+          "text": "We have given the hand to the Egyptians,",
+          "ID": "6"
+        },
+        {
+          "text": "And to the Assyrians, to be satisfied with bread.",
+          "ID": "6"
+        },
+        {
+          "text": "",
+          "ID": "6"
+        },
+        {
+          "text": "Our fathers sinned, and are not;",
+          "ID": "7"
+        },
+        {
+          "text": "And we have borne their iniquities.",
+          "ID": "7"
+        },
+        {
+          "text": "",
+          "ID": "7"
+        },
+        {
+          "text": "Servants rule over us:",
+          "ID": "8"
+        },
+        {
+          "text": "There is none to deliver us out of their hand.",
+          "ID": "8"
+        },
+        {
+          "text": "",
+          "ID": "8"
+        },
+        {
+          "text": "We get our bread at the peril of our lives,",
+          "ID": "9"
+        },
+        {
+          "text": "Because of the sword of the wilderness.",
+          "ID": "9"
+        },
+        {
+          "text": "",
+          "ID": "9"
+        },
+        {
+          "text": "Our skin is black like an oven,",
+          "ID": "10"
+        },
+        {
+          "text": "Because of the burning heat of famine.",
+          "ID": "10"
+        },
+        {
+          "text": "",
+          "ID": "10"
+        },
+        {
+          "text": "They ravished the women in Zion,",
+          "ID": "11"
+        },
+        {
+          "text": "The virgins in the cities of Judah.",
+          "ID": "11"
+        },
+        {
+          "text": "",
+          "ID": "11"
+        },
+        {
+          "text": "Princes were hanged up by their hand:",
+          "ID": "12"
+        },
+        {
+          "text": "The faces of elders were not honored.",
+          "ID": "12"
+        },
+        {
+          "text": "",
+          "ID": "12"
+        },
+        {
+          "text": "The young men bare the mill;",
+          "ID": "13"
+        },
+        {
+          "text": "And the children stumbled under the wood.",
+          "ID": "13"
+        },
+        {
+          "text": "",
+          "ID": "13"
+        },
+        {
+          "text": "The elders have ceased from the gate,",
+          "ID": "14"
+        },
+        {
+          "text": "The young men from their music.",
+          "ID": "14"
+        },
+        {
+          "text": "",
+          "ID": "14"
+        },
+        {
+          "text": "The joy of our heart is ceased;",
+          "ID": "15"
+        },
+        {
+          "text": "Our dance is turned into mourning.",
+          "ID": "15"
+        },
+        {
+          "text": "",
+          "ID": "15"
+        },
+        {
+          "text": "The crown is fallen from our head:",
+          "ID": "16"
+        },
+        {
+          "text": "Woe unto us! for we have sinned.",
+          "ID": "16"
+        },
+        {
+          "text": "",
+          "ID": "16"
+        },
+        {
+          "text": "For this our heart is faint;",
+          "ID": "17"
+        },
+        {
+          "text": "For these things our eyes are dim;",
+          "ID": "17"
+        },
+        {
+          "text": "",
+          "ID": "17"
+        },
+        {
+          "text": "For the mountain of Zion, which is desolate:",
+          "ID": "18"
+        },
+        {
+          "text": "The foxes walk upon it.",
+          "ID": "18"
+        },
+        {
+          "text": "",
+          "ID": "18"
+        },
+        {
+          "text": "Thou, O Jehovah, abidest for ever;",
+          "ID": "19"
+        },
+        {
+          "text": "Thy throne is from generation to generation.",
+          "ID": "19"
+        },
+        {
+          "text": "",
+          "ID": "19"
+        },
+        {
+          "text": "Wherefore dost thou forget us for ever,",
+          "ID": "20"
+        },
+        {
+          "text": "And forsake us so long time?",
+          "ID": "20"
+        },
+        {
+          "text": "",
+          "ID": "20"
+        },
+        {
+          "text": "Turn thou us unto thee, O Jehovah, and we shall be turned;",
+          "ID": "21"
+        },
+        {
+          "text": "Renew our days as of old.",
+          "ID": "21"
+        },
+        {
+          "text": "",
+          "ID": "21"
+        },
+        {
+          "text": "But thou hast utterly rejected us;",
+          "ID": "22"
+        },
+        {
+          "text": "Thou art very wroth against us.",
+          "ID": "22"
+        }
+      ],
+      "ID": "OT:LAM.5"
+    }
+  ],
+  "version": "ASV",
+  "ID": "OT:LAM(ASV)"
+}
