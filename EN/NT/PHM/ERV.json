@@ -1,0 +1,120 @@
+{
+  "version": "ERV",
+  "text": [
+    {
+      "title": "Final Greetings",
+      "text": [
+        {
+          "text": "Greetings from Paul, a prisoner for Jesus Christ, and from Timothy, our brother.\nTo Philemon, our dear friend and worker with us.",
+          "ID": "1"
+        },
+        {
+          "text": "Also to our sister Apphia, to Archippus, who serves with us in the Lord’s army, and to the church that meets in your home.",
+          "ID": "2"
+        },
+        {
+          "text": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+          "ID": "3"
+        },
+        {
+          "text": "I remember you in my prayers. And I always thank my God for you.",
+          "ID": "4"
+        },
+        {
+          "text": "I thank God because I hear about the love you have for all of God’s holy people and the faith you have in the Lord Jesus.",
+          "ID": "5"
+        },
+        {
+          "text": "I pray that the faith you share will make you understand every blessing we have in Christ.",
+          "ID": "6"
+        },
+        {
+          "text": "My brother, you have shown love to God’s people, and your help has greatly encouraged them. What a great joy and encouragement that has been to me.",
+          "ID": "7"
+        },
+        {
+          "text": "There is something that you should do. And because of the authority I have in Christ, I feel free to command you to do it.",
+          "ID": "8"
+        },
+        {
+          "text": "But I am not commanding you; I am asking you to do it out of love. I, Paul, am an old man now, and I am a prisoner for Christ Jesus.",
+          "ID": "9"
+        },
+        {
+          "text": "I am asking you for my son Onesimus. He became my son while I was in prison.",
+          "ID": "10"
+        },
+        {
+          "text": "In the past he was useless to you. But now he has become useful for both you and me.",
+          "ID": "11",
+          "comments": [
+            "useless … useful Paul here makes a play on words with the name Onesimus, which means “useful.”"
+          ]
+        },
+        {
+          "text": "I am sending him back to you, but it’s as hard as losing part of myself.",
+          "ID": "12"
+        },
+        {
+          "text": "I would like to keep him here to help me while I am still in prison for telling the Good News. By helping me here, he would be representing you.",
+          "ID": "13"
+        },
+        {
+          "text": "But I did not want to do anything without asking you first. Then whatever you do for me will be what you want to do, not what I forced you to do.",
+          "ID": "14"
+        },
+        {
+          "text": "Onesimus was separated from you for a short time. Maybe that happened so that you could have him back forever,",
+          "ID": "15"
+        },
+        {
+          "text": "not to be just a slave, but better than a slave, to be a dear brother. That’s what he is to me. And I know he will mean even more to you, both as your slave and as one who shares your faith in the Lord.",
+          "ID": "16"
+        },
+        {
+          "text": "If you accept me as your friend, then accept Onesimus back. Welcome him like you would welcome me.",
+          "ID": "17"
+        },
+        {
+          "text": "If he has done any wrong to you or owes you anything, charge that to me.",
+          "ID": "18"
+        },
+        {
+          "text": "I, Paul, am writing this in my own handwriting: I will pay back anything Onesimus owes. And I will say nothing about what you owe me for your own life.",
+          "ID": "19"
+        },
+        {
+          "text": "So, my brother, as a follower of the Lord please do this favor for me. It would be such a great encouragement to me as your brother in Christ.",
+          "ID": "20",
+          "comments": [
+            "please do this favor Paul here makes another wordplay on the name Onesimus, using a verb related to it."
+          ]
+        },
+        {
+          "text": "I write this letter knowing that you will do what I ask, and even more than I ask.",
+          "ID": "21"
+        },
+        {
+          "text": "Also, please prepare a room for me. I hope that God will answer your prayers and that I will be able to come and see you.",
+          "ID": "22"
+        },
+        {
+          "text": "Epaphras is a prisoner with me for Christ Jesus. He sends you his greetings.",
+          "ID": "23"
+        },
+        {
+          "text": "Also Mark, Aristarchus, Demas, and Luke send their greetings. They are workers together with me.",
+          "ID": "24"
+        },
+        {
+          "text": "The grace of our Lord Jesus Christ be with your spirit.",
+          "ID": "25"
+        }
+      ],
+      "ID": "NT:PHM.1",
+      "name": "Philemon 1"
+    }
+  ],
+  "ID": "NT:PHM(ERV)",
+  "name": "Philemon"
+}

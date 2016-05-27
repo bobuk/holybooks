@@ -1,0 +1,3949 @@
+{
+  "name": "1 Chronicles",
+  "text": [
+    {
+      "name": "1 Chronicles 1",
+      "text": [
+        {
+          "text": "ADAM [his genealogical line], Seth, Enosh,",
+          "ID": "1"
+        },
+        {
+          "text": "Kenan, Mahalalel, Jared,",
+          "ID": "2"
+        },
+        {
+          "text": "Enoch, Methuselah, Lamech,",
+          "ID": "3"
+        },
+        {
+          "text": "Noah, Shem, Ham, and Japheth.",
+          "ID": "4"
+        },
+        {
+          "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+          "ID": "5"
+        },
+        {
+          "text": "The sons of Gomer: Ashkenaz, Diphath, and Togarmah.",
+          "ID": "6"
+        },
+        {
+          "text": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.",
+          "ID": "7"
+        },
+        {
+          "text": "The sons of Ham: Cush, Mizraim (Egypt), Put, and Canaan.",
+          "ID": "8"
+        },
+        {
+          "text": "The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
+          "ID": "9"
+        },
+        {
+          "text": "Cush was the father of Nimrod; he began to be a mighty one upon the earth.",
+          "ID": "10"
+        },
+        {
+          "text": "Mizraim (Egypt) was the father of the Ludim, Anamim, Lehabim, Naphtuhim,",
+          "ID": "11"
+        },
+        {
+          "text": "Pathrusim, Casluhim, from whom came the Philistines, and the Caphtorim.",
+          "ID": "12"
+        },
+        {
+          "text": "Canaan was the father of Sidon his firstborn, and Heth,",
+          "ID": "13"
+        },
+        {
+          "text": "The Jebusites, Amorites, Girgashites,",
+          "ID": "14"
+        },
+        {
+          "text": "Hivites, Arkites, Sinites,",
+          "ID": "15"
+        },
+        {
+          "text": "Arvadites, Zemarites, and Hamathites.",
+          "ID": "16"
+        },
+        {
+          "text": "The sons of Shem: Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech.",
+          "ID": "17"
+        },
+        {
+          "text": "Arpachshad was the father of Shelah, Shelah of Eber.",
+          "ID": "18"
+        },
+        {
+          "text": "To Eber were born two sons: the name of the one was Peleg, because in his days [the population of] the earth was divided [according to its languages], and his brother's name was Joktan.",
+          "ID": "19"
+        },
+        {
+          "text": "Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
+          "ID": "20"
+        },
+        {
+          "text": "Hadoram, Uzal, Diklah,",
+          "ID": "21"
+        },
+        {
+          "text": "Ebal, Abimael, Sheba,",
+          "ID": "22"
+        },
+        {
+          "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan.",
+          "ID": "23"
+        },
+        {
+          "text": "Shem, Arpachshad, Shelah,",
+          "ID": "24"
+        },
+        {
+          "text": "Eber, Peleg, Reu,",
+          "ID": "25"
+        },
+        {
+          "text": "Serug, Nahor, Terah,",
+          "ID": "26"
+        },
+        {
+          "text": "Abram, the same as Abraham.",
+          "ID": "27"
+        },
+        {
+          "text": "The sons of Abraham: Isaac and Ishmael.",
+          "ID": "28"
+        },
+        {
+          "text": "These are their descendants: The firstborn of Ishmael, Nebaioth; Kedar, Adbeel, Mibsam,",
+          "ID": "29"
+        },
+        {
+          "text": "Mishma, Dumah, Massa, Hadad, Tema,",
+          "ID": "30"
+        },
+        {
+          "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.",
+          "ID": "31"
+        },
+        {
+          "text": "Now the sons of Keturah, Abraham's concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.",
+          "ID": "32"
+        },
+        {
+          "text": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these are the sons [and grandsons] of Keturah.",
+          "ID": "33"
+        },
+        {
+          "text": "Abraham was the father of Isaac. The sons of Isaac: Esau and Israel.",
+          "ID": "34"
+        },
+        {
+          "text": "The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.",
+          "ID": "35"
+        },
+        {
+          "text": "The sons of Eliphaz: Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek.",
+          "ID": "36"
+        },
+        {
+          "text": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
+          "ID": "37"
+        },
+        {
+          "text": "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.",
+          "ID": "38"
+        },
+        {
+          "text": "The sons of Lotan: Hori and Homam; and Timna was Lotan's sister.",
+          "ID": "39"
+        },
+        {
+          "text": "The sons of Shobal: Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon: Aiah and Anah.",
+          "ID": "40"
+        },
+        {
+          "text": "The son of Anah: Dishon. The sons of Dishon: Hamran, Eshban, Ithran, and Cheran.",
+          "ID": "41"
+        },
+        {
+          "text": "The sons of Ezer: Bilhan, Zaavan, [and] Jaakan. The sons of Dishan: Uz and Aran.",
+          "ID": "42"
+        },
+        {
+          "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela son of Beor; the name of his city was Dinhabah.",
+          "ID": "43"
+        },
+        {
+          "text": "When Bela died, Jobab son of Zerah of Bozrah reigned in his stead.",
+          "ID": "44"
+        },
+        {
+          "text": "When Jobab died, Husham of the land of the Temanites reigned in his stead.",
+          "ID": "45"
+        },
+        {
+          "text": "When Husham died, Hadad [I of Edom] son of Bedad, who defeated Midian in the field of Moab, reigned in his stead; his city was Avith.",
+          "ID": "46"
+        },
+        {
+          "text": "When Hadad [I] died, Samlah of Masrekah reigned in his stead.",
+          "ID": "47"
+        },
+        {
+          "text": "When Samlah died, Shaul of Rehoboth on the River [Euphrates] reigned in his stead.",
+          "ID": "48"
+        },
+        {
+          "text": "When Shaul died, Baal-hanan son of Achbor reigned in his stead.",
+          "ID": "49"
+        },
+        {
+          "text": "When Baal-hanan died, Hadad [II] reigned in his stead; his city was Pai; his wife was Mehetabel daughter of Matred, the daughter of Mezahab.",
+          "ID": "50"
+        },
+        {
+          "text": "Hadad died also. The chiefs of Edom were: chiefs Timna, Aliah, Jetheth,",
+          "ID": "51"
+        },
+        {
+          "text": "Oholibamah, Elah, Pinon,",
+          "ID": "52"
+        },
+        {
+          "text": "Kenaz, Teman, Mibzar,",
+          "ID": "53"
+        },
+        {
+          "text": "Magdiel, and Iram. These are the chiefs of Edom.",
+          "ID": "54"
+        }
+      ],
+      "ID": "OT:1CH.1"
+    },
+    {
+      "name": "1 Chronicles 2",
+      "text": [
+        {
+          "text": "THESE ARE the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,",
+          "ID": "1"
+        },
+        {
+          "text": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.",
+          "ID": "2"
+        },
+        {
+          "text": "The sons of Judah: Er, Onan, and Shelah, whom Shua's daughter the Canaanitess bore him. Er, Judah's eldest, was evil in the Lord's sight, and He slew him.",
+          "ID": "3"
+        },
+        {
+          "text": "Tamar, Judah's daughter-in-law, bore him Pharez and Zerah. All Judah's sons were five.",
+          "ID": "4"
+        },
+        {
+          "text": "The sons of Pharez: Hezron and Hamul.",
+          "ID": "5"
+        },
+        {
+          "text": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara–five in all. [I Kings 4:31.]",
+          "ID": "6"
+        },
+        {
+          "text": "The son of Carmi: Achar, the troubler of Israel, who transgressed in the matter of the devoted things. [Josh. 7:1.]",
+          "ID": "7"
+        },
+        {
+          "text": "The son of Ethan: Azariah.",
+          "ID": "8"
+        },
+        {
+          "text": "The sons of Hezron who were born to him: Jerahmeel, Ram, and Chelubai (that is, Caleb).",
+          "ID": "9"
+        },
+        {
+          "text": "Ram was the father of Amminadab, and Amminadab of Nahshon, prince of the sons of Judah.",
+          "ID": "10"
+        },
+        {
+          "text": "Nahshon was the father of Salma, Salma of Boaz,",
+          "ID": "11"
+        },
+        {
+          "text": "Boaz of Obed, and Obed of Jesse.",
+          "ID": "12"
+        },
+        {
+          "text": "Jesse was the father of Eliab his firstborn, Abinadab second, Shimea third,",
+          "ID": "13"
+        },
+        {
+          "text": "Nethanel fourth, Raddai fifth,",
+          "ID": "14"
+        },
+        {
+          "text": "Ozem sixth, David seventh.",
+          "ID": "15"
+        },
+        {
+          "text": "Their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three.",
+          "ID": "16"
+        },
+        {
+          "text": "Abigail bore Amasa, and the father of Amasa was Jether the Ishmaelite.",
+          "ID": "17"
+        },
+        {
+          "text": "And Caleb son of Hezron had sons by his wife Azubah and by Jerioth. [Azubah's] sons were: Jesher, Shobab, and Ardon.",
+          "ID": "18"
+        },
+        {
+          "text": "Azubah died, and Caleb married Ephrath, who bore him Hur.",
+          "ID": "19"
+        },
+        {
+          "text": "Hur was the father of Uri, and Uri of Bezalel [the skillful craftsman who made the furnishings of the tabernacle]. [Exod. 31:2-5.]",
+          "ID": "20"
+        },
+        {
+          "text": "Later, when Hezron was sixty years old, he married the daughter of Machir the father of Gilead, and she bore him Segub.",
+          "ID": "21"
+        },
+        {
+          "text": "Segub was the father of Jair, who had twenty-three cities in the land of Gilead.",
+          "ID": "22"
+        },
+        {
+          "text": "But Geshur and Aram took from them Havvoth-jair, with Kenath and its villages, sixty towns. All these were the descendants of Machir the father of Gilead.",
+          "ID": "23"
+        },
+        {
+          "text": "After Hezron died in Caleb-ephrathah, Abiah, Hezron's wife, bore to him Ashhur the father of Tekoa.",
+          "ID": "24"
+        },
+        {
+          "text": "The sons of Jerahmeel the firstborn of Hezron: Ram the firstborn, Bunah, Oren, Ozem, and Ahijah.",
+          "ID": "25"
+        },
+        {
+          "text": "Jerahmeel had another wife, named Atarah; she was the mother of Onam.",
+          "ID": "26"
+        },
+        {
+          "text": "The sons of Ram the firstborn of Jerahmeel were: Maaz, Jamin, and Eker.",
+          "ID": "27"
+        },
+        {
+          "text": "The sons of Onam: Shammai and Jada. The sons of Shammai: Nadab and Abishur.",
+          "ID": "28"
+        },
+        {
+          "text": "Abishur's wife was Abihail; she bore him Ahban and Molid.",
+          "ID": "29"
+        },
+        {
+          "text": "The sons of Nadab: Seled and Appaim. Seled died childless.",
+          "ID": "30"
+        },
+        {
+          "text": "The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai.",
+          "ID": "31"
+        },
+        {
+          "text": "The sons of Jada the brother of Shammai: Jether and Jonathan. Jether died childless.",
+          "ID": "32"
+        },
+        {
+          "text": "The sons of Jonathan: Peleth and Zaza. These were the descendants of Jerahmeel.",
+          "ID": "33"
+        },
+        {
+          "text": "Sheshan had no sons–only daughters. But Sheshan had a servant, an Egyptian, whose name was Jarha.",
+          "ID": "34"
+        },
+        {
+          "text": "Sheshan gave his daughter to Jarha his servant as wife; she bore him Attai.",
+          "ID": "35"
+        },
+        {
+          "text": "Attai was the father of Nathan, and Nathan of Zabad.",
+          "ID": "36"
+        },
+        {
+          "text": "Zabad was the father of Ephlal, and Ephlal of Obed.",
+          "ID": "37"
+        },
+        {
+          "text": "Obed was the father of Jehu, and Jehu of Azariah.",
+          "ID": "38"
+        },
+        {
+          "text": "Azariah was the father of Helez, and Helez of Eleasah.",
+          "ID": "39"
+        },
+        {
+          "text": "Eleasah was the father of Sismai, and Sismai of Shallum.",
+          "ID": "40"
+        },
+        {
+          "text": "Shallum was the father of Jekamiah, and Jekamiah of Elishama.",
+          "ID": "41"
+        },
+        {
+          "text": "The sons of Caleb the brother of Jerahmeel: Mesha his firstborn was the father of Ziph; and his son Mareshah [he was] the father of Hebron.",
+          "ID": "42"
+        },
+        {
+          "text": "The sons of Hebron: Korah, Tappuah, Rekem, and Shema.",
+          "ID": "43"
+        },
+        {
+          "text": "Shema was the father of Raham, the father of Jorkeam. And Rekem was the father of Shammai.",
+          "ID": "44"
+        },
+        {
+          "text": "The son of Shammai was Maon; Maon's son was Beth-zur.",
+          "ID": "45"
+        },
+        {
+          "text": "Ephah, Caleb's concubine, bore Haran, Moza, and Gazez; Haran was the father of Gazez.",
+          "ID": "46"
+        },
+        {
+          "text": "The sons of Jahdai: Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph.",
+          "ID": "47"
+        },
+        {
+          "text": "Maacah, Caleb's concubine, bore Sheber and Tirhanah, and also",
+          "ID": "48"
+        },
+        {
+          "text": "Shaaph the father of Madmannah and Sheva the father of Machbenah and of Gibea; and the daughter of Caleb was Achsah.",
+          "ID": "49"
+        },
+        {
+          "text": "These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah: Shobal the father of Kiriath-jearim,",
+          "ID": "50"
+        },
+        {
+          "text": "Salma the father of Bethlehem, and Hareph the father of Beth-gader.",
+          "ID": "51"
+        },
+        {
+          "text": "Shobal the father of Kiriath-jearim had [other] descendants: Haroeh, half [of the inhabitants] of Menuhoth [in Judah],",
+          "ID": "52"
+        },
+        {
+          "text": "And the families of Kiriath-jearim: the Ithrites, Puthites, Shumathites, and Mishraites. From these came the Zorathites and the Eshtaolites.",
+          "ID": "53"
+        },
+        {
+          "text": "The descendants of Salma: Bethlehem, the Netophathites, Atroth-beth-joab, and half of the Manahathites, [and] the Zorites,",
+          "ID": "54"
+        },
+        {
+          "text": "And the families of scribes who dwelt at Jabez: the Tirathites, Shimeathites, and Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.",
+          "ID": "55"
+        }
+      ],
+      "ID": "OT:1CH.2"
+    },
+    {
+      "name": "1 Chronicles 3",
+      "text": [
+        {
+          "text": "THESE SONS of David were born to him in Hebron: the firstborn was Amnon, of Ahinoam the Jezreelitess; second, Daniel (Chileab), of Abigail the Carmelitess;",
+          "ID": "1"
+        },
+        {
+          "text": "Third, Absalom the son of Maacah daughter of Talmai king of Geshur; fourth, Adonijah, of Haggith;",
+          "ID": "2"
+        },
+        {
+          "text": "Fifth, Shephatiah, of Abital; sixth, Ithream, of his wife Eglah.",
+          "ID": "3"
+        },
+        {
+          "text": "These six were born to David in Hebron; there he reigned seven years and six months, and in Jerusalem he reigned thirty-three years.",
+          "ID": "4"
+        },
+        {
+          "text": "These were born to [David] in Jerusalem: Shimea, Shobab, Nathan, Solomon–four of Bathshua (Bathsheba) daughter of Ammiel (Eliam);",
+          "ID": "5"
+        },
+        {
+          "text": "Then Ibhar, Elishama, Eliphelet,",
+          "ID": "6"
+        },
+        {
+          "text": "Nogah, Nepheg, Japhia,",
+          "ID": "7"
+        },
+        {
+          "text": "Elishama, Eliada, and Eliphelet–nine in all.",
+          "ID": "8"
+        },
+        {
+          "text": "These were all the sons of David, besides the sons of the concubines. And Tamar was their sister.",
+          "ID": "9"
+        },
+        {
+          "text": "Solomon's descendants [omitting nonreigning offspring] were: his son Rehoboam. Abijah was his son, Asa his son, Jehoshaphat his son,",
+          "ID": "10"
+        },
+        {
+          "text": "Jehoram (Joram) his son, Ahaziah his son, Joash his son,",
+          "ID": "11"
+        },
+        {
+          "text": "Amaziah his son, Azariah his son, Jotham his son,",
+          "ID": "12"
+        },
+        {
+          "text": "Ahaz his son, Hezekiah his son, Manasseh his son,",
+          "ID": "13"
+        },
+        {
+          "text": "Amon his son, Josiah his son.",
+          "ID": "14"
+        },
+        {
+          "text": "The descendants of Josiah: firstborn, Johanan; second, Jehoiakim; third, Zedekiah; fourth, Shallum.",
+          "ID": "15"
+        },
+        {
+          "text": "The descendants of Jehoiakim: Jehoiachin (Jeconiah) his son, Zedekiah his son.",
+          "ID": "16"
+        },
+        {
+          "text": "The descendants of Jehoiachin the captive: Shealtiel his son,",
+          "ID": "17"
+        },
+        {
+          "text": "Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.",
+          "ID": "18"
+        },
+        {
+          "text": "The sons of Pedaiah: Zerubbabel and Shimei. The sons of Zerubbabel: Meshullam, Hananiah. And Shelomith was their sister;",
+          "ID": "19"
+        },
+        {
+          "text": "And Hashubah, Ohel, Berechiah, Hasadiah, [and] Jushab-hesed–five [the sons of Meshullam?].",
+          "ID": "20"
+        },
+        {
+          "text": "The sons of Hananiah: Pelatiah and Jeshaiah, whose son was Rephaiah, his son Arnan, his son Obadiah, his son Shecaniah.",
+          "ID": "21"
+        },
+        {
+          "text": "The son of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat–six in all.",
+          "ID": "22"
+        },
+        {
+          "text": "The sons of Neariah: Elioenai, Hizkiah, and Azrikam–three in all.",
+          "ID": "23"
+        },
+        {
+          "text": "The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani–seven in all.",
+          "ID": "24"
+        }
+      ],
+      "ID": "OT:1CH.3"
+    },
+    {
+      "name": "1 Chronicles 4",
+      "text": [
+        {
+          "text": "THE SONS of Judah: Perez, Hezron, Carmi, Hur, and Shobal.",
+          "ID": "1"
+        },
+        {
+          "text": "Reaiah son of Shobal was the father of Jahath, and Jahath of Ahumai and Lahad. These were the families of the Zorathites.",
+          "ID": "2"
+        },
+        {
+          "text": "These were the sons of [Hur] the father of Etam: Jezreel, Ishma, and Idbash. And their sister was Hazzelelponi.",
+          "ID": "3"
+        },
+        {
+          "text": "And Penuel was the father of Gedor, and Ezer the father of Hushah. These were the sons of Hur, the eldest of Ephrathah (Ephrath), the father of Bethlehem.",
+          "ID": "4"
+        },
+        {
+          "text": "Ashur the father of Tekoa had two wives, Helah and Naarah.",
+          "ID": "5"
+        },
+        {
+          "text": "Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were Naarah's sons.",
+          "ID": "6"
+        },
+        {
+          "text": "The sons of Helah: Zereth, Izhar, and Ethnan.",
+          "ID": "7"
+        },
+        {
+          "text": "Koz was the father of Anub, Zobebah, and the families of Aharhel son of Harum.",
+          "ID": "8"
+        },
+        {
+          "text": "Jabez was honorable above his brothers; but his mother named him Jabez [sorrow maker], saying, Because I bore him in pain.",
+          "ID": "9"
+        },
+        {
+          "text": "Jabez cried to the God of Israel, saying, Oh, that You would bless me and enlarge my border, and that Your hand might be with me, and You would keep me from evil so it might not hurt me! And God granted his request.",
+          "ID": "10"
+        },
+        {
+          "text": "Chelub the brother of Shuhah was the father of Mehir, the father of Eshton.",
+          "ID": "11"
+        },
+        {
+          "text": "Eshton was the father of Beth-rapha, Paseah, and Tehinnah the father of Ir-nahash. These are the men of Recah.",
+          "ID": "12"
+        },
+        {
+          "text": "The sons of Kenaz: Othniel and Seraiah. The sons of Othniel: Hathath [and Meonothai].",
+          "ID": "13"
+        },
+        {
+          "text": "Meonothai was father of Ophrah, and Seraiah of Joab the father of Ge-harashim [the Valley of Craftsmen], so named because they were craftsmen.",
+          "ID": "14"
+        },
+        {
+          "text": "The sons of Caleb [Joshua's companion] son of Jephunneh: Iru, Elah, and Naam. The son of Elah: Kenaz.",
+          "ID": "15"
+        },
+        {
+          "text": "The sons of Jehallelel: Ziph, Ziphah, Tiria, and Asarel.",
+          "ID": "16"
+        },
+        {
+          "text": "The sons of Ezrah: Jether, Mered, Epher, and Jalon. These are the sons of Bithiah daughter of Pharaoh, whom Mered married: she bore Miriam, Shammai, and Ishbah the father of Eshtemoa.",
+          "ID": "17"
+        },
+        {
+          "text": "And Mered's Jewish wife bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah.",
+          "ID": "18"
+        },
+        {
+          "text": "The sons of the wife of Hodiah, the sister of Naham, were: the father of Keilah the Garmite, and Eshtemoa the Maacathite.",
+          "ID": "19"
+        },
+        {
+          "text": "The sons of Shimon: Amnon, Rinnah, Ben-hanan, and Tilon. The sons of Ishi: Zoheth and Ben-zoheth.",
+          "ID": "20"
+        },
+        {
+          "text": "The sons of Shelah son of Judah: Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of the linen workers at Beth-ashbea,",
+          "ID": "21"
+        },
+        {
+          "text": "And Jokim, the men of Cozeba, Joash, and Saraph, who ruled in Moab, and returned to [Bethlehem]. These are ancient matters.",
+          "ID": "22"
+        },
+        {
+          "text": "These were the potters and those who dwelt among plantations and hedges at Netaim and Gederah; there they dwelt with the king for his work.",
+          "ID": "23"
+        },
+        {
+          "text": "The sons of Simeon: Nemuel, Jamin, Jarib, Zerah, and Shaul;",
+          "ID": "24"
+        },
+        {
+          "text": "Shallum was his [Shaul's] son, Mibsam his son, Mishma his son.",
+          "ID": "25"
+        },
+        {
+          "text": "The sons of Mishma: Hammuel his son, Zaccur his son, Shimei his son.",
+          "ID": "26"
+        },
+        {
+          "text": "Shimei had sixteen sons and six daughters, but his brothers did not have many children; neither did all their family multiply like the children of Judah.",
+          "ID": "27"
+        },
+        {
+          "text": "They dwelt at Beersheba, Moladah, Hazar-shual,",
+          "ID": "28"
+        },
+        {
+          "text": "Bilhah, Ezem, Tolad,",
+          "ID": "29"
+        },
+        {
+          "text": "Bethuel, Hormah, Ziklag,",
+          "ID": "30"
+        },
+        {
+          "text": "Beth-marcaboth, Hazar-susim, Beth-biri, and at Shaaraim. These were their towns [and villages] until the reign of David.",
+          "ID": "31"
+        },
+        {
+          "text": "There were also Etam, Ain, Rimmon, Tochen, and Ashan–five towns–",
+          "ID": "32"
+        },
+        {
+          "text": "And all their villages that were round about these towns, as far as Baal[-ath-beer]. These were their settlements, and they had their genealogical record.",
+          "ID": "33"
+        },
+        {
+          "text": "Meshobab, Jamlech, Joshah son of Amaziah,",
+          "ID": "34"
+        },
+        {
+          "text": "Joel, Jehu son of Joshibiah, the son of Seraiah, the son of Asiel,",
+          "ID": "35"
+        },
+        {
+          "text": "Also Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,",
+          "ID": "36"
+        },
+        {
+          "text": "Ziza son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah.",
+          "ID": "37"
+        },
+        {
+          "text": "These mentioned by name were princes in their families; and their fathers' houses increased greatly [so they needed more room].",
+          "ID": "38"
+        },
+        {
+          "text": "And they journeyed to the entrance of Gedor to the east side of the valley to seek pasture for their flocks.",
+          "ID": "39"
+        },
+        {
+          "text": "And they found rich, good pasture, and the [cleared] land was wide, quiet, and peaceful, because people of Ham had dwelt there of old [and had left it a better place for those who came after them].",
+          "ID": "40"
+        },
+        {
+          "text": "And these registered by name came in the days of Hezekiah king of Judah and destroyed their tents and the Meunim [foreigners] who were found there and exterminated them to this day, and they settled in their stead, because there was pasture for their flocks.",
+          "ID": "41"
+        },
+        {
+          "text": "And some of them from the sons of Simeon, 500 men, went to Mount Seir, having for their leaders Pelatiah, and Neariah, Rephaiah, and Uzziel, the sons of Ishi.",
+          "ID": "42"
+        },
+        {
+          "text": "They destroyed the remnant of the Amalekites who had escaped, and they have dwelt there to this day.",
+          "ID": "43"
+        }
+      ],
+      "ID": "OT:1CH.4"
+    },
+    {
+      "name": "1 Chronicles 5",
+      "text": [
+        {
+          "text": "NOW [we come to] the sons of Reuben the firstborn of Israel. For [Reuben] was the eldest, but because he polluted his father's couch [with Bilhah his father's concubine] his birthright was given to the sons of Joseph [favorite] son of Israel; so the genealogy is not to be reckoned according to the birthright. [Gen. 35:22; 48:15-22; 49:3, 4.]",
+          "ID": "1"
+        },
+        {
+          "text": "Judah prevailed above his brethren, and from him came the prince and leader [and eventually the Messiah]; yet the birthright was Joseph's. [Gen. 49:10; Mic. 5:2.]",
+          "ID": "2"
+        },
+        {
+          "text": "The sons of Reuben the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.",
+          "ID": "3"
+        },
+        {
+          "text": "The sons of Joel: Shemaiah his son, Gog his son, Shimei his son,",
+          "ID": "4"
+        },
+        {
+          "text": "Micah his son, Reaiah his son, Baal his son,",
+          "ID": "5"
+        },
+        {
+          "text": "Beerah his son, whom Tilgath-pilneser king of Assyria carried away captive; he was a prince of the Reubenites.",
+          "ID": "6"
+        },
+        {
+          "text": "And his brethren by their families, when the genealogy of their generations was reckoned: the chief Jeiel, and Zechariah,",
+          "ID": "7"
+        },
+        {
+          "text": "Bela son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer as far as Nebo and Baal-meon.",
+          "ID": "8"
+        },
+        {
+          "text": "Eastward [Bela] inhabited the land as far as the entrance into the desert this [west] side of the river Euphrates, because their cattle had multiplied in the land of Gilead.",
+          "ID": "9"
+        },
+        {
+          "text": "In the days of [King] Saul they made war with the Hagrites or Ishmaelites, who fell by their hands; they dwelt in their tents in all the land east of Gilead.",
+          "ID": "10"
+        },
+        {
+          "text": "The children of Gad who dwelt opposite them in the land of Bashan, as far as Salecah:",
+          "ID": "11"
+        },
+        {
+          "text": "Joel the chief, Shapham the next, Janai, and Shaphat in Bashan.",
+          "ID": "12"
+        },
+        {
+          "text": "Their kinsmen of the houses of their fathers: Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber–seven in all.",
+          "ID": "13"
+        },
+        {
+          "text": "These were the sons of Abihail son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz.",
+          "ID": "14"
+        },
+        {
+          "text": "Ahi son of Abdiel, the son of Guni, was chief in their fathers' houses.",
+          "ID": "15"
+        },
+        {
+          "text": "They dwelt in Gilead, in Bashan and in its towns, and in all the suburbs and pasturelands of Sharon to their limits.",
+          "ID": "16"
+        },
+        {
+          "text": "All these were enrolled by genealogies in the days of Jotham king of Judah and in the days of Jeroboam [II] king of Israel.",
+          "ID": "17"
+        },
+        {
+          "text": "The sons of Reuben, the Gadites, and the half-tribe of Manasseh–valiant men able to bear buckler and sword and to shoot with bow and skillful in war–were 44,760 able and ready to go forth to war.",
+          "ID": "18"
+        },
+        {
+          "text": "And [these Israelites, on the east side of the Jordan River] made war with the Hagrites [a tribe of northern Arabia], Jetur, Naphish, and Nodab.",
+          "ID": "19"
+        },
+        {
+          "text": "They were given help against them, and the Hagrites or Ishmaelites were delivered into their hands, and all who were allied with them, for they cried to God in the battle; and He granted their entreaty, because they relied on, clung to, and trusted in Him.",
+          "ID": "20"
+        },
+        {
+          "text": "And [these Israelites] took away their adversaries' herds: of their camels 50,000, and of sheep 250,000, and of donkeys 2,000, and of the lives of men 100,000.",
+          "ID": "21"
+        },
+        {
+          "text": "For a great number fell mortally wounded, because the battle was God's. And [these Israelites] dwelt in their territory until the captivity [by Assyria more than five centuries later]. [II Kings 15:29.]",
+          "ID": "22"
+        },
+        {
+          "text": "And the people of the half-tribe of Manasseh dwelt in the land; their settlements spread from Bashan to Baal-hermon, Senir, and Mount Hermon.",
+          "ID": "23"
+        },
+        {
+          "text": "And these were the heads of their fathers' houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel, mighty men of strength of mind and spirit [enabling them to encounter danger with firmness and personal bravery], famous men, and heads of the houses of their fathers.",
+          "ID": "24"
+        },
+        {
+          "text": "They transgressed against the God of their fathers and played the harlot [by unfaithfulness to their own God and running] after the gods of the native peoples, whom God had destroyed before them.",
+          "ID": "25"
+        },
+        {
+          "text": "So the God of Israel stirred up the spirit of Pul king of Assyria, [that is,] the spirit of Tilgath-pilneser king of Assyria, and he carried them away, the Reubenites, Gadites, and half-tribe of Manasseh and brought them to Halah, Habor, Hara, and the river Gozan, to this day.",
+          "ID": "26"
+        }
+      ],
+      "ID": "OT:1CH.5"
+    },
+    {
+      "name": "1 Chronicles 6",
+      "text": [
+        {
+          "text": "THE SONS of Levi: Gershom, Kohath, and Merari.",
+          "ID": "1"
+        },
+        {
+          "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.",
+          "ID": "2"
+        },
+        {
+          "text": "The children of Amram: Aaron, Moses, and Miriam. The sons also of Aaron: Nadab, Abihu, Eleazar, and Ithamar.",
+          "ID": "3"
+        },
+        {
+          "text": "Eleazar was the father of Phinehas, Phinehas of Abishua.",
+          "ID": "4"
+        },
+        {
+          "text": "Abishua was the father of Bukki, and Bukki of Uzzi,",
+          "ID": "5"
+        },
+        {
+          "text": "Uzzi of Zerahiah, and Zerahiah of Meraioth,",
+          "ID": "6"
+        },
+        {
+          "text": "Meraioth of Amariah, and Amariah of Ahitub,",
+          "ID": "7"
+        },
+        {
+          "text": "Ahitub of Zadok, and Zadok of Ahimaaz,",
+          "ID": "8"
+        },
+        {
+          "text": "Ahimaaz of Azariah, and Azariah of Johanan,",
+          "ID": "9"
+        },
+        {
+          "text": "Johanan of Azariah, who was priest in the temple Solomon built in Jerusalem,",
+          "ID": "10"
+        },
+        {
+          "text": "Azariah of Amariah, and Amariah of Ahitub,",
+          "ID": "11"
+        },
+        {
+          "text": "Ahitub of Zadok, and Zadok of Shallum,",
+          "ID": "12"
+        },
+        {
+          "text": "Shallum of Hilkiah, and Hilkiah of Azariah,",
+          "ID": "13"
+        },
+        {
+          "text": "Azariah of Seraiah, and Seraiah of Jehozadak;",
+          "ID": "14"
+        },
+        {
+          "text": "Jehozadak went into captivity when the Lord sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.",
+          "ID": "15"
+        },
+        {
+          "text": "The sons of Levi: Gershom, Kohath, and Merari.",
+          "ID": "16"
+        },
+        {
+          "text": "These are the names of the sons of Gershom: Libni and Shimei.",
+          "ID": "17"
+        },
+        {
+          "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.",
+          "ID": "18"
+        },
+        {
+          "text": "The sons of Merari: Mahli and Mushi. These are the families of the Levites according to their fathers:",
+          "ID": "19"
+        },
+        {
+          "text": "Of Gershom: Libni his son, Jahath his son, Zimmah his son,",
+          "ID": "20"
+        },
+        {
+          "text": "Joah his son, Iddo his son, Zerah his son, Jeatherai his son.",
+          "ID": "21"
+        },
+        {
+          "text": "The sons of Kohath: Amminadab his son, Korah his son, Assir his son,",
+          "ID": "22"
+        },
+        {
+          "text": "Elkanah his son, Ebiasaph his son, Assir his son,",
+          "ID": "23"
+        },
+        {
+          "text": "Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
+          "ID": "24"
+        },
+        {
+          "text": "And the sons of Elkanah: Amasai, Ahimoth,",
+          "ID": "25"
+        },
+        {
+          "text": "Elkanah his son, Zophai his son, Nahath his son,",
+          "ID": "26"
+        },
+        {
+          "text": "Eliab his son, Jeroham his son, Elkanah [Samuel's father] his son.",
+          "ID": "27"
+        },
+        {
+          "text": "The sons of Samuel: the firstborn [Joel] and Abijah.",
+          "ID": "28"
+        },
+        {
+          "text": "The sons of Merari: Mahli, Libni his son, Shimei his son, Uzza his son,",
+          "ID": "29"
+        },
+        {
+          "text": "Shimea his son, Haggiah his son, Asaiah his son.",
+          "ID": "30"
+        },
+        {
+          "text": "These David put over the service of song in the house of the Lord after the ark of the covenant rested there [after being taken by the Philistines and later placed in the house of Abinadab, where it remained for nearly 100 years during the rest of Samuel's judgeship and Saul's entire reign and into David's reign].",
+          "ID": "31"
+        },
+        {
+          "text": "They ministered before the tabernacle of the Tent of Meeting with singing until Solomon had built the Lord's house in Jerusalem, performing their service in due order.",
+          "ID": "32"
+        },
+        {
+          "text": "These and their sons served of the Kohathites: Heman, the singer, the son of Joel, the son of Samuel [the great prophet and judge],",
+          "ID": "33"
+        },
+        {
+          "text": "The son of Elkanah [III], the son of Jeroham, the son of Eliel, the son of Toah,",
+          "ID": "34"
+        },
+        {
+          "text": "The son of Zuph, the son of Elkanah [II], the son of Mahath, the son of Amasai,",
+          "ID": "35"
+        },
+        {
+          "text": "The son of Elkanah [I], the son of Joel, the son of Azariah, the son of Zephaniah,",
+          "ID": "36"
+        },
+        {
+          "text": "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+          "ID": "37"
+        },
+        {
+          "text": "The son of Izhar, the son of Kohath, the son of Levi, the son of Israel (Jacob).",
+          "ID": "38"
+        },
+        {
+          "text": "Heman's [tribal] brother Asaph stood at his right hand: Asaph son of Berechiah, the son of Shimea,",
+          "ID": "39"
+        },
+        {
+          "text": "The son of Michael, the son of Baaseiah, the son of Malchijah,",
+          "ID": "40"
+        },
+        {
+          "text": "The son of Ethni, the son of Zerah, the son of Adaiah,",
+          "ID": "41"
+        },
+        {
+          "text": "The son of Ethan, the son of Zimmah, the son of Shimei,",
+          "ID": "42"
+        },
+        {
+          "text": "The son of Jahath, the son of Gershom, the son of Levi.",
+          "ID": "43"
+        },
+        {
+          "text": "Their kinsmen the sons of Merari stood at the left hand: Ethan son of Kishi, the son of Abdi, the son of Malluch,",
+          "ID": "44"
+        },
+        {
+          "text": "The son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
+          "ID": "45"
+        },
+        {
+          "text": "The son of Amzi, the son of Bani, the son of Shemer,",
+          "ID": "46"
+        },
+        {
+          "text": "The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+          "ID": "47"
+        },
+        {
+          "text": "And their brethren the Levites [who were not descended from Aaron] were appointed for all other kinds of service of the tabernacle of the house of God.",
+          "ID": "48"
+        },
+        {
+          "text": "But [the line of] Aaron and his sons offered upon the altar of burnt offering and the altar of incense, ministering for all the work of the Holy of Holies, and to make atonement for Israel, according to all that Moses, God's servant, had commanded.",
+          "ID": "49"
+        },
+        {
+          "text": "The sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,",
+          "ID": "50"
+        },
+        {
+          "text": "Bukki his son, Uzzi his son, Zerahiah his son,",
+          "ID": "51"
+        },
+        {
+          "text": "Meraioth his son, Amariah his son, Ahitub his son,",
+          "ID": "52"
+        },
+        {
+          "text": "Zadok his son, Ahimaaz his son.",
+          "ID": "53"
+        },
+        {
+          "text": "Their dwelling places are according to their settlements within their borders: to the sons of Aaron of the families of the Kohathites, for theirs was the [first] lot–[Josh. 21:10.]",
+          "ID": "54"
+        },
+        {
+          "text": "To them they gave Hebron in the land of Judah and its surrounding suburbs.",
+          "ID": "55"
+        },
+        {
+          "text": "But the fields of the city and its villages they gave to Caleb son of Jephunneh.",
+          "ID": "56"
+        },
+        {
+          "text": "To the sons of Aaron they gave the city of refuge, Hebron; also Libnah with its pasturelands, Jattir, Eshtemoa with its pasturelands, [Josh. 21:13.]",
+          "ID": "57"
+        },
+        {
+          "text": "Hilen with its pasturelands, Debir with its pasturelands,",
+          "ID": "58"
+        },
+        {
+          "text": "Ashan with its pasturelands, and Beth-shemesh with its pasturelands.",
+          "ID": "59"
+        },
+        {
+          "text": "And out of the tribe of Benjamin: Geba, Alemeth, and Anathoth, with their pasturelands. All their cities according to their families were thirteen.",
+          "ID": "60"
+        },
+        {
+          "text": "And to the rest of the Kohathites ten cities were given by lot out of the family of the tribe [of Ephraim and of Dan and], of the half-tribe, the half of Manasseh. [Josh. 21:5.]",
+          "ID": "61"
+        },
+        {
+          "text": "To the Gershomites, according to their families, [were allotted] thirteen cities out of the tribes of Issachar, Asher, Naphtali, and Manasseh in Bashan.",
+          "ID": "62"
+        },
+        {
+          "text": "To the Merarites were given by lot, according to their families, twelve cities out of the tribes of Reuben, Gad, and Zebulun.",
+          "ID": "63"
+        },
+        {
+          "text": "And the Israelites gave to the Levites these cities with their pasturelands.",
+          "ID": "64"
+        },
+        {
+          "text": "They gave by lot out of the tribes of Judah, Simeon, and Benjamin these cities whose names are mentioned.",
+          "ID": "65"
+        },
+        {
+          "text": "Some of the families of the Kohathites had cities in the allotted territory out of the tribe of Ephraim.",
+          "ID": "66"
+        },
+        {
+          "text": "And [the Ephraimites] gave to [the Levites] the city of refuge, Shechem in the hill country of Ephraim; also Gezer, [both] with their suburbs and pasturelands;",
+          "ID": "67"
+        },
+        {
+          "text": "Jokmeam, Beth-horon,",
+          "ID": "68"
+        },
+        {
+          "text": "Aijalon, and Gath-rimmon, with their suburbs and pasturelands;",
+          "ID": "69"
+        },
+        {
+          "text": "And out of the half-tribe of Manasseh [these cities], with their suburbs and pasturelands: Aner and Bileam, for the rest of the families of the sons of Kohath.",
+          "ID": "70"
+        },
+        {
+          "text": "To the Gershomites were given out of the half-tribe of Manasseh: Golan in Bashan and Ashtaroth, with their suburbs and pasturelands;",
+          "ID": "71"
+        },
+        {
+          "text": "Out of the tribe of Issachar, with their suburbs and pasturelands: Kedesh, Daberath,",
+          "ID": "72"
+        },
+        {
+          "text": "Ramoth, and Anem;",
+          "ID": "73"
+        },
+        {
+          "text": "Out of the tribe of Asher, with their suburbs and pasturelands: Mashal, Abdon,",
+          "ID": "74"
+        },
+        {
+          "text": "Hukok, and Rehob;",
+          "ID": "75"
+        },
+        {
+          "text": "And out of the tribe of Naphtali, with their suburbs and pasturelands: Kedesh in Galilee, Hammon, and Kiriathaim.",
+          "ID": "76"
+        },
+        {
+          "text": "To the rest of the Merarites were given from the tribe of Zebulun: Rimmono and Tabor, with their suburbs and pasturelands;",
+          "ID": "77"
+        },
+        {
+          "text": "On the other side of the Jordan, on the east side by Jericho, the Levites were given out of the tribe of Reuben [these cities], with their suburbs and pasturelands: Bezer in the wilderness, Jahzah,",
+          "ID": "78"
+        },
+        {
+          "text": "Kedemoth, and Mephaath;",
+          "ID": "79"
+        },
+        {
+          "text": "Out of the tribe of Gad [these cities], with their suburbs and pasturelands: Ramoth in Gilead, Mahanaim,",
+          "ID": "80"
+        },
+        {
+          "text": "Heshbon, and Jazer.",
+          "ID": "81"
+        }
+      ],
+      "ID": "OT:1CH.6"
+    },
+    {
+      "name": "1 Chronicles 7",
+      "text": [
+        {
+          "text": "THE SONS of Issachar were: Tola, Puah, Jashub, and Shimron–four in all.",
+          "ID": "1"
+        },
+        {
+          "text": "The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, Shemuel (Samuel)–heads of their fathers' houses, descendants of Tola. They were mighty men of valor in their generations; their number in David's days was 22,600.",
+          "ID": "2"
+        },
+        {
+          "text": "The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, Isshiah–five, all of them chief men.",
+          "ID": "3"
+        },
+        {
+          "text": "And with them by their generations according to their fathers' houses were units of the army for war, 36,000, for they had many wives and children [with them].",
+          "ID": "4"
+        },
+        {
+          "text": "Their kinsmen from all the families of Issachar, mighty men of valor, registered by genealogies, were in all 87,000.",
+          "ID": "5"
+        },
+        {
+          "text": "The sons of Benjamin: Bela, Becher, and Jediael–three in all.",
+          "ID": "6"
+        },
+        {
+          "text": "The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri–five, heads of the houses of their fathers, mighty men of valor. By their genealogies they numbered 22,034.",
+          "ID": "7"
+        },
+        {
+          "text": "The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth, all sons of Becher.",
+          "ID": "8"
+        },
+        {
+          "text": "The number of them by their genealogies by generations, as heads of their fathers' houses, mighty warriors, was 20,200.",
+          "ID": "9"
+        },
+        {
+          "text": "The son of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.",
+          "ID": "10"
+        },
+        {
+          "text": "All these were the sons of Jediael, according to the heads of their fathers' houses, mighty men of valor, 17,200, able and fit for service in war.",
+          "ID": "11"
+        },
+        {
+          "text": "Shuppim and Huppim were the sons of Ir, and Hushim the son of Aher.",
+          "ID": "12"
+        },
+        {
+          "text": "The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum, whose [grandmother] was Bilhah.",
+          "ID": "13"
+        },
+        {
+          "text": "The sons of Manasseh: Ashriel, whom his concubine the Aramitess bore; she bore Machir the father of Gilead.",
+          "ID": "14"
+        },
+        {
+          "text": "And Machir took as wife the sister of Huppim and Shuppim; her name was Maacah. The name of a second [and later descendant, the first being Gilead], was Zelophehad; and Zelophehad had daughters [only]. [Num. 27:1-7.]",
+          "ID": "15"
+        },
+        {
+          "text": "Maacah the wife of Machir bore a son; she called his name Peresh. The name of his brother was Sheresh; his sons were Ulam and Rakem.",
+          "ID": "16"
+        },
+        {
+          "text": "The son of Ulam: Bedan. These were the sons of Gilead son of Machir, the son of Manasseh.",
+          "ID": "17"
+        },
+        {
+          "text": "His sister Hammolecheth bore Ishbod, Abiezer, and Mahlah.",
+          "ID": "18"
+        },
+        {
+          "text": "The sons of Shemida were: Ahian, Shechem, Likhi, and Aniam.",
+          "ID": "19"
+        },
+        {
+          "text": "The sons of Ephraim: Shuthelah, Bered his son, Tahath [I] his son, Eleadah his son, Tahath [II] his son,",
+          "ID": "20"
+        },
+        {
+          "text": "Zabad his son, and Shuthelah his son. [During Ephraim's lifetime, his sons] Ezer and Elead were slain by men of Gath born in the land, who had come down to steal the cattle [of the Ephraimites, probably before the Israelites left Egypt].",
+          "ID": "21"
+        },
+        {
+          "text": "And Ephraim their father mourned many days, and his brethren came to comfort him.",
+          "ID": "22"
+        },
+        {
+          "text": "Then his wife conceived and bore a son, and he called his name Beriah [in evil], because calamity had befallen his house.",
+          "ID": "23"
+        },
+        {
+          "text": "[Beriah's] daughter was Sheerah, who built both Lower and Upper Beth-horon, and also Uzzen-sheerah.",
+          "ID": "24"
+        },
+        {
+          "text": "Rephah was his son, and Resheph [his son]; Resheph's son was Telah, Tahan his son,",
+          "ID": "25"
+        },
+        {
+          "text": "Ladan his son, Ammihud his son, Elishama his son,",
+          "ID": "26"
+        },
+        {
+          "text": "Nun his son, Joshua [Moses' successor] his son.",
+          "ID": "27"
+        },
+        {
+          "text": "And their possessions and settlements were Bethel and its towns, and eastward Naaran, and westward Gezer, and Shechem, and as far as Azzah (Gaza) with all their towns,",
+          "ID": "28"
+        },
+        {
+          "text": "And along the borders of the Manassites, Beth-shean, Taanach, Megiddo, Dor, with all their towns. In these dwelt the sons of Joseph son of Israel.",
+          "ID": "29"
+        },
+        {
+          "text": "The sons of Asher: Imnah, Ishvah, Ishvi, Beriah; and Serah their sister.",
+          "ID": "30"
+        },
+        {
+          "text": "The sons of Beriah: Heber and Malchiel, who was the father of Birzaith.",
+          "ID": "31"
+        },
+        {
+          "text": "Heber was the father of Japhlet, Shomer, Hotham, and Shua their sister.",
+          "ID": "32"
+        },
+        {
+          "text": "The sons of Japhlet: Pasach, Bimhal, and Ashvath. These were the sons of Japhlet.",
+          "ID": "33"
+        },
+        {
+          "text": "The sons of Shemer (Shomer) his brother: Rohgah, Jehubbah, and Aram.",
+          "ID": "34"
+        },
+        {
+          "text": "The sons of his brother Helem (Hotham): Zophah, Imna, Shelesh, and Amal.",
+          "ID": "35"
+        },
+        {
+          "text": "The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah,",
+          "ID": "36"
+        },
+        {
+          "text": "Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.",
+          "ID": "37"
+        },
+        {
+          "text": "The sons of Jether: Jephunneh, Pispa, and Ara.",
+          "ID": "38"
+        },
+        {
+          "text": "The sons of Ulla: Arah, Hanniel, and Rizia.",
+          "ID": "39"
+        },
+        {
+          "text": "All these were offspring of Asher, heads of their fathers' houses, approved men, mighty warriors, chief of the princes. Their number enrolled by genealogies for service in war, was 26,000 men.",
+          "ID": "40"
+        }
+      ],
+      "ID": "OT:1CH.7"
+    },
+    {
+      "name": "1 Chronicles 8",
+      "text": [
+        {
+          "text": "BENJAMIN WAS the father of Bela his firstborn, Ashbel the second, Aharah the third,",
+          "ID": "1"
+        },
+        {
+          "text": "Nohah the fourth, and Rapha the fifth.",
+          "ID": "2"
+        },
+        {
+          "text": "Bela's sons were: Addar, Gera, Abihud,",
+          "ID": "3"
+        },
+        {
+          "text": "Abishua, Naaman, Ahoah,",
+          "ID": "4"
+        },
+        {
+          "text": "Gera, Shephuphan, and Huram.",
+          "ID": "5"
+        },
+        {
+          "text": "The sons of Ehud: These are the heads of the fathers' houses of the inhabitants of Geba; they were exiled to Manahath:",
+          "ID": "6"
+        },
+        {
+          "text": "Naaman, Ahijah, and Gera, that is, Heglam, who was the father of Uzza and Ahihud.",
+          "ID": "7"
+        },
+        {
+          "text": "Shaharaim had sons in the country of Moab after he had [divorced and] sent away Hushim and Baara his wives.",
+          "ID": "8"
+        },
+        {
+          "text": "And by Hodesh his [Moabitish] wife he was the father of Jobab, Zibia, Mesha, Malcam,",
+          "ID": "9"
+        },
+        {
+          "text": "Jeuz, Sachia, and Mirmah. These were his sons, heads of fathers' houses.",
+          "ID": "10"
+        },
+        {
+          "text": "By Hushim [divorced] he had had sons: Abitub and Elpaal.",
+          "ID": "11"
+        },
+        {
+          "text": "The sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod with its towns,",
+          "ID": "12"
+        },
+        {
+          "text": "And Beriah and Shema, who were heads of fathers' houses of the inhabitants of Aijalon, who put to flight the inhabitants of Gath,",
+          "ID": "13"
+        },
+        {
+          "text": "And Ahio, Shashak, and Jeremoth.",
+          "ID": "14"
+        },
+        {
+          "text": "The sons of Beriah: Zebadiah, Arad, Eder,",
+          "ID": "15"
+        },
+        {
+          "text": "Michael, Ishpah, and Joha.",
+          "ID": "16"
+        },
+        {
+          "text": "Zebadiah, Meshullam, Hizki, Heber,",
+          "ID": "17"
+        },
+        {
+          "text": "Ishmerai, Izliah, and Jobab were the sons of Elpaal.",
+          "ID": "18"
+        },
+        {
+          "text": "Jakim, Zichri, Zabdi,",
+          "ID": "19"
+        },
+        {
+          "text": "Elienai, Zillethai, Eliel,",
+          "ID": "20"
+        },
+        {
+          "text": "Adaiah, Beraiah, and Shimrath were the sons of Shimei.",
+          "ID": "21"
+        },
+        {
+          "text": "Ishpan, Eber, Eliel,",
+          "ID": "22"
+        },
+        {
+          "text": "Abdon, Zichri, Hanan,",
+          "ID": "23"
+        },
+        {
+          "text": "Hananiah, Elam, Anthothijah,",
+          "ID": "24"
+        },
+        {
+          "text": "Iphdeiah, and Penuel were the sons of Shashak.",
+          "ID": "25"
+        },
+        {
+          "text": "Shamsherai, Shehariah, Athaliah,",
+          "ID": "26"
+        },
+        {
+          "text": "Jaareshiah, Elijah, and Zichri were the sons of Jeroham.",
+          "ID": "27"
+        },
+        {
+          "text": "These were heads of the fathers' houses, according to their generations, chief men. These dwelt in Jerusalem.",
+          "ID": "28"
+        },
+        {
+          "text": "At Gibeon dwelt [Jeiel] the father of Gibeon, whose wife's name was Maacah.",
+          "ID": "29"
+        },
+        {
+          "text": "His firstborn son was Abdon, then Zur, Kish, Baal, Nadab,",
+          "ID": "30"
+        },
+        {
+          "text": "Gedor, Ahio, Zecher,",
+          "ID": "31"
+        },
+        {
+          "text": "And Mikloth the father of Shimeah. These dwelt together opposite their kinsmen in Jerusalem.",
+          "ID": "32"
+        },
+        {
+          "text": "Ner was the father of Kish, and Kish of [King] Saul the father of Jonathan, Malchi-shua, Abinadab, and Esh-baal (Ish-bosheth).",
+          "ID": "33"
+        },
+        {
+          "text": "The son of Jonathan was Merib-baal (Mephibosheth) the father of Micah.",
+          "ID": "34"
+        },
+        {
+          "text": "The sons of Micah: Pithon, Melech, Tarea, and Ahaz.",
+          "ID": "35"
+        },
+        {
+          "text": "Ahaz was the father of Jehoaddah, and Jehoaddah of Alemeth, Azmaveth, and Zimri; Zimri was the father of Moza.",
+          "ID": "36"
+        },
+        {
+          "text": "Moza was the father of Binea; Raphah was his son, Eleasah his son, Azel his son.",
+          "ID": "37"
+        },
+        {
+          "text": "Azel had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.",
+          "ID": "38"
+        },
+        {
+          "text": "The sons of Eshek his brother: Ulam his firstborn, Jehush the second, Eliphelet the third.",
+          "ID": "39"
+        },
+        {
+          "text": "The sons of Ulam were mighty warriors, archers, with many sons and grandsons–150 in all. All these were Benjamites.",
+          "ID": "40"
+        }
+      ],
+      "ID": "OT:1CH.8"
+    },
+    {
+      "name": "1 Chronicles 9",
+      "text": [
+        {
+          "text": "SO ALL Israel was enrolled by genealogies; and they are written in the Book of the Kings of Israel. And Judah was carried away captive to Babylon for their unfaithfulness to God.",
+          "ID": "1"
+        },
+        {
+          "text": "Now the first [of the returned exiles] to dwell again in their possessions in the cities of Israel were the priests, Levites, and the Nethinim [the temple servants].",
+          "ID": "2"
+        },
+        {
+          "text": "In Jerusalem dwelt some of the people of Judah, Benjamin, Ephraim, and Manasseh:",
+          "ID": "3"
+        },
+        {
+          "text": "Uthai son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the sons of Pharez son of Judah.",
+          "ID": "4"
+        },
+        {
+          "text": "Of the Shilonites: Asaiah the firstborn and his sons.",
+          "ID": "5"
+        },
+        {
+          "text": "Of the sons of Zerah: Jeuel and their kinsmen, 690.",
+          "ID": "6"
+        },
+        {
+          "text": "Of the Benjamites: Sallu son of Meshullam, the son of Hodaviah, the son of Hassenuah;",
+          "ID": "7"
+        },
+        {
+          "text": "Ibneiah son of Jeroham; Elah son of Uzzi, the son of Michri; and Meshullam son of Shephatiah, the son of Reuel, the son of Ibnijah;",
+          "ID": "8"
+        },
+        {
+          "text": "And their kinsmen, according to their generations, 956. All these were heads of fathers' houses according to their fathers' houses.",
+          "ID": "9"
+        },
+        {
+          "text": "Of the priests: Jedaiah; Jehoiarib; Jachin;",
+          "ID": "10"
+        },
+        {
+          "text": "Azariah son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the chief officer of God's house;",
+          "ID": "11"
+        },
+        {
+          "text": "And Adaiah son of Jeroham, the son of Pashhur, the son of Malchijah; Massai son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;",
+          "ID": "12"
+        },
+        {
+          "text": "And their kinsmen, heads of their fathers' houses, 1,760–very able men for the work of the service of the house of God.",
+          "ID": "13"
+        },
+        {
+          "text": "Of the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;",
+          "ID": "14"
+        },
+        {
+          "text": "And Bakbakkar, Heresh, Galal, and Mattaniah son of Mica, the son of Zichri, the son of Asaph;",
+          "ID": "15"
+        },
+        {
+          "text": "Obadiah son of Shemaiah, the son of Galal, the son of Jeduthun; and Berechiah son of Asa, the son of Elkanah, who dwelt in the villages of the Netophathites [near Jerusalem].",
+          "ID": "16"
+        },
+        {
+          "text": "The gatekeepers were: Shallum, Akkub, Talmon, Ahiman, and their kinsmen, Shallum being the chief",
+          "ID": "17"
+        },
+        {
+          "text": "Who hitherto was assigned to the king's east side gate. They were the gatekeepers of the camp of the Levites.",
+          "ID": "18"
+        },
+        {
+          "text": "Shallum son of Kore, the son of Ebiasaph, the son of Korah, and his kinsmen of his father's house, the Korahites, were in charge of the work of the service, keepers of the thresholds of the Tent, as their fathers had been in charge of the camp of the Lord, keepers of the entrance.",
+          "ID": "19"
+        },
+        {
+          "text": "Phinehas son of Eleazar was ruler over them in times past, and the Lord was with him.",
+          "ID": "20"
+        },
+        {
+          "text": "Zechariah son of Meshelemiah was gatekeeper at the entrance of the Tent of Meeting.",
+          "ID": "21"
+        },
+        {
+          "text": "All these chosen to be keepers at the thresholds were 212. These were enrolled by their genealogies in their villages [around Jerusalem], these men [whose grandfathers] David and Samuel the seer had established to their office of trust.",
+          "ID": "22"
+        },
+        {
+          "text": "So they and their sons had oversight of the gates of the Lord's house, that is, the house of the tabernacle, by wards.",
+          "ID": "23"
+        },
+        {
+          "text": "The gatekeepers were stationed on the four sides [of the house of the Lord]–on the east, west, north, and south.",
+          "ID": "24"
+        },
+        {
+          "text": "Their brethren in their villages were to come in every seven days to be with them.",
+          "ID": "25"
+        },
+        {
+          "text": "But these Levites, the four chief gatekeepers, were in charge of the chambers and treasuries of the house of God.",
+          "ID": "26"
+        },
+        {
+          "text": "They lodged round about God's house, for the duty [of watching] was theirs, as well as the opening of the house every morning.",
+          "ID": "27"
+        },
+        {
+          "text": "Some of them had charge of the serving utensils, being required to count them when they brought them in or took them out.",
+          "ID": "28"
+        },
+        {
+          "text": "Some of them also were appointed over the furniture and over all the sacred utensils, as well as over the fine flour, wine, oil, frankincense, and spices.",
+          "ID": "29"
+        },
+        {
+          "text": "Other sons of the priests prepared the ointment of spices.",
+          "ID": "30"
+        },
+        {
+          "text": "Mattithiah, one of the Levites, the firstborn of Shallum the Korahite, was responsible for the things baked in pans.",
+          "ID": "31"
+        },
+        {
+          "text": "Of their Kohathite kinsmen, some were to prepare the showbread every Sabbath.",
+          "ID": "32"
+        },
+        {
+          "text": "These are the singers, heads of the fathers' houses of the Levites, dwelling in the temple chambers, free from other service because they were on duty day and night.",
+          "ID": "33"
+        },
+        {
+          "text": "These were heads of fathers' houses of the Levites, according to their generations, chief men, who lived in Jerusalem.",
+          "ID": "34"
+        },
+        {
+          "text": "In Gibeon dwelt the father of Gibeon, Jeiel, whose wife's name was Maacah,",
+          "ID": "35"
+        },
+        {
+          "text": "His firstborn son Abdon, then Zur, Kish, Baal, Ner, Nadab,",
+          "ID": "36"
+        },
+        {
+          "text": "Gedor, Ahio, Zechariah, and Mikloth.",
+          "ID": "37"
+        },
+        {
+          "text": "Mikloth was the father of Shimeam. They also dwelt beside their brethren, opposite their kinsmen in Jerusalem.",
+          "ID": "38"
+        },
+        {
+          "text": "Ner was the father of Kish, Kish of [King] Saul, Saul of Jonathan, Malchi-shua, Abinadab, and Esh-baal.",
+          "ID": "39"
+        },
+        {
+          "text": "The son of Jonathan was Merib-baal (Mephibosheth); Merib-baal was the father of Micah.",
+          "ID": "40"
+        },
+        {
+          "text": "The sons of Micah: Pithon, Melech, Tahrea, and Ahaz.",
+          "ID": "41"
+        },
+        {
+          "text": "Ahaz was the father of Jarah, and Jarah of Alemeth, Azmaveth, and Zimri; Zimri was the father of Moza,",
+          "ID": "42"
+        },
+        {
+          "text": "Moza of Binea; Rephaiah was his son, Eleasah his son, Azel his son.",
+          "ID": "43"
+        },
+        {
+          "text": "Azel had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.",
+          "ID": "44"
+        }
+      ],
+      "ID": "OT:1CH.9"
+    },
+    {
+      "name": "1 Chronicles 10",
+      "text": [
+        {
+          "text": "NOW THE Philistines fought against Israel; and the men of Israel fled from before them and fell slain on Mount Gilboa.",
+          "ID": "1"
+        },
+        {
+          "text": "And the Philistines followed close after Saul and his sons and overtook them, and the Philistines slew Jonathan, Abinadab, and Malchi-shua, the sons of Saul.",
+          "ID": "2"
+        },
+        {
+          "text": "And the battle raged about Saul, and the archers found and wounded him.",
+          "ID": "3"
+        },
+        {
+          "text": "Then Saul said to his armor-bearer, Draw your sword and thrust me through with it, lest these uncircumcised come and abuse and make sport of me. But his armor-bearer would not, for he was terrified. So Saul took his own sword and fell on it.",
+          "ID": "4"
+        },
+        {
+          "text": "When his armor-bearer saw that Saul was dead, he also fell on his sword and died.",
+          "ID": "5"
+        },
+        {
+          "text": "So Saul died; he and his three sons and all his house died together.",
+          "ID": "6"
+        },
+        {
+          "text": "And when all the men of Israel who were in the valley saw that the army had fled and that Saul and his sons were dead, they forsook their cities and fled; and the Philistines came and dwelt in them.",
+          "ID": "7"
+        },
+        {
+          "text": "The next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa.",
+          "ID": "8"
+        },
+        {
+          "text": "They stripped [Saul] and took his head and his armor, and sent [them] round about in Philistia to carry the news to their idols and to the people.",
+          "ID": "9"
+        },
+        {
+          "text": "And they put [Saul's] armor in the house of their gods and fastened his head in the temple of Dagon.",
+          "ID": "10"
+        },
+        {
+          "text": "When all Jabesh-gilead heard all that the Philistines had done to Saul,",
+          "ID": "11"
+        },
+        {
+          "text": "All the brave men arose, took away the bodies of Saul and his sons, brought them to Jabesh, and buried their bones under the oak in Jabesh; then they fasted seven days. [I Sam. 31:12.]",
+          "ID": "12"
+        },
+        {
+          "text": "So Saul died for his trespass against the Lord [in sparing Amalek], for his unfaithfulness in not keeping God's word, and also for consulting [a medium with] a spirit of the dead to inquire pleadingly of it,",
+          "ID": "13"
+        },
+        {
+          "text": "And inquired not so of the Lord [in earnest penitence]. Therefore the Lord slew him and turned the kingdom over to David son of Jesse. [I Sam. 28:6.]",
+          "ID": "14"
+        }
+      ],
+      "ID": "OT:1CH.10"
+    },
+    {
+      "name": "1 Chronicles 11",
+      "text": [
+        {
+          "text": "THEN [after the death of Ish-bosheth, Saul's son, who ruled over eleven tribes of Israel for two troubled years after Saul's death] all Israel gathered at Hebron and said to David, Behold, we are your bone and your flesh. [II Sam. 2:8-10.]",
+          "ID": "1"
+        },
+        {
+          "text": "In times past, even when Saul was king, it was you who led out and brought in Israel; and the Lord your God said to you, You shall be shepherd of My people Israel, and you shall be prince and leader over [them].",
+          "ID": "2"
+        },
+        {
+          "text": "So all the elders of Israel came to the king at Hebron, and David made a covenant with them there before the Lord, and they anointed [him] king over Israel, according to the word of the Lord through Samuel. [I Sam. 16:1, 12, 13.]",
+          "ID": "3"
+        },
+        {
+          "text": "And David and all Israel went to Jerusalem, that is Jebus, where the Jebusites, the inhabitants of the land, were.",
+          "ID": "4"
+        },
+        {
+          "text": "Then the Jebusites said to David, You shall not come in here! But David took the stronghold of Zion, that is, the City of David.",
+          "ID": "5"
+        },
+        {
+          "text": "And David said, Whoever smites the Jebusites first shall be chief and commander. Joab son of Zeruiah [David's half sister] went up first, and so he was made chief.",
+          "ID": "6"
+        },
+        {
+          "text": "David dwelt in the stronghold; so it was called the City of David.",
+          "ID": "7"
+        },
+        {
+          "text": "He built the city from the Millo [a fortification] on around; and Joab repaired and revived the rest of the [old Jebusite] city.",
+          "ID": "8"
+        },
+        {
+          "text": "And David became greater and greater, for the Lord of hosts was with him.",
+          "ID": "9"
+        },
+        {
+          "text": "Now these are the chiefs of David's mighty men, who strongly supported him in his kingdom, together with all Israel, to make him king, according to the word of the Lord concerning Israel.",
+          "ID": "10"
+        },
+        {
+          "text": "And this is the number [thirty, and list] of David's mighty men: Jashobeam, a Hachmonite, the chief of the Thirty [captains]. He lifted up his spear against 300, whom he slew at one time.",
+          "ID": "11"
+        },
+        {
+          "text": "Next to him in rank was Eleazar son of Dodo the Ahohite, one of the three mighty men.",
+          "ID": "12"
+        },
+        {
+          "text": "He was with David at Pas-dammim [where David had long before slain Goliath], and there the Philistines were gathered for battle, where there was a plot of ground full of barley or lentils; and the men [of Israel] fled before the Philistines.",
+          "ID": "13"
+        },
+        {
+          "text": "And Eleazar [one of the Three] stood in the midst of that plot and defended it and slew the Philistines [until his hand was weary, and his hand cleaved to the sword], and the Lord saved by a great victory and deliverance. [II Sam. 23:9, 10.]",
+          "ID": "14"
+        },
+        {
+          "text": "Three of the thirty chief men went down to the rock to David, into the cave of Adullam, and the army of the Philistines was encamped in the Valley of Rephaim.",
+          "ID": "15"
+        },
+        {
+          "text": "David was then in the stronghold, and the Philistines' garrison was in Bethlehem.",
+          "ID": "16"
+        },
+        {
+          "text": "And David longingly said, Oh, that someone would give me water to drink from the well of Bethlehem which is by the gate!",
+          "ID": "17"
+        },
+        {
+          "text": "Then the Three [mighty men] broke through the camp of the Philistines and drew water out of the well of Bethlehem which was by the gate and brought it to David. But David would not drink it; he poured it out to the Lord,",
+          "ID": "18"
+        },
+        {
+          "text": "And said, My God forbid that I should do this thing. Shall I drink the blood of these men who have put their lives in jeopardy? For at the risk of their lives they brought it. So he would not drink it. These things did these three mighty men.",
+          "ID": "19"
+        },
+        {
+          "text": "Abishai the brother of Joab was chief of the Three. For he lifted up his spear against 300 and slew them, and was named among the Three.",
+          "ID": "20"
+        },
+        {
+          "text": "Of the Three [in the second rank] he was more renowned than the two, and became their captain; however, he attained not to the first three.",
+          "ID": "21"
+        },
+        {
+          "text": "Benaiah son of Jehoiada, whose father was a valiant man of Kabzeel, had done mighty deeds. He slew the two sons of Ariel of Moab. Also he went down and slew a lion in a pit in time of snow.",
+          "ID": "22"
+        },
+        {
+          "text": "He slew an Egyptian also, a man of great stature, five cubits tall. The Egyptian held a spear like a weaver's beam, and [Benaiah] went to him with a staff and plucked the spear out of the Egyptian's hand and slew him with the man's own spear.",
+          "ID": "23"
+        },
+        {
+          "text": "These things did Benaiah son of Jehoiada, and won a name beside the three mighty men.",
+          "ID": "24"
+        },
+        {
+          "text": "He was renowned among the Thirty, but he did not attain to the rank of the first three. David put him over his guard and council.",
+          "ID": "25"
+        },
+        {
+          "text": "Also the mighty men of the armies were: Asahel the brother of Joab, Elhanan son of Dodo of Bethlehem,",
+          "ID": "26"
+        },
+        {
+          "text": "Shammoth of Harod, Helez the Pelonite,",
+          "ID": "27"
+        },
+        {
+          "text": "Ira son of Ikkesh of Tekoa, Abiezer of Anathoth,",
+          "ID": "28"
+        },
+        {
+          "text": "Sibbecai the Hushathite, Ilai the Ahohite,",
+          "ID": "29"
+        },
+        {
+          "text": "Maharai of Netophah, Heled son of Baanah of Netophah,",
+          "ID": "30"
+        },
+        {
+          "text": "Ithai son of Ribai of Gibeah of the Benjamites, Benaiah of Pirathon,",
+          "ID": "31"
+        },
+        {
+          "text": "Hurai of the brooks of Gaash, Abiel the Arbathite,",
+          "ID": "32"
+        },
+        {
+          "text": "Azmaveth of Baharum, Eliahba of Shaalbon,",
+          "ID": "33"
+        },
+        {
+          "text": "The sons of Hashem the Gizonite, Jonathan son of Shagee the Hararite,",
+          "ID": "34"
+        },
+        {
+          "text": "Ahiam son of Sacar the Hararite, Eliphal son of Ur,",
+          "ID": "35"
+        },
+        {
+          "text": "Hepher the Mecherathite, Ahijah the Pelonite,",
+          "ID": "36"
+        },
+        {
+          "text": "Hezro of Carmel, Naarai son of Ezbai,",
+          "ID": "37"
+        },
+        {
+          "text": "Joel the brother of Nathan, Mibhar son of Hagri,",
+          "ID": "38"
+        },
+        {
+          "text": "Zelek the Ammonite, Naharai the Berothite, the armor-bearer of Joab son of Zeruiah [David's half sister],",
+          "ID": "39"
+        },
+        {
+          "text": "Ira the Ithrite, Gareb the Ithrite,",
+          "ID": "40"
+        },
+        {
+          "text": "Uriah the Hittite [Bathsheba's husband], Zabad son of Ahlai,",
+          "ID": "41"
+        },
+        {
+          "text": "Adina son of Shiza, a leader of the Reubenites, and thirty heroes with him,",
+          "ID": "42"
+        },
+        {
+          "text": "Hanan son of Maacah, and Joshaphat the Mithnite,",
+          "ID": "43"
+        },
+        {
+          "text": "Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite,",
+          "ID": "44"
+        },
+        {
+          "text": "Jediael son of Shimri, and Joha his brother, the Tizite,",
+          "ID": "45"
+        },
+        {
+          "text": "Eliel the Mahavite, Jeribai and Joshaviah sons of Elnaam, Ithmah the Moabite,",
+          "ID": "46"
+        },
+        {
+          "text": "Eliel, Obed, and Jaasiel the Mezobaite.",
+          "ID": "47"
+        }
+      ],
+      "ID": "OT:1CH.11"
+    },
+    {
+      "name": "1 Chronicles 12",
+      "text": [
+        {
+          "text": "THESE ARE the ones who came to David at Ziklag, while he yet concealed himself because of Saul son of Kish; they were among the mighty men, his helpers in war.",
+          "ID": "1"
+        },
+        {
+          "text": "They were bowmen and could use the right hand or the left to sling stones or shoot arrows from the bow; they were of Saul's kinsmen of Benjamin.",
+          "ID": "2"
+        },
+        {
+          "text": "The chief was Ahiezer and then Joash the sons of Shemaah of Gibeah; Jeziel and Pelet the sons of Azmaveth; Beracah, and Jehu of Anathoth,",
+          "ID": "3"
+        },
+        {
+          "text": "Ishmaiah of Gibeon, a mighty man among the Thirty and a [leader] over them; Jeremiah, Jahaziel, Johanan, Jozabad of Gederah,",
+          "ID": "4"
+        },
+        {
+          "text": "Eluzai, Jerimoth, Bealiah, Shemariah, Shephatiah the Haruphite;",
+          "ID": "5"
+        },
+        {
+          "text": "Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites;",
+          "ID": "6"
+        },
+        {
+          "text": "Joelah and Zebadiah the sons of Jeroham of Gedor.",
+          "ID": "7"
+        },
+        {
+          "text": "Of the Gadites there went over to David to the stronghold in the wilderness men of might, men trained for war who could handle shield and spear, whose faces were like the faces of lions, and who were swift as gazelles on the mountains:",
+          "ID": "8"
+        },
+        {
+          "text": "Ezer the chief, Obadiah the second, Eliab the third,",
+          "ID": "9"
+        },
+        {
+          "text": "Mishmannah the fourth, Jeremiah the fifth,",
+          "ID": "10"
+        },
+        {
+          "text": "Attai the sixth, Eliel the seventh,",
+          "ID": "11"
+        },
+        {
+          "text": "Johanan the eighth, Elzabad the ninth,",
+          "ID": "12"
+        },
+        {
+          "text": "Jeremiah the tenth, Machbannai the eleventh.",
+          "ID": "13"
+        },
+        {
+          "text": "These Gadites were officers of the army. The lesser was equal to and over a hundred, and the greater equal to and over a thousand.",
+          "ID": "14"
+        },
+        {
+          "text": "These are the men who went over the Jordan in the first month when it had overflowed all its banks, and put to flight all those in the valleys, east and west.",
+          "ID": "15"
+        },
+        {
+          "text": "There came some of the men of Benjamin and Judah to the stronghold to David.",
+          "ID": "16"
+        },
+        {
+          "text": "David went out to meet them and said to them, If you have come peaceably to me to help me, my heart shall be knit to you; but if you have come to betray me to my adversaries, although there is no violence or wrong in my hands, may the God of our fathers look upon and rebuke you.",
+          "ID": "17"
+        },
+        {
+          "text": "Then the Spirit came upon Amasai, who was chief of the captains, and he said, Yours we are, David, and on your side, you son of Jesse! Peace, peace be to you, and peace be to your helpers, for your God helps you. Then David received them and made them officers of his troops.",
+          "ID": "18"
+        },
+        {
+          "text": "Some of the men of Manasseh deserted to David when he came with the Philistines for the battle against Saul. But [David's] men did not actually fight with them, for the lords of the Philistines, upon advisement, sent him away, saying, He will desert to his master Saul at the risk of our heads. [I Sam. 29:2-9.]",
+          "ID": "19"
+        },
+        {
+          "text": "As David went to Ziklag, there deserted to him of Manasseh: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh.",
+          "ID": "20"
+        },
+        {
+          "text": "They helped David against the band of raiders, for they were all mighty men of courage, and [all seven] became commanders in [his] army.",
+          "ID": "21"
+        },
+        {
+          "text": "For at that time day by day men kept coming to David to help him, until there was a great army, like the army of God.",
+          "ID": "22"
+        },
+        {
+          "text": "These are the numbers of the armed divisions who came to David at Hebron to turn the kingdom of Saul to him, according to the word of the Lord:",
+          "ID": "23"
+        },
+        {
+          "text": "Those of Judah, who bore shield and spear, were 6,800 armed for war;",
+          "ID": "24"
+        },
+        {
+          "text": "Those of Simeon, mighty and brave warriors, 7,100;",
+          "ID": "25"
+        },
+        {
+          "text": "Those of Levi, 4,600–",
+          "ID": "26"
+        },
+        {
+          "text": "Jehoiada was the leader of the Aaronite [priests], and with him were 3,700,",
+          "ID": "27"
+        },
+        {
+          "text": "And Zadok, a young man mighty in valor, and twenty-two captains from his own father's house;",
+          "ID": "28"
+        },
+        {
+          "text": "Of the Benjamites, the kindred of [King] Saul, 3,000–hitherto the majority of them had kept their allegiance [to Saul] and the charge of the house of Saul;",
+          "ID": "29"
+        },
+        {
+          "text": "Of the Ephraimites, 20,800, mighty in valor, famous in their fathers' houses;",
+          "ID": "30"
+        },
+        {
+          "text": "Of the half-tribe of Manasseh, 18,000, who were mentioned by name to come and make David king;",
+          "ID": "31"
+        },
+        {
+          "text": "And of Issachar, men who had understanding of the times to know what Israel ought to do, 200 chiefs; and all their kinsmen were under their command;",
+          "ID": "32"
+        },
+        {
+          "text": "Of Zebulun, 50,000 experienced troops, fitted out with all kinds of weapons and instruments of war that could order and set the battle in array, men not of double purpose but stable and trustworthy.",
+          "ID": "33"
+        },
+        {
+          "text": "Of Naphtali, 1,000 captains, and with them 37,000 [of the rank and file armed] with shield and spear;",
+          "ID": "34"
+        },
+        {
+          "text": "Of Dan, 28,600, men who could set the battle in array;",
+          "ID": "35"
+        },
+        {
+          "text": "Of Asher, men able to go forth to battle, fit for active service, 40,000;",
+          "ID": "36"
+        },
+        {
+          "text": "On the other [the east] side of the Jordan River, of Reuben and Gad and the half-tribe of Manasseh, 120,000 men, armed with all the weapons and instruments of war.",
+          "ID": "37"
+        },
+        {
+          "text": "All these, being men of war arrayed in battle order, came with a perfect and sincere heart to Hebron to make David king over all Israel; and all the rest also of Israel were of one mind to make David king.",
+          "ID": "38"
+        },
+        {
+          "text": "And they were there with David for three days, eating and drinking, for their brethren had prepared for them.",
+          "ID": "39"
+        },
+        {
+          "text": "Also those who were near them from as far as Issachar, Zebulun, and Naphtali brought food on donkeys, camels, mules, and oxen, abundant supplies of meal, cakes of figs, bunches of raisins, wine, oil, oxen, and sheep, for there was joy in Israel.",
+          "ID": "40"
+        }
+      ],
+      "ID": "OT:1CH.12"
+    },
+    {
+      "name": "1 Chronicles 13",
+      "text": [
+        {
+          "text": "DAVID CONSULTED the captains of thousands and hundreds, even with every leader.",
+          "ID": "1"
+        },
+        {
+          "text": "And David said to all the assembly of Israel, If it seems good to you and if it is of the Lord our God, let us send abroad everywhere to our brethren who are left in all the land of Israel, and with them to the priests and Levites in their cities that have suburbs and pasturelands, that they may gather together with us.",
+          "ID": "2"
+        },
+        {
+          "text": "And let us bring again the ark of our God to us, for we did not seek it during the days of Saul.",
+          "ID": "3"
+        },
+        {
+          "text": "And all the assembly agreed to do so, for the thing seemed right in the eyes of all the people.",
+          "ID": "4"
+        },
+        {
+          "text": "So David gathered all Israel together, from the Shihor, the brook of Egypt [that marked the southeast border of Palestine], to the entrance of Hemath, to bring the ark of God from Kiriath-jearim.",
+          "ID": "5"
+        },
+        {
+          "text": "And David and all Israel went up to Baalah, that is, to Kiriath-jearim which belonged to Judah, to bring up from there the ark of God the Lord, which is called by the name of Him Who sits [enthroned] above the cherubim.",
+          "ID": "6"
+        },
+        {
+          "text": "And they carried the ark of God on a new cart and brought it out of the house of Abinadab, and Uzza and Ahio [his brother] drove the cart.",
+          "ID": "7"
+        },
+        {
+          "text": "And David and all Israel merrily celebrated before God with all their might, with songs and lyres and harps and tambourines and cymbals and trumpets.",
+          "ID": "8"
+        },
+        {
+          "text": "And when they came to the threshing floor of Chidon, Uzza put out his hand to steady the ark, for the oxen [that were drawing the cart] stumbled and were restive.",
+          "ID": "9"
+        },
+        {
+          "text": "And the anger of the Lord was kindled against Uzza, and He smote him because he touched the ark; and there he died before God. [Num. 4:15.]",
+          "ID": "10"
+        },
+        {
+          "text": "And David was offended because the Lord had broken forth upon Uzza; that place to this day is called Perez-uzza [the breaking forth upon Uzza].",
+          "ID": "11"
+        },
+        {
+          "text": "And David was afraid of God that day, and he said, How can I bring the ark of God home to me?",
+          "ID": "12"
+        },
+        {
+          "text": "So David did not bring the ark home to the City of David, but carried it aside into the house of Obed-edom the Gittite [a Levitical porter born in Gath-rimmon]. [Josh. 21:20, 24; I Chron. 15:24.]",
+          "ID": "13"
+        },
+        {
+          "text": "And the ark of God remained with the family of Obed-edom in his house three months. And the Lord blessed the house of Obed-edom and all that he had.",
+          "ID": "14"
+        }
+      ],
+      "ID": "OT:1CH.13"
+    },
+    {
+      "name": "1 Chronicles 14",
+      "text": [
+        {
+          "text": "AND HIRAM king of Tyre sent messengers to David, and cedar timbers, with masons and carpenters, to build him a house.",
+          "ID": "1"
+        },
+        {
+          "text": "And David perceived that the Lord had established and confirmed him as king over Israel, for his kingdom was exalted highly for His people Israel's sake.",
+          "ID": "2"
+        },
+        {
+          "text": "And David took more wives to Jerusalem, and [he] became the father of more sons and daughters.",
+          "ID": "3"
+        },
+        {
+          "text": "Now these are the names of the children whom he had in Jerusalem: Shammua, Shobab, Nathan, Solomon,",
+          "ID": "4"
+        },
+        {
+          "text": "Ibhar, Elishua, Elpelet,",
+          "ID": "5"
+        },
+        {
+          "text": "Nogah, Nepheg, Japhia,",
+          "ID": "6"
+        },
+        {
+          "text": "Elishama, Beeliada, and Eliphelet.",
+          "ID": "7"
+        },
+        {
+          "text": "And when the Philistines heard that David was anointed king over all Israel, [they] all went up to seek David. And [he] heard of it and went out before them.",
+          "ID": "8"
+        },
+        {
+          "text": "Now the Philistines had come and made a raid in the Valley of Rephaim.",
+          "ID": "9"
+        },
+        {
+          "text": "David asked God, Shall I go up against the Philistines? And will You deliver them into my hand? And the Lord said, Go up, and I will deliver them into your hand.",
+          "ID": "10"
+        },
+        {
+          "text": "So [Israel] came up to Baal-perazim, and David smote [the Philistines] there. Then David said, God has broken my enemies by my hand, like the bursting forth of waters. Therefore they called the name of that place Baal-perazim [Lord of breaking through].",
+          "ID": "11"
+        },
+        {
+          "text": "[The Philistines] left their gods there; David commanded and they were burned.",
+          "ID": "12"
+        },
+        {
+          "text": "And the Philistines again made a raid in the valley.",
+          "ID": "13"
+        },
+        {
+          "text": "And David inquired again of God, and God said to him, Do not go up after them; turn away from them and come [around] upon them over opposite the mulberry trees.",
+          "ID": "14"
+        },
+        {
+          "text": "And when you hear a sound of marching in the tops of the mulberry or balsam trees, then go out to battle, for God has gone out before you to smite the Philistine host.",
+          "ID": "15"
+        },
+        {
+          "text": "So David did as God commanded him, and they smote the army of the Philistines from Gibeon even to Gezer.",
+          "ID": "16"
+        },
+        {
+          "text": "And the fame of David went out into all lands, and the Lord brought the fear of him upon all nations.",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:1CH.14"
+    },
+    {
+      "name": "1 Chronicles 15",
+      "text": [
+        {
+          "text": "DAVID MADE for himself houses in the City of David, and he prepared a place for the ark of God and pitched a tent for it.",
+          "ID": "1"
+        },
+        {
+          "text": "Then David said, None should carry the ark of God but the Levites, for the Lord chose them to carry the ark of God and to minister to Him forever.",
+          "ID": "2"
+        },
+        {
+          "text": "And David assembled all Israel at Jerusalem to bring up the ark of the Lord to its place, which he had prepared for it.",
+          "ID": "3"
+        },
+        {
+          "text": "And David gathered together the sons of Aaron and the Levites:",
+          "ID": "4"
+        },
+        {
+          "text": "Of the sons of Kohath, Uriel the chief, with 120 kinsmen;",
+          "ID": "5"
+        },
+        {
+          "text": "Of the sons of Merari, Asaiah the chief, with 220 kinsmen;",
+          "ID": "6"
+        },
+        {
+          "text": "Of the sons of Gershom, Joel the chief, with 130 kinsmen;",
+          "ID": "7"
+        },
+        {
+          "text": "Of the sons of Elizaphan, Shemaiah the chief, with 200 kinsmen;",
+          "ID": "8"
+        },
+        {
+          "text": "Of the sons of Hebron, Eliel the chief, with 80 kinsmen;",
+          "ID": "9"
+        },
+        {
+          "text": "Of the sons of Uzziel, Amminadab the chief, with 112 kinsmen.",
+          "ID": "10"
+        },
+        {
+          "text": "And David called for Zadok and Abiathar the priests, and for the Levites–Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,",
+          "ID": "11"
+        },
+        {
+          "text": "And said to them, You are the heads of the fathers' houses of the Levites; sanctify yourselves, both you and your brethren, that you may bring up the ark of the Lord, the God of Israel, to the place that I have prepared for it.",
+          "ID": "12"
+        },
+        {
+          "text": "For because you bore it not [as God directed] at the first, the Lord our God broke forth upon us–because we did not seek Him in the way He ordained. [Num. 1:50; I Chron. 13:7-10.]",
+          "ID": "13"
+        },
+        {
+          "text": "So the priests and the Levites sanctified themselves to bring up the ark of the Lord, the God of Israel.",
+          "ID": "14"
+        },
+        {
+          "text": "The Levites carried the ark of God on their shoulders with the poles, as Moses commanded by the word of the Lord.",
+          "ID": "15"
+        },
+        {
+          "text": "David told the chief Levites to appoint their brethren the singers with instruments of music–harps, lyres, and cymbals–to play loudly and lift up their voices with joy.",
+          "ID": "16"
+        },
+        {
+          "text": "So the Levites appointed Heman son of Joel; and of his brethren, Asaph son of Berechiah; and of the sons of Merari their brethren, Ethan son of Kushaiah;",
+          "ID": "17"
+        },
+        {
+          "text": "And with them their brethren of the second class: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, and Mikneiah, and also the gatekeepers, Obed-edom and Jeiel.",
+          "ID": "18"
+        },
+        {
+          "text": "So the singers Heman, Asaph, and Ethan, were appointed to sound bronze cymbals;",
+          "ID": "19"
+        },
+        {
+          "text": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play harps [resembling guitars] set to Alamoth [probably the treble voice];",
+          "ID": "20"
+        },
+        {
+          "text": "Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead with lyres set to Sheminith [the bass voice].",
+          "ID": "21"
+        },
+        {
+          "text": "Chenaniah, leader of the Levites in singing, was put in charge of carrying the ark and lifting up song. He instructed about these matters because he was skilled and able.",
+          "ID": "22"
+        },
+        {
+          "text": "Berechiah and Elkanah were gatekeepers for the ark.",
+          "ID": "23"
+        },
+        {
+          "text": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer the priests were to blow the trumpets before the ark of God. And Obed-edom and Jehiah (Jeiel) were also gatekeepers for the ark.",
+          "ID": "24"
+        },
+        {
+          "text": "So David, the elders of Israel, and the captains over thousands went to bring up the ark of the covenant of the Lord out of the house of Obed-edom with joy.",
+          "ID": "25"
+        },
+        {
+          "text": "And when God helped the Levites who carried the ark of the covenant of the Lord [with a safe start], they offered seven bulls and seven rams.",
+          "ID": "26"
+        },
+        {
+          "text": "David was clothed with a robe of fine linen, as were the Levites who bore the ark, and the singers, and Chenaniah, director of the music of the singers. David also wore an ephod [a priestly upper garment] of linen.",
+          "ID": "27"
+        },
+        {
+          "text": "Thus all Israel brought up the ark of the covenant of the Lord with shouting, sound of the cornet, trumpets, and cymbals, sounding aloud with harps and lyres.",
+          "ID": "28"
+        },
+        {
+          "text": "As the ark of the covenant of the Lord came to the City of David, Michal [David's wife] daughter of Saul, looking from a window, saw King David leaping as in sport, and she despised him in her heart.",
+          "ID": "29"
+        }
+      ],
+      "ID": "OT:1CH.15"
+    },
+    {
+      "name": "1 Chronicles 16",
+      "text": [
+        {
+          "text": "SO THEY brought the ark of God and set it in the midst of the tent which David had pitched for it, and they offered burnt offerings and peace offerings before God.",
+          "ID": "1"
+        },
+        {
+          "text": "And when David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the Lord.",
+          "ID": "2"
+        },
+        {
+          "text": "And he distributed to everyone of Israel, both man and woman, to everyone a loaf of bread, a portion of meat, and a cake of raisins.",
+          "ID": "3"
+        },
+        {
+          "text": "He appointed Levites to minister before the ark of the Lord and to celebrate [by calling to mind], thanking and praising the Lord, the God of Israel:",
+          "ID": "4"
+        },
+        {
+          "text": "Asaph was the chief, next to him Zechariah, Jeiel (Jaaziel), Shemiramoth, Jehiel, Mattithiah, Eliab, and Benaiah, Obed-edom and Jeiel, who were to play harps and lyres; Asaph was to sound the cymbals;",
+          "ID": "5"
+        },
+        {
+          "text": "Benaiah and Jahaziel the priests were to blow trumpets continually before the ark of the covenant of God.",
+          "ID": "6"
+        },
+        {
+          "text": "Then on that day David first entrusted to Asaph and his brethren the singing of thanks to the Lord [as their chief task]:",
+          "ID": "7"
+        },
+        {
+          "text": "O give thanks to the Lord, call on His name; make known His doings among the peoples!",
+          "ID": "8"
+        },
+        {
+          "text": "Sing to Him, sing praises to Him; meditate on and talk of all His wondrous works and devoutly praise them!",
+          "ID": "9"
+        },
+        {
+          "text": "Glory in His holy name; let the hearts of those rejoice who seek the Lord!",
+          "ID": "10"
+        },
+        {
+          "text": "Seek the Lord and His strength; yearn for and seek His face and to be in His presence continually!",
+          "ID": "11"
+        },
+        {
+          "text": "[Earnestly] remember the marvelous deeds which He has done, His miracles, and the judgments He uttered [as in Egypt],",
+          "ID": "12"
+        },
+        {
+          "text": "O you offspring of [Abraham and] of Israel His servants, you children of Jacob, His chosen ones!",
+          "ID": "13"
+        },
+        {
+          "text": "He is the Lord our God; His judgments are in all the earth.",
+          "ID": "14"
+        },
+        {
+          "text": "Be mindful of His covenant forever, the promise which He commanded and established to a thousand generations,",
+          "ID": "15"
+        },
+        {
+          "text": "The covenant which He made with Abraham, and His sworn promise to Isaac.",
+          "ID": "16"
+        },
+        {
+          "text": "He confirmed it as a statute to Jacob, and to Israel for an everlasting covenant, [Gen. 35:11, 12.]",
+          "ID": "17"
+        },
+        {
+          "text": "Saying, To you I will give the land of Canaan, the measured portion of your possession and inheritance.",
+          "ID": "18"
+        },
+        {
+          "text": "When they were but few, even a very few, and only temporary residents and strangers in it,",
+          "ID": "19"
+        },
+        {
+          "text": "When they went from nation to nation, and from one kingdom to another people,",
+          "ID": "20"
+        },
+        {
+          "text": "He allowed no man to do them wrong; yes, He reproved kings for their sakes, [Gen. 12:17; 20:3; Exod. 7:15-18.]",
+          "ID": "21"
+        },
+        {
+          "text": "Saying, Touch not My anointed, and do My prophets no harm. [Gen. 20:7.]",
+          "ID": "22"
+        },
+        {
+          "text": "Sing to the Lord, all the earth; show forth from day to day His salvation.",
+          "ID": "23"
+        },
+        {
+          "text": "Declare His glory among the nations, His marvelous works among all peoples.",
+          "ID": "24"
+        },
+        {
+          "text": "For great is the Lord and greatly to be praised; He also is to be [reverently] feared above all so-called gods.",
+          "ID": "25"
+        },
+        {
+          "text": "For all the gods of the people are [lifeless] idols, but the Lord made the heavens.",
+          "ID": "26"
+        },
+        {
+          "text": "Honor and majesty are [found] in His presence; strength and joy are [found] in His sanctuary.",
+          "ID": "27"
+        },
+        {
+          "text": "Ascribe to the Lord, you families of the peoples, ascribe to the Lord glory and strength,",
+          "ID": "28"
+        },
+        {
+          "text": "Ascribe to the Lord the glory due His name. Bring an offering and come before Him; worship the Lord in the beauty of holiness and in holy array.",
+          "ID": "29"
+        },
+        {
+          "text": "Tremble and reverently fear before Him, all the earth's peoples; the world also shall be established, so it cannot be moved.",
+          "ID": "30"
+        },
+        {
+          "text": "Let the heavens be glad and let the earth rejoice; and let men say among the nations, The Lord reigns!",
+          "ID": "31"
+        },
+        {
+          "text": "Let the sea roar, and all the things that fill it; let the fields rejoice, and all that is in them.",
+          "ID": "32"
+        },
+        {
+          "text": "Then shall the trees of the wood sing out for joy before the Lord, for He comes to judge and govern the earth.",
+          "ID": "33"
+        },
+        {
+          "text": "O give thanks to the Lord, for He is good; for His mercy and loving-kindness endure forever!",
+          "ID": "34"
+        },
+        {
+          "text": "And say, Save us, O God of our salvation; gather us together and deliver us from the nations, that we may give thanks to Your holy name and glory in Your praise.",
+          "ID": "35"
+        },
+        {
+          "text": "Blessed be the Lord, the God of Israel, forever and ever! And all the people said Amen! and praised the Lord.",
+          "ID": "36"
+        },
+        {
+          "text": "So David left Asaph and his brethren before the ark of the covenant of the Lord to minister before the ark continually, as each day's work required,",
+          "ID": "37"
+        },
+        {
+          "text": "And Obed-edom with [his] sixty-eight kinsmen. Also Obed-edom son of Jeduthun, and Hosah, were to be gatekeepers.",
+          "ID": "38"
+        },
+        {
+          "text": "And David left Zadok the priest and his brethren the priests before the tabernacle of the Lord in the high place that was at Gibeon",
+          "ID": "39"
+        },
+        {
+          "text": "To offer burnt offerings to the Lord upon the altar of burnt offering continually, morning and evening, and to do all that is written in the Law of the Lord which He commanded Israel.",
+          "ID": "40"
+        },
+        {
+          "text": "With them were Heman and Jeduthun and the rest who were chosen and expressly named to give thanks to the Lord, for His mercy and loving-kindness endure forever.",
+          "ID": "41"
+        },
+        {
+          "text": "With them were Heman and Jeduthun with trumpets and cymbals for those who should sound aloud, and instruments for accompanying the songs of God. And the sons of Jeduthun were to be at the gate.",
+          "ID": "42"
+        },
+        {
+          "text": "Then all the people departed, each man to his house, and David returned home to bless his household.",
+          "ID": "43"
+        }
+      ],
+      "ID": "OT:1CH.16"
+    },
+    {
+      "name": "1 Chronicles 17",
+      "text": [
+        {
+          "text": "AS DAVID sat in his house, he said to Nathan the prophet, Behold, I dwell in a house of cedars, but the ark of the covenant of the Lord remains under tent curtains.",
+          "ID": "1"
+        },
+        {
+          "text": "Then Nathan said to David, Do all that is in your heart, for God is with you.",
+          "ID": "2"
+        },
+        {
+          "text": "And that same night the word of God came to Nathan, saying,",
+          "ID": "3"
+        },
+        {
+          "text": "Go and tell David My servant, Thus says the Lord: You shall not build Me a house to dwell in,",
+          "ID": "4"
+        },
+        {
+          "text": "For I have not dwelt in a house since the day that I brought up Israel from Egypt until this day; but I have gone from tent to tent, and from one tabernacle to another.",
+          "ID": "5"
+        },
+        {
+          "text": "Wherever I have walked with all Israel, did I say a word to any of the judges of Israel whom I commanded to feed My people, saying, Why have you not built Me a house of cedar?",
+          "ID": "6"
+        },
+        {
+          "text": "Now therefore, thus shall you say to My servant David, Thus says the Lord of hosts: I took you from the sheepfold, from following the sheep, that you should be prince over My people Israel.",
+          "ID": "7"
+        },
+        {
+          "text": "And I have been with you wherever you have gone, and I have cut off all your enemies from before you, and I will make your name like the name of the great ones of the earth.",
+          "ID": "8"
+        },
+        {
+          "text": "Also I will appoint a place for My people Israel and will plant them, that they may dwell in their own place and be moved no more; neither shall the children of wickedness waste them any more, as at the first,",
+          "ID": "9"
+        },
+        {
+          "text": "Since the time that I commanded judges to be over My people Israel. Moreover, I will subdue all your enemies. Furthermore, I foretell to you that the Lord will build you a house (a blessed posterity).",
+          "ID": "10"
+        },
+        {
+          "text": "And it shall come to pass that when your days are fulfilled to go to be with your fathers, I will raise up your offspring after you, one of your own sons, and I will establish his kingdom.",
+          "ID": "11"
+        },
+        {
+          "text": "He shall build Me a house, and I will establish his throne forever. [I Chron. 28:7.]",
+          "ID": "12"
+        },
+        {
+          "text": "I will be his father, and he shall be My son; and I will not take My mercy and steadfast love away from him, as I took it from him [King Saul] who was before you. [Heb. 1:5, 6.]",
+          "ID": "13"
+        },
+        {
+          "text": "But I will settle him (Him) in My house and in My kingdom forever; and his (His) throne shall be established forevermore. [Isa. 9:7.]",
+          "ID": "14"
+        },
+        {
+          "text": "According to all these words and according to all this vision, so Nathan spoke to David.",
+          "ID": "15"
+        },
+        {
+          "text": "And David the king went in and sat before the Lord and said, Who am I, O Lord God, and what is my house and family, that You have brought me up to this?",
+          "ID": "16"
+        },
+        {
+          "text": "And yet this was a small thing in Your eyes, O God; for You have spoken of Your servant's house for a great while to come, and have regarded me according to the estate of a man of high degree, O Lord God!",
+          "ID": "17"
+        },
+        {
+          "text": "What more can David say to You for thus honoring Your servant? For You know Your servant.",
+          "ID": "18"
+        },
+        {
+          "text": "O Lord, for Your servant's sake and in accord with Your own heart, You have wrought all this greatness, to make known all these great things.",
+          "ID": "19"
+        },
+        {
+          "text": "O Lord, there is none like You, nor is there any God beside You, according to all that our ears have heard.",
+          "ID": "20"
+        },
+        {
+          "text": "And what nation on the earth is like Your people Israel, whom God went to redeem to Himself as a people, making Yourself a name by great and terrible things, by driving out nations from before Your people, whom You redeemed out of Egypt?",
+          "ID": "21"
+        },
+        {
+          "text": "You made Your people Israel Your own forever, and You, Lord, became their God.",
+          "ID": "22"
+        },
+        {
+          "text": "Therefore now, Lord, let the word which You have spoken concerning Your servant and his house be established forever, and do as You have said.",
+          "ID": "23"
+        },
+        {
+          "text": "Let it be established and let Your name [and the character that name denotes] be magnified forever, saying, The Lord of hosts, the God of Israel, is Israel's God; and the house of David Your servant will be established before You.",
+          "ID": "24"
+        },
+        {
+          "text": "For You, O my God, have told Your servant that You will build for him a house (a blessed posterity); therefore Your servant has found courage and confidence to pray before You.",
+          "ID": "25"
+        },
+        {
+          "text": "And now, Lord, You are God, and have promised this good thing to Your servant.",
+          "ID": "26"
+        },
+        {
+          "text": "Therefore may it please You to bless the house (posterity) of Your servant, that it may continue before You forever; for what You bless, O Lord, is blessed forever.",
+          "ID": "27"
+        }
+      ],
+      "ID": "OT:1CH.17"
+    },
+    {
+      "name": "1 Chronicles 18",
+      "text": [
+        {
+          "text": "AFTER THIS, David smote and subdued the Philistines, and took Gath and its villages out of the hand of the Philistines.",
+          "ID": "1"
+        },
+        {
+          "text": "He smote Moab, and the Moabites became David's servants and brought tribute.",
+          "ID": "2"
+        },
+        {
+          "text": "Also David defeated Hadadezer king of Zobah toward Hamath, as he went to establish his dominion by the river Euphrates.",
+          "ID": "3"
+        },
+        {
+          "text": "David took from him 1,000 chariots, 7,000 horsemen, and 20,000 foot soldiers. David also hamstrung all the chariot horses, but reserved enough for 100 chariots.",
+          "ID": "4"
+        },
+        {
+          "text": "When the Syrians of Damascus came to help Hadadezer king of Zobah, David slew of the Syrians 22,000 men.",
+          "ID": "5"
+        },
+        {
+          "text": "Then David put garrisons in Syria, [whose capital was] Damascus; the Syrians became David's servants and brought tribute. Thus the Lord preserved and gave victory to David wherever he went.",
+          "ID": "6"
+        },
+        {
+          "text": "David took the shields of gold that were carried by the servants of Hadadezer and brought them to Jerusalem.",
+          "ID": "7"
+        },
+        {
+          "text": "Likewise from Tibhath and from Cun, cities of Hadadezer, David brought very much bronze, with which Solomon later made the bronze laver, the pillars, and the vessels of bronze.",
+          "ID": "8"
+        },
+        {
+          "text": "When Tou king of Hamath heard how David had defeated all the hosts of Hadadezer king of Zobah,",
+          "ID": "9"
+        },
+        {
+          "text": "He sent Hadoram his son to King David to salute him and to congratulate him because he had fought and defeated Hadadezer, for Hadadezer had had wars with Tou. And Hadoram brought with him all manner of vessels of gold, silver, and bronze.",
+          "ID": "10"
+        },
+        {
+          "text": "King David dedicated them also to the Lord, with the silver and the gold he brought from all these nations: Edom, Moab, the Ammonites, the Philistines, and the Amalekites.",
+          "ID": "11"
+        },
+        {
+          "text": "Also Abishai son of Zeruiah slew 18,000 of the Edomites in the Valley of Salt.",
+          "ID": "12"
+        },
+        {
+          "text": "He put garrisons in Edom, and all the Edomites became David's servants. Thus the Lord preserved and gave victory to David wherever he went.",
+          "ID": "13"
+        },
+        {
+          "text": "So David reigned over all Israel and executed judgment and justice among all his people.",
+          "ID": "14"
+        },
+        {
+          "text": "Joab son of Zeruiah [David's half sister] was over the army; and Jehoshaphat son of Ahilud was the recorder;",
+          "ID": "15"
+        },
+        {
+          "text": "Zadok son of Ahitub and Abimelech son of Abiathar were the priests; and Shavsha was secretary [of state];",
+          "ID": "16"
+        },
+        {
+          "text": "Benaiah son of Jehoiada was over [David's bodyguards] the Cherethites and the Pelethites; and David's sons were chiefs next to the king.",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:1CH.18"
+    },
+    {
+      "name": "1 Chronicles 19",
+      "text": [
+        {
+          "text": "AFTER THIS, Nahash king of the Ammonites died, and his son reigned in his stead.",
+          "ID": "1"
+        },
+        {
+          "text": "David said, I will show kindness to Hanun son of Nahash, because his father showed kindness to me. And David sent messengers to comfort him concerning his father's death. So the servants of David came into the land of the Ammonites to comfort Hanun.",
+          "ID": "2"
+        },
+        {
+          "text": "But the princes of the Ammonites said to Hanun, Do you think that David has sent comforters to you because he honors your father? Have his servants not come to you to search, to overthrow, and to spy out the land?",
+          "ID": "3"
+        },
+        {
+          "text": "Therefore Hanun took David's servants, shaved them, cut off their garments in the middle near their buttocks, and sent them away.",
+          "ID": "4"
+        },
+        {
+          "text": "When David was told how the men were served, he sent to meet them, for [they] were greatly shamed and embarrassed. The king said, Stay in Jericho until your beards are grown, and then return.",
+          "ID": "5"
+        },
+        {
+          "text": "When the Ammonites saw that they had made themselves hateful to David, Hanun and [his people] sent 1,000 talents of silver to hire chariots and horsemen from Mesopotamia and Aram-maacah and Zobah.",
+          "ID": "6"
+        },
+        {
+          "text": "So they hired 32,000 chariots, and the king of Maacah and his troops, who came and pitched before Medeba. And the Ammonites gathered from their cities and came to battle.",
+          "ID": "7"
+        },
+        {
+          "text": "When David heard of it, he sent Joab and all the army of mighty men.",
+          "ID": "8"
+        },
+        {
+          "text": "And the Ammonites came out and lined up in battle array before the entrance of the city [Medeba], and the kings who had come were by themselves in the open country.",
+          "ID": "9"
+        },
+        {
+          "text": "When Joab saw that the battle was set against him before and behind, he chose from all the choice men of Israel and put them in array against the Syrians.",
+          "ID": "10"
+        },
+        {
+          "text": "The rest of the soldiers he delivered to Abishai his brother, and they were arrayed against the Ammonites.",
+          "ID": "11"
+        },
+        {
+          "text": "And he said, If the Syrians are too strong for me, then you help me; but if the Ammonites are too strong for you, I will help you.",
+          "ID": "12"
+        },
+        {
+          "text": "Be of good courage and let us behave ourselves courageously for our people and for the cities of our God; and may the Lord do what is good in His sight.",
+          "ID": "13"
+        },
+        {
+          "text": "So Joab and the people who were with him drew near before the Syrians for battle, and they fled before him.",
+          "ID": "14"
+        },
+        {
+          "text": "And when the Ammonites saw that the Syrians fled, they likewise fled before Abishai, Joab's brother, and entered into the city [Medeba]. Then Joab came to Jerusalem.",
+          "ID": "15"
+        },
+        {
+          "text": "When the Syrians saw that they were defeated by Israel, they sent messengers and drew forth the Syrians who were beyond the Euphrates River, with Shophach the commander of the army of Hadadezer at their head.",
+          "ID": "16"
+        },
+        {
+          "text": "It was told to David, and he gathered all Israel and crossed the Jordan and drew up his army against them. So when David set the battle in array against the Syrians, they fought with him.",
+          "ID": "17"
+        },
+        {
+          "text": "But the Syrians fled before Israel, and David slew of the Syrians 7,000 men in chariots and 40,000 foot soldiers, and killed Shophach the commander of the army.",
+          "ID": "18"
+        },
+        {
+          "text": "When the servants of Hadadezer saw that they were defeated before Israel, they made peace with David and became subject to him; nor would the Syrians any longer help the Ammonites.",
+          "ID": "19"
+        }
+      ],
+      "ID": "OT:1CH.19"
+    },
+    {
+      "name": "1 Chronicles 20",
+      "text": [
+        {
+          "text": "AFTER THE end of the year, when kings go out to battle, Joab led forth the army and devastated the land of the Ammonites, and came and besieged Rabbah. But David tarried at Jerusalem. Joab smote Rabbah and overthrew it.",
+          "ID": "1"
+        },
+        {
+          "text": "David took their king's crown from off his head and found that it weighed a talent of gold and that precious stones were in it. It was set upon David's head. He brought also very much spoil out of the city of Rabbah.",
+          "ID": "2"
+        },
+        {
+          "text": "He brought out the people who were in it and set them at cutting with saws, iron wedges, and axes. So David dealt with all the Ammonite cities. And David and all the army returned to Jerusalem.",
+          "ID": "3"
+        },
+        {
+          "text": "After this, there arose war at Gezer with the Philistines; then Sibbecai the Hushathite slew Sippai, of the sons of the giant, and they were subdued.",
+          "ID": "4"
+        },
+        {
+          "text": "There was war again with the Philistines, and Elhanan son of Jair slew Lahmi the brother of Goliath the Gittite, the staff of whose spear was like a weaver's beam.",
+          "ID": "5"
+        },
+        {
+          "text": "And again there was war at Gath, where was a man of great stature who had twenty-four fingers and toes, six on each hand and each foot. He also was born to the giant.",
+          "ID": "6"
+        },
+        {
+          "text": "And when he reproached and defied Israel, Jonathan son of Shimea, David's brother, slew him.",
+          "ID": "7"
+        },
+        {
+          "text": "These were born to the giant [clan] in Gath, and they fell by the hands of David and his servants.",
+          "ID": "8"
+        }
+      ],
+      "ID": "OT:1CH.20"
+    },
+    {
+      "name": "1 Chronicles 21",
+      "text": [
+        {
+          "text": "SATAN [an adversary] stood up against Israel and stirred up David to number Israel.",
+          "ID": "1"
+        },
+        {
+          "text": "David said to Joab and the rulers of the people, Go, number Israel from Beersheba to Dan, and bring me the total, that I may know it.",
+          "ID": "2"
+        },
+        {
+          "text": "And Joab answered, May the Lord multiply His people a hundred times! But, my lord the king, are they not all my lord's servants? Why then does my lord require this? Why will he bring guilt upon Israel?",
+          "ID": "3"
+        },
+        {
+          "text": "But the king's word prevailed against Joab. So Joab departed and went throughout all Israel and came to Jerusalem.",
+          "ID": "4"
+        },
+        {
+          "text": "Joab gave the total number of the people to David. And all of Israel were 1,100,000 who drew the sword, and of Judah 470,000 who drew the sword.",
+          "ID": "5"
+        },
+        {
+          "text": "But Levi and Benjamin he did not include among them, for the king's order was detestable to Joab.",
+          "ID": "6"
+        },
+        {
+          "text": "And God was displeased with this [reliance on human resources], and He smote Israel.",
+          "ID": "7"
+        },
+        {
+          "text": "And David said to God, I have sinned greatly because I have done this thing. But now, I beseech You, take away the hateful wickedness of Your servant; for I have done very foolishly.",
+          "ID": "8"
+        },
+        {
+          "text": "And the Lord said to Gad, David's seer,",
+          "ID": "9"
+        },
+        {
+          "text": "Go and tell David, Thus says the Lord: I offer you three things; choose one of them, that I may do it to you.",
+          "ID": "10"
+        },
+        {
+          "text": "So Gad came to David and said to him, Thus says the Lord: Take which one you will:",
+          "ID": "11"
+        },
+        {
+          "text": "Either three years of famine, or three months of devastation before your foes, while the sword of your enemies overtakes you, or else three days of the sword of the Lord and pestilence in the land, and the angel of the Lord destroying throughout all the borders of Israel. Now therefore, consider what answer I shall return to Him Who sent me.",
+          "ID": "12"
+        },
+        {
+          "text": "And David said to Gad, I am in great and distressing perplexity; let me fall, I pray you, into the hands of the Lord, for very great and many are His mercies; but let me not fall into the hands of man.",
+          "ID": "13"
+        },
+        {
+          "text": "So the Lord sent a pestilence upon Israel, and there fell of Israel 70,000 men.",
+          "ID": "14"
+        },
+        {
+          "text": "God sent an angel to Jerusalem to destroy it, and as he was destroying, the Lord beheld, and He regretted and relented of the evil and said to the destroying angel, It is enough; now stay your hand. And the angel of the Lord stood by the threshing floor of Ornan the Jebusite.",
+          "ID": "15"
+        },
+        {
+          "text": "David lifted up his eyes and saw the angel of the Lord standing between earth and the heavens, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders, clothed in sackcloth, fell upon their faces.",
+          "ID": "16"
+        },
+        {
+          "text": "And David said to God, Is it not I who commanded the people to be numbered? It is I who has sinned and done evil indeed; but as for these sheep, what have they done? Let Your hand, I pray You, O Lord my God, be on me and on my father's house, but not on Your people, that they should be plagued.",
+          "ID": "17"
+        },
+        {
+          "text": "Then the angel of the Lord commanded Gad to say to David that David should go up and set up an altar to the Lord in the threshing floor of Ornan the Jebusite.",
+          "ID": "18"
+        },
+        {
+          "text": "So David went up at Gad's word, which he spoke in the name of the Lord.",
+          "ID": "19"
+        },
+        {
+          "text": "Now Ornan was threshing wheat, and he turned back and saw the angel; and his four sons hid themselves.",
+          "ID": "20"
+        },
+        {
+          "text": "And as David came to Ornan, Ornan looked and saw him, and went out from the threshing floor and bowed himself to David with his face to the ground.",
+          "ID": "21"
+        },
+        {
+          "text": "Then David said to Ornan, Grant me the site of this threshing floor, that I may build an altar on it to the Lord. You shall charge me the full price for it, that the plague may be averted from the people.",
+          "ID": "22"
+        },
+        {
+          "text": "Ornan said to David, Take it; and let my lord the king do what is good in his eyes. I give you the oxen also for burnt offerings and the threshing sledges for wood and the wheat for the meal offering. I give it all.",
+          "ID": "23"
+        },
+        {
+          "text": "And King David said to Ornan, No, but I will pay the full price. I will not take what is yours for the Lord, nor offer burnt offerings which cost me nothing.",
+          "ID": "24"
+        },
+        {
+          "text": "So David gave to Ornan for the site 600 shekels of gold by weight.",
+          "ID": "25"
+        },
+        {
+          "text": "And David built there an altar to the Lord and offered burnt offerings and peace offerings and called upon the Lord; and He answered him by fire from heaven upon the altar of burnt offering.",
+          "ID": "26"
+        },
+        {
+          "text": "Then the Lord commanded the [avenging] angel, and he put his sword back into its sheath.",
+          "ID": "27"
+        },
+        {
+          "text": "When David saw that the Lord had answered him at the threshing floor of Ornan the Jebusite, he sacrificed there.",
+          "ID": "28"
+        },
+        {
+          "text": "For the tabernacle of the Lord, which Moses made in the wilderness, and the altar of burnt offering were at that time in the high place at Gibeon.",
+          "ID": "29"
+        },
+        {
+          "text": "But David could not go before it to inquire of God, for he was afraid of the sword of the angel of the Lord.",
+          "ID": "30"
+        }
+      ],
+      "ID": "OT:1CH.21"
+    },
+    {
+      "name": "1 Chronicles 22",
+      "text": [
+        {
+          "text": "THEN DAVID said, Here shall be the house of the Lord God, and here the altar of the burnt offering for Israel.",
+          "ID": "1"
+        },
+        {
+          "text": "David commanded to gather together the strangers who were in the land of Israel, and he set stonecutters to hew out stones to build the house of God.",
+          "ID": "2"
+        },
+        {
+          "text": "David prepared iron in abundance for nails for the doors of the gates and for the couplings, and bronze in abundance without weighing,",
+          "ID": "3"
+        },
+        {
+          "text": "Also cedar trees without number, for the Sidonians and they of Tyre brought much cedar timber to David.",
+          "ID": "4"
+        },
+        {
+          "text": "David said, Solomon my son is young and inexperienced, and the house that is to be built for the Lord must be exceedingly magnificent, of fame and glory throughout all lands. I will therefore make preparation for it. So David prepared abundantly before his death.",
+          "ID": "5"
+        },
+        {
+          "text": "Then he called for Solomon his son and charged him to build a house for the Lord, the God of Israel.",
+          "ID": "6"
+        },
+        {
+          "text": "David said to Solomon, My son, it was in my heart to build a house to the Name and [for the symbol of] the Presence of the Lord my God.",
+          "ID": "7"
+        },
+        {
+          "text": "But the word of the Lord came to me, saying, You have shed much blood and have waged great wars; you shall not build a house to My Name, because you have shed much blood on the earth in My sight.",
+          "ID": "8"
+        },
+        {
+          "text": "Behold, a son shall be born to you who shall be a man of peace. I will give him rest from all his enemies round about; for his name shall be Solomon [peaceable], and I will give peace and quiet to Israel in his days. [II Sam. 12:24, 25.]",
+          "ID": "9"
+        },
+        {
+          "text": "He shall build a house for My Name and [the symbol of My] Presence. He shall be My son, and I will be his father; and I will establish his royal throne over Israel forever.",
+          "ID": "10"
+        },
+        {
+          "text": "Now, my son, the Lord be with and prosper you in building the house of the Lord your God, as He has spoken concerning you.",
+          "ID": "11"
+        },
+        {
+          "text": "Only may the Lord give you wisdom and understanding as you are put in charge of Israel, that you may keep the law of the Lord your God.",
+          "ID": "12"
+        },
+        {
+          "text": "Then you will prosper if you are careful to keep and fulfill the statutes and ordinances with which the Lord charged Moses concerning Israel. Be strong and of good courage. Dread not and fear not; be not dismayed.",
+          "ID": "13"
+        },
+        {
+          "text": "In my affliction and trouble I have provided for the house of the Lord 100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron without weighing. I have also provided timber and stone; you must add to them.",
+          "ID": "14"
+        },
+        {
+          "text": "You have workmen in abundance: hewers, workers of stone and timber, and all kinds of craftsmen without number, skillful in doing every kind of work",
+          "ID": "15"
+        },
+        {
+          "text": "With gold, silver, bronze, and iron. So arise and be doing, and the Lord be with you!",
+          "ID": "16"
+        },
+        {
+          "text": "David also commanded all the princes of Israel to help Solomon his son, saying,",
+          "ID": "17"
+        },
+        {
+          "text": "Is not the Lord your God with you? And has He not given you peace on every side? For He has given the inhabitants of the land into my hand, and the land is subdued before the Lord and His people.",
+          "ID": "18"
+        },
+        {
+          "text": "Now set your mind and heart to seek (inquire of and require as your vital necessity) the Lord your God. Arise and build the sanctuary of the Lord God, so that the ark of the covenant of the Lord and the holy vessels of God may be brought into the house built to the Name and renown of the Lord.",
+          "ID": "19"
+        }
+      ],
+      "ID": "OT:1CH.22"
+    },
+    {
+      "name": "1 Chronicles 23",
+      "text": [
+        {
+          "text": "WHEN DAVID was old and full of days, he made Solomon his son king over Israel.",
+          "ID": "1"
+        },
+        {
+          "text": "David assembled all the leaders of Israel, with the priests and Levites.",
+          "ID": "2"
+        },
+        {
+          "text": "The Levites thirty years old and upward numbered, man by man, 38,000,",
+          "ID": "3"
+        },
+        {
+          "text": "Of whom 24,000 were to oversee the work of the house of the Lord and 6,000 were to be officers and judges.",
+          "ID": "4"
+        },
+        {
+          "text": "And, said David, 4,000 shall be gatekeepers and 4,000 are to praise the Lord with the instruments which I made for praise.",
+          "ID": "5"
+        },
+        {
+          "text": "And David organized them in sections according to the sons of Levi: Gershon, Kohath, and Merari.",
+          "ID": "6"
+        },
+        {
+          "text": "Of the Gershonites: Ladan (Libni) and Shimei.",
+          "ID": "7"
+        },
+        {
+          "text": "The sons of Ladan: Jehiel the chief, Zetham, and Joel–three in all.",
+          "ID": "8"
+        },
+        {
+          "text": "The sons of Shimei: Shelomoth, Haziel, and Haran–three in all. These were the heads of the fathers' houses of Ladan.",
+          "ID": "9"
+        },
+        {
+          "text": "And the sons of Shimei: Jahath, Zina (Zizah), Jeush, and Beriah. Of these four sons of Shimei,",
+          "ID": "10"
+        },
+        {
+          "text": "Jahath was chief and Zizah the second, but Jeush and Beriah had not many sons [not enough for a father's house or clan]; so they were counted together as one father's house.",
+          "ID": "11"
+        },
+        {
+          "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel–four in all.",
+          "ID": "12"
+        },
+        {
+          "text": "The sons of Amram: Aaron and Moses. Aaron was set apart to sanctify him as most holy and to consecrate the most holy things, that he and his sons forever might burn incense before the Lord, minister to Him, and bless in His name [and the character which that name denotes] forever.",
+          "ID": "13"
+        },
+        {
+          "text": "But the sons of Moses the man of God were named among the tribe of Levi.",
+          "ID": "14"
+        },
+        {
+          "text": "The sons of Moses: Gershom and Eliezer.",
+          "ID": "15"
+        },
+        {
+          "text": "The son of Gershom: Shebuel the chief.",
+          "ID": "16"
+        },
+        {
+          "text": "The son of Eliezer: Rehabiah the chief. Eliezer had no other sons, but Rehabiah's sons were very many.",
+          "ID": "17"
+        },
+        {
+          "text": "The sons of Izhar: Shelomith was the chief.",
+          "ID": "18"
+        },
+        {
+          "text": "The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+          "ID": "19"
+        },
+        {
+          "text": "The sons of Uzziel: Micah the first and Isshiah the second.",
+          "ID": "20"
+        },
+        {
+          "text": "The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.",
+          "ID": "21"
+        },
+        {
+          "text": "Eleazar died and had no sons, but daughters only, and their kinsmen, sons of Kish, took them as wives.",
+          "ID": "22"
+        },
+        {
+          "text": "The sons of Mushi: Mahli, Eder, and Jeremoth–three in all.",
+          "ID": "23"
+        },
+        {
+          "text": "These were the Levites by their fathers' houses, the heads of the fathers' houses of those registered, according to the number of names of the individuals who were the servants of the house of the Lord, from twenty years old and upward.",
+          "ID": "24"
+        },
+        {
+          "text": "For David said, The Lord, the God of Israel has given peace and rest to His people, and He dwells in Jerusalem forever.",
+          "ID": "25"
+        },
+        {
+          "text": "So the Levites no more have need to carry the tabernacle and all its vessels for its service.",
+          "ID": "26"
+        },
+        {
+          "text": "For by the last words and acts of David, these were the number of the Levites from twenty years old and above.",
+          "ID": "27"
+        },
+        {
+          "text": "But their duty should be to wait on [the priests] the sons of Aaron in the service of the house of the Lord, caring for the courts, the chambers, the cleansing of all holy things, and any work of the service of God's house,",
+          "ID": "28"
+        },
+        {
+          "text": "For the showbread also, and for the fine flour for a cereal offering, whether of unleavened wafers or of what is baked on the griddle or soaked [in oil], and for all measuring of amount and size [as the Law of Moses required].",
+          "ID": "29"
+        },
+        {
+          "text": "They are also to stand every morning to thank and praise the Lord, and likewise at evening,",
+          "ID": "30"
+        },
+        {
+          "text": "And to assist in offering all burnt sacrifices to the Lord on Sabbaths, New Moon festivals, and set feast days by number according to the ordinance concerning them, continually before the Lord.",
+          "ID": "31"
+        },
+        {
+          "text": "So they shall keep charge of the Tent of Meeting and the Holy Place and shall attend to the sons of Aaron their kinsmen, for the service of the house of the Lord.",
+          "ID": "32"
+        }
+      ],
+      "ID": "OT:1CH.23"
+    },
+    {
+      "name": "1 Chronicles 24",
+      "text": [
+        {
+          "text": "THE COURSES or divisions of the priests, the sons of Aaron, were these: The sons of Aaron: Nadab, and Abihu, Eleazar, and Ithamar.",
+          "ID": "1"
+        },
+        {
+          "text": "But Nadab and Abihu died before their father and had no children; therefore Eleazar and Ithamar executed the priest's office.",
+          "ID": "2"
+        },
+        {
+          "text": "And David, with Zadok of the sons of Eleazar and Ahimelech of the sons of Ithamar, divided and distributed them according to their assigned duties.",
+          "ID": "3"
+        },
+        {
+          "text": "Since there were more chief men found among the sons of Eleazar [because of the misfortunes of Eli, and Saul's slaughter of the priests at Nob] than among the sons of Ithamar, they were divided thus: sixteen heads of fathers' houses of the sons of Eleazar and eight of the sons of Ithamar according to their fathers' houses.",
+          "ID": "4"
+        },
+        {
+          "text": "Thus were they divided by lot, one group with the other, for there were chiefs of the sanctuary and chiefs of God [high priests] drawn both from the sons of Eleazar and from the sons of Ithamar.",
+          "ID": "5"
+        },
+        {
+          "text": "Shemaiah the scribe, son of Nethanel, a Levite, recorded them in the presence of the king, the princes, Zadok the priest, Ahimelech son of Abiathar [the priest who escaped being killed at Nob by Saul and fled to David], and the heads of the fathers' houses of the priests and Levites–one father's house being taken alternately for Eleazar and one for Ithamar.",
+          "ID": "6"
+        },
+        {
+          "text": "The lots fell, the first one to Jehoiarib, the second to Jedaiah,",
+          "ID": "7"
+        },
+        {
+          "text": "The third to Harim, the fourth to Se-orim,",
+          "ID": "8"
+        },
+        {
+          "text": "The fifth to Malchijah, the sixth to Mijamin,",
+          "ID": "9"
+        },
+        {
+          "text": "The seventh to Hakkoz, the eighth to Abijah,",
+          "ID": "10"
+        },
+        {
+          "text": "The ninth to Jeshua, the tenth to Shecaniah,",
+          "ID": "11"
+        },
+        {
+          "text": "The eleventh to Eliashib, the twelfth to Jakim,",
+          "ID": "12"
+        },
+        {
+          "text": "The thirteenth to Huppah, the fourteenth to Jeshebe-ab,",
+          "ID": "13"
+        },
+        {
+          "text": "The fifteenth to Bilgah, the sixteenth to Immer,",
+          "ID": "14"
+        },
+        {
+          "text": "The seventeenth to Hezir, the eighteenth to Happizzez,",
+          "ID": "15"
+        },
+        {
+          "text": "The nineteenth to Pethahiah, the twentieth to Jehezkel,",
+          "ID": "16"
+        },
+        {
+          "text": "The twenty-first to Jachin, the twenty-second to Gamul,",
+          "ID": "17"
+        },
+        {
+          "text": "The twenty-third to Delaiah, the twenty-fourth to Maaziah.",
+          "ID": "18"
+        },
+        {
+          "text": "This was their order for coming on duty to serve in the house of the Lord, according to the procedure ordered for them by their [forefather] Aaron, as the Lord, the God of Israel, had commanded him.",
+          "ID": "19"
+        },
+        {
+          "text": "As for the rest of the sons of Levi: of the sons of Amram: Shubael; of the sons of Shubael: Jehdeiah.",
+          "ID": "20"
+        },
+        {
+          "text": "Of Rehabiah: of the sons of Rehabiah: Isshiah the chief.",
+          "ID": "21"
+        },
+        {
+          "text": "Of the Izharites: Shelomoth; of the sons of Shelomoth: Jahath.",
+          "ID": "22"
+        },
+        {
+          "text": "The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth.",
+          "ID": "23"
+        },
+        {
+          "text": "The son of Uzziel: Micah; of the sons of Micah: Shamir.",
+          "ID": "24"
+        },
+        {
+          "text": "The brother of Micah: Isshiah; of the sons of Isshiah: Zechariah.",
+          "ID": "25"
+        },
+        {
+          "text": "The sons of Merari: Mahli and Mushi. The son of Jaaziah: Beno.",
+          "ID": "26"
+        },
+        {
+          "text": "The sons of Merari: by Jaaziah: Beno, Shoham, Zaccur, and Ibri.",
+          "ID": "27"
+        },
+        {
+          "text": "Of Mahli: Eleazar, who had no sons.",
+          "ID": "28"
+        },
+        {
+          "text": "Of Kish: the son of Kish: Jerahmeel.",
+          "ID": "29"
+        },
+        {
+          "text": "The sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites, according to their fathers' houses.",
+          "ID": "30"
+        },
+        {
+          "text": "These likewise cast lots, as did their kinsmen the sons of Aaron, in the presence of David the king, Zadok, Ahimelech, and the heads of the fathers' houses of the priests and Levites–the head of each father's house and his younger brother alike.",
+          "ID": "31"
+        }
+      ],
+      "ID": "OT:1CH.24"
+    },
+    {
+      "name": "1 Chronicles 25",
+      "text": [
+        {
+          "text": "ALSO DAVID and the chiefs of the host [of the Lord] separated to the [temple] service some of the sons of Asaph, Heman, and Jeduthun, who should prophesy [being inspired] with lyres, harps, and cymbals. The list of the musicians according to their service was:",
+          "ID": "1"
+        },
+        {
+          "text": "Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah, the sons of Asaph under the direction of Asaph, who prophesied (witnessed and testified under divine inspiration) in keeping with the king's order.",
+          "ID": "2"
+        },
+        {
+          "text": "Of the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six in all, under the direction of their father Jeduthun, who witnessed and prophesied under divine inspiration with the lyre in thanksgiving and praise to the Lord.",
+          "ID": "3"
+        },
+        {
+          "text": "Of Heman: the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.",
+          "ID": "4"
+        },
+        {
+          "text": "All these were the sons of Heman the king's seer [his mediator] in the words and things of God to exalt Him; for God gave to Heman fourteen sons and three daughters, [Ps. 68:25.]",
+          "ID": "5"
+        },
+        {
+          "text": "All of whom were [in the choir] under the direction of their father for song in the house of the Lord, with cymbals, harps, and lyres, for the service of the house of God. Asaph, Jeduthun, and Heman were under the order of the king.",
+          "ID": "6"
+        },
+        {
+          "text": "So the number of them [who led the remainder of the 4,000], with their kinsmen who were specially trained in songs for the Lord, all who were talented singers, was 288. [I Chron. 23:5.]",
+          "ID": "7"
+        },
+        {
+          "text": "[The musicians] cast lots for their duties, small and great, teacher and scholar alike.",
+          "ID": "8"
+        },
+        {
+          "text": "The first lot fell for Asaph to Joseph; the second to Gedaliah, to him, his brethren and his sons, twelve;",
+          "ID": "9"
+        },
+        {
+          "text": "The third to Zaccur, his sons and his brethren, twelve;",
+          "ID": "10"
+        },
+        {
+          "text": "The fourth to Izri, his sons and his brethren, twelve;",
+          "ID": "11"
+        },
+        {
+          "text": "The fifth to Nethaniah, his sons and his brethren, twelve;",
+          "ID": "12"
+        },
+        {
+          "text": "The sixth to Bukkiah, his sons and his brethren, twelve;",
+          "ID": "13"
+        },
+        {
+          "text": "The seventh to Jesharelah, his sons and his brethren, twelve;",
+          "ID": "14"
+        },
+        {
+          "text": "The eighth to Jeshaiah, his sons and his brethren, twelve;",
+          "ID": "15"
+        },
+        {
+          "text": "The ninth to Mattaniah, his sons and his brethren, twelve;",
+          "ID": "16"
+        },
+        {
+          "text": "The tenth to Shimei, his sons and his brethren, twelve;",
+          "ID": "17"
+        },
+        {
+          "text": "The eleventh to Azarel, his sons and his brethren, twelve;",
+          "ID": "18"
+        },
+        {
+          "text": "The twelfth to Hashabiah, his sons and his brethren, twelve;",
+          "ID": "19"
+        },
+        {
+          "text": "The thirteenth to Shubael, his sons and his brethren, twelve;",
+          "ID": "20"
+        },
+        {
+          "text": "The fourteenth to Mattithiah, his sons and his brethren, twelve;",
+          "ID": "21"
+        },
+        {
+          "text": "The fifteenth to Jeremoth, his sons and his brethren, twelve;",
+          "ID": "22"
+        },
+        {
+          "text": "The sixteenth to Hananiah, his sons and his brethren, twelve;",
+          "ID": "23"
+        },
+        {
+          "text": "The seventeenth of Joshbekashah, his sons and his brethren, twelve;",
+          "ID": "24"
+        },
+        {
+          "text": "The eighteenth to Hanani, his sons and his brethren, twelve;",
+          "ID": "25"
+        },
+        {
+          "text": "The nineteenth to Mallothi, his sons and his brethren, twelve;",
+          "ID": "26"
+        },
+        {
+          "text": "The twentieth to Eliathah, his sons and his brethren, twelve;",
+          "ID": "27"
+        },
+        {
+          "text": "The twenty-first to Hothir, his sons and his brethren, twelve;",
+          "ID": "28"
+        },
+        {
+          "text": "The twenty-second to Giddalti, his sons and his brethren, twelve;",
+          "ID": "29"
+        },
+        {
+          "text": "The twenty-third to Mahazioth, his sons and his brethren, twelve;",
+          "ID": "30"
+        },
+        {
+          "text": "The twenty-fourth to Romamti-ezer, his sons and his brethren, twelve.",
+          "ID": "31"
+        }
+      ],
+      "ID": "OT:1CH.25"
+    },
+    {
+      "name": "1 Chronicles 26",
+      "text": [
+        {
+          "text": "FOR THE divisions of the gatekeepers: Of the Korahites was: Meshelemiah son of Kore, of the sons of Asaph.",
+          "ID": "1"
+        },
+        {
+          "text": "And Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,",
+          "ID": "2"
+        },
+        {
+          "text": "Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh.",
+          "ID": "3"
+        },
+        {
+          "text": "Obed-edom had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth,",
+          "ID": "4"
+        },
+        {
+          "text": "Ammiel the sixth, Issachar the seventh, Peullethai the eighth; for God blessed him.",
+          "ID": "5"
+        },
+        {
+          "text": "Also to Shemaiah his son were sons born, who were rulers in their fathers' houses, for they were mighty men of ability and courage.",
+          "ID": "6"
+        },
+        {
+          "text": "The sons of Shemaiah: Othni, Rephael, Obed, and Elzabad, whose brethren were strong and able men, Elihu and Semachiah.",
+          "ID": "7"
+        },
+        {
+          "text": "All these were sons of Obed-edom [in whose house the ark was kept], with their sons and brethren, strong and able men for the service–sixty-two in all. [I Chron. 13:13, 14.]",
+          "ID": "8"
+        },
+        {
+          "text": "Meshelemiah had sons and brethren, strong and able men–eighteen in all.",
+          "ID": "9"
+        },
+        {
+          "text": "Also Hosah, of the sons of Merari, had sons: Shimri the chief (he was not the firstborn, yet his father made him chief),",
+          "ID": "10"
+        },
+        {
+          "text": "Hilkiah the second, Tebaliah the third, Zechariah the fourth; all the sons and brethren of Hosah were thirteen in all.",
+          "ID": "11"
+        },
+        {
+          "text": "Of these were the divisions of the gatekeepers, even of the chief men, having duties, as did their brethren, to minister in the house of the Lord.",
+          "ID": "12"
+        },
+        {
+          "text": "And they cast lots by fathers' houses, small and great alike, for every gate.",
+          "ID": "13"
+        },
+        {
+          "text": "The lot for the east fell to Shelemiah. They cast lots also for Zechariah his son, a wise counselor, and his lot came out for the north.",
+          "ID": "14"
+        },
+        {
+          "text": "To Obed-edom it came out for the south, and to his sons the storehouse was allotted.",
+          "ID": "15"
+        },
+        {
+          "text": "To Shuppim and Hosah the lot fell for the west, by the refuse gate that goes into the ascending highway, post opposite post.",
+          "ID": "16"
+        },
+        {
+          "text": "On the east were six Levites, on the north four a day, on the south four a day, and two by two at the storehouse.",
+          "ID": "17"
+        },
+        {
+          "text": "At the colonnade on the west side [of the outer court of the temple], there were four at the road and two at the colonnade.",
+          "ID": "18"
+        },
+        {
+          "text": "These were the divisions of the gatekeepers among the Korahites and the sons of Merari.",
+          "ID": "19"
+        },
+        {
+          "text": "Of the Levites, Ahijah was over the treasuries of the house of God and the treasuries of the dedicated gifts.",
+          "ID": "20"
+        },
+        {
+          "text": "The sons of Ladan, the descendants of Gershon through Ladan, the heads of families of Ladan the Gershonite: Jehieli,",
+          "ID": "21"
+        },
+        {
+          "text": "The sons of Jehieli, Zetham and Joel his brother, who were over the treasuries of the house of the Lord.",
+          "ID": "22"
+        },
+        {
+          "text": "Of the Amramites, Izharites, Hebronites, and Uzzielites:",
+          "ID": "23"
+        },
+        {
+          "text": "Shebuel son of Gershom, the son of Moses, was ruler over the treasuries.",
+          "ID": "24"
+        },
+        {
+          "text": "His brethren from Eliezer were his son Rehabiah, his son Jeshaiah, his son Joram, his son Zichri, and his son Shelomoth.",
+          "ID": "25"
+        },
+        {
+          "text": "This Shelomoth and his brethren were over all the treasuries of the dedicated gifts, which King David, the heads of the fathers' houses, the officers over thousands and hundreds, and the commanders of the army had dedicated.",
+          "ID": "26"
+        },
+        {
+          "text": "From spoil won in battles they dedicated gifts to maintain the house of the Lord.",
+          "ID": "27"
+        },
+        {
+          "text": "Also all that Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah had dedicated, and whatever anyone had dedicated, it was in the charge of Shelomoth and his brethren.",
+          "ID": "28"
+        },
+        {
+          "text": "Of the Izharites: Chenaniah and his sons were appointed to outside duties for Israel, as officers and judges.",
+          "ID": "29"
+        },
+        {
+          "text": "Of the Hebronites: Hashabiah and his brethren, men of courage and ability, 1,700 in all, were officers over Israel on the west side of the Jordan in all the Lord's business and the king's service.",
+          "ID": "30"
+        },
+        {
+          "text": "Of the Hebronites: Jerijah was the chief, according to their generations by fathers' houses. In the fortieth year of David's reign a search was made, and men of great courage and ability were found among them at Jazer in Gilead.",
+          "ID": "31"
+        },
+        {
+          "text": "Jerijah's kinsmen, men of courage and ability, were 2,700 heads of fathers' houses; King David made them overseers of the Reubenites, the Gadites, and the half-tribe of Manasseh, for everything pertaining to God and for the affairs of the king.",
+          "ID": "32"
+        }
+      ],
+      "ID": "OT:1CH.26"
+    },
+    {
+      "name": "1 Chronicles 27",
+      "text": [
+        {
+          "text": "THIS IS the list of the Israelites, the heads of fathers' houses, the commanders of thousands and hundreds, and their officers who served the king in all matters of the divisions that came and went, month by month throughout the year, each division numbering 24,000.",
+          "ID": "1"
+        },
+        {
+          "text": "Over the first division for the first month was Jashobeam son of Zabdiel. In his division were 24,000.",
+          "ID": "2"
+        },
+        {
+          "text": "He was descended from Perez and was chief of all the commanders of the army for the first month.",
+          "ID": "3"
+        },
+        {
+          "text": "Over the division for the second month was Dodai the Ahohite; and of his division Mikloth was the chief officer. In his division were 24,000.",
+          "ID": "4"
+        },
+        {
+          "text": "The third commander of the army for the third month was Benaiah son of Jehoiada the priest, as chief. In his division were 24,000.",
+          "ID": "5"
+        },
+        {
+          "text": "This is the Benaiah who was a mighty man of the Thirty and over the Thirty; and in his division was Ammizabad his son.",
+          "ID": "6"
+        },
+        {
+          "text": "The fourth, for the fourth month, Asahel brother of Joab, and Zebadiah his son after him. In his division were 24,000.",
+          "ID": "7"
+        },
+        {
+          "text": "The fifth, for the fifth month, Shamhuth the Izrahite. In his division were 24,000.",
+          "ID": "8"
+        },
+        {
+          "text": "The sixth, for the sixth month, Ira son of Ikkesh the Tekoite. In his division were 24,000.",
+          "ID": "9"
+        },
+        {
+          "text": "The seventh, for the seventh month, Helez the Pelonite, of the Ephraimites. In his division were 24,000.",
+          "ID": "10"
+        },
+        {
+          "text": "The eighth, for the eighth month, Sibbecai the Hushathite, of the Zarahites. In his division were 24,000.",
+          "ID": "11"
+        },
+        {
+          "text": "The ninth, for the ninth month, Abiezer of Anathoth, a Benjamite. In his division were 24,000.",
+          "ID": "12"
+        },
+        {
+          "text": "The tenth, for the tenth month, Maharai from Netophah, of the Zerahites. In his division were 24,000.",
+          "ID": "13"
+        },
+        {
+          "text": "The eleventh, for the eleventh month, Benaiah the Pirathonite, of the sons of Ephraim. In his division were 24,000.",
+          "ID": "14"
+        },
+        {
+          "text": "The twelfth, for the twelfth month, Heldai the Netophathite, of Othniel. In his division were 24,000.",
+          "ID": "15"
+        },
+        {
+          "text": "Also over the tribes of Israel: of the Reubenites: Eliezer son of Zichri was chief officer; of the Simeonites: Shephatiah son of Maachah;",
+          "ID": "16"
+        },
+        {
+          "text": "Of Levi: Hashabiah son of Kemuel; of Aaron: Zadok;",
+          "ID": "17"
+        },
+        {
+          "text": "Of Judah: Elihu, one of David's brothers; of Issachar: Omri son of Michael;",
+          "ID": "18"
+        },
+        {
+          "text": "Of Zebulun: Ishmaiah son of Obadiah; of Naphtali: Jerimoth son of Azriel;",
+          "ID": "19"
+        },
+        {
+          "text": "Of the Ephraimites: Hoshea son of Azaziah; of the half-tribe of Manasseh: Joel son of Pedaiah;",
+          "ID": "20"
+        },
+        {
+          "text": "Of the half-tribe of Manasseh in Gilead: Iddo son of Zechariah; of Benjamin: Jaasiel son of Abner;",
+          "ID": "21"
+        },
+        {
+          "text": "Of Dan: Azarel son of Jeroham. These were the leaders of the tribes of Israel.",
+          "ID": "22"
+        },
+        {
+          "text": "But David did not number those under twenty years of age, for the Lord had promised to make Israel as the stars of the heavens.",
+          "ID": "23"
+        },
+        {
+          "text": "Joab son of Zeruiah began a census but did not finish, because the census brought wrath upon Israel, and the number was not recorded in the chronicles of King David.",
+          "ID": "24"
+        },
+        {
+          "text": "Over the king's treasuries was Azmaveth son of Adiel; and over the treasuries in the country, cities, villages, and towers or forts was Jonathan son of Uzziah;",
+          "ID": "25"
+        },
+        {
+          "text": "Over those who did the work of the field of tilling the soil was Ezri son of Chelub;",
+          "ID": "26"
+        },
+        {
+          "text": "Over the vineyards was Shimei the Ramathite; over the produce of the vineyards for the wine cellars, Zabdi the Shiphmite;",
+          "ID": "27"
+        },
+        {
+          "text": "Over the olive and sycamore trees in the low plains, Baal-hanan the Gederite; over the stores of oil, Joash;",
+          "ID": "28"
+        },
+        {
+          "text": "Over the herds pasturing in Sharon, Shitrai the Sharonite; over the herds in the valleys, Shaphat son of Adlai;",
+          "ID": "29"
+        },
+        {
+          "text": "Over the camels, Obil the Ishmaelite; over the she-donkeys, Jehdeiah the Meronothite;",
+          "ID": "30"
+        },
+        {
+          "text": "And over the flocks, Jaziz the Hagrite. All these were stewards of King David's property.",
+          "ID": "31"
+        },
+        {
+          "text": "Also Jonathan, David's uncle, was a counselor, a wise man and a scribe; he and Jehiel son of Hachmoni attended the king's sons [as tutors]. [II Kings 10:6.]",
+          "ID": "32"
+        },
+        {
+          "text": "Ahithophel was the king's counselor; Hushai the Archite was the king's companion and friend.",
+          "ID": "33"
+        },
+        {
+          "text": "Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar. Joab was the commander of the king's army.",
+          "ID": "34"
+        }
+      ],
+      "ID": "OT:1CH.27"
+    },
+    {
+      "name": "1 Chronicles 28",
+      "text": [
+        {
+          "text": "DAVID ASSEMBLED at Jerusalem all the leaders of Israel and of the tribes, the officers of the divisions that served the king in courses, and those over thousands and hundreds, and the stewards over all the property and livestock of the king and his sons, with the palace officers, the mighty men, and all the mighty warriors.",
+          "ID": "1"
+        },
+        {
+          "text": "Then David the king rose to his feet and said, Hear me, my brethren and my people. I myself intended to build a house of rest for the ark of the covenant of the Lord, as a footstool for our God, and I prepared materials for the building.",
+          "ID": "2"
+        },
+        {
+          "text": "But God said to me, You shall not build a house for My Name [and Presence], because you have been a man of war and have shed blood.",
+          "ID": "3"
+        },
+        {
+          "text": "However, the Lord, the God of Israel, chose me before all my father's house to be king over Israel forever. For He chose Judah to be the ruler; and of the house of Judah he chose the house of my father; and among the sons of my father He was pleased to make me king over all Israel;",
+          "ID": "4"
+        },
+        {
+          "text": "And of all my sons, for the Lord has given me many sons, He has chosen Solomon my son to sit upon the throne of the kingdom of the Lord over Israel.",
+          "ID": "5"
+        },
+        {
+          "text": "And He said to me, Solomon your son shall build My house and My courts, for I have chosen him to be My son, and I will be his father.",
+          "ID": "6"
+        },
+        {
+          "text": "I will establish his kingdom forever if he loyally and continuously obeys My commandments and My ordinances, as he does today.",
+          "ID": "7"
+        },
+        {
+          "text": "Now therefore, in the sight of all Israel, the assembly of the Lord, and in the hearing of our God, keep and seek [to be familiar with] all the commandments of the Lord your God, that you may possess this good land and leave it as an inheritance for your children after you forever.",
+          "ID": "8"
+        },
+        {
+          "text": "And you, Solomon my son, know the God of your father [have personal knowledge of Him, be acquainted with, and understand Him; appreciate, heed, and cherish Him] and serve Him with a blameless heart and a willing mind. For the Lord searches all hearts and minds and understands all the wanderings of the thoughts. If you seek Him [inquiring for and of Him and requiring Him as your first and vital necessity] you will find Him; but if you forsake Him, He will cast you off forever!",
+          "ID": "9"
+        },
+        {
+          "text": "Take heed now, for the Lord has chosen you to build a house for the sanctuary. Be strong and do it!",
+          "ID": "10"
+        },
+        {
+          "text": "Then David gave Solomon his son the plan of the vestibule of the temple, its houses, its treasuries, its upper chambers, its inner rooms, and of the place for the [ark and its] mercy seat;",
+          "ID": "11"
+        },
+        {
+          "text": "And the plan of all that he had in mind [by the Spirit] for the courts of the house of the Lord, all the surrounding chambers, the treasuries of the house of God, and the treasuries for the dedicated gifts;",
+          "ID": "12"
+        },
+        {
+          "text": "The plan for the divisions of the priests and the Levites, for all the work of the service in the house of the Lord; for all the vessels for service in the house of the Lord:",
+          "ID": "13"
+        },
+        {
+          "text": "The weight of gold and silver for all the gold and silver articles of every kind of service–",
+          "ID": "14"
+        },
+        {
+          "text": "The weight of the golden lampstands and their lamps, the weight of gold or silver for each lampstand and its lamps, according to the use of each lampstand;",
+          "ID": "15"
+        },
+        {
+          "text": "The gold by weight for each table of showbread, and the silver for the tables of silver;",
+          "ID": "16"
+        },
+        {
+          "text": "Also pure gold for the forks, basins, and cups; for the golden bowls by weight of each; for the silver bowls by weight of each;",
+          "ID": "17"
+        },
+        {
+          "text": "For the incense altar refined gold by weight, and gold for the plan of the chariot of the cherubim that spread their wings and covered the ark of the Lord's covenant.",
+          "ID": "18"
+        },
+        {
+          "text": "All this the Lord made me understand by the writing by His hand upon me, all the work to be done according to the plan.",
+          "ID": "19"
+        },
+        {
+          "text": "Also David told Solomon his son, Be strong and courageous, and do it. Fear not, be not dismayed, for the Lord God, my God, is with you. He will not fail or forsake you until you have finished all the work for the service of the house of the Lord.",
+          "ID": "20"
+        },
+        {
+          "text": "And see, [you have] the divisions of the priests and Levites for all the service of God's house, and with you in all the kinds of work will be every willing, skillful man for any kind of service. Also the officers and all the people will be wholly at your command.",
+          "ID": "21"
+        }
+      ],
+      "ID": "OT:1CH.28"
+    },
+    {
+      "name": "1 Chronicles 29",
+      "text": [
+        {
+          "text": "AND KING David said to all the assembly, Solomon my son, whom alone God has chosen, is yet young, tender, and inexperienced; and the work is great, for the palace is not to be for man but for the Lord God.",
+          "ID": "1"
+        },
+        {
+          "text": "So I have provided with all my might for the house of my God the gold for things to be of gold, silver for things of silver, bronze for things of bronze, iron for things of iron, and wood for things of wood, as well as onyx or beryl stones, stones to be set, stones of antimony, stones of various colors, and all sorts of precious stones, and marble stones in abundance.",
+          "ID": "2"
+        },
+        {
+          "text": "Moreover, because I have set my affection on the house of my God, in addition to all I have prepared for the holy house, I have a private treasure of gold and silver which I give for the house of my God:",
+          "ID": "3"
+        },
+        {
+          "text": "It is 3,000 talents of gold, gold of Ophir, 7,000 talents of refined silver for overlaying the walls of the house,",
+          "ID": "4"
+        },
+        {
+          "text": "Gold for the uses of gold, silver for the uses of silver, and for every work to be done by craftsmen. Now who will offer willingly to fill his hand [and consecrate it] today to the Lord [like one consecrating himself to the priesthood]?",
+          "ID": "5"
+        },
+        {
+          "text": "Then the chiefs of the fathers and princes of the tribes of Israel and the captains of thousands and of hundreds, with the rulers of the king's work, offered willingly",
+          "ID": "6"
+        },
+        {
+          "text": "And gave for the service of the house of God–of gold 5,000 talents and 10,000 darics, of silver 10,000 talents, of bronze 18,000 talents, and 100,000 talents of iron.",
+          "ID": "7"
+        },
+        {
+          "text": "And whoever had precious stones gave them to the treasury of the house of the Lord in the care of Jehiel the Gershonite.",
+          "ID": "8"
+        },
+        {
+          "text": "Then the people rejoiced because these had given willingly, for with a whole and blameless heart they had offered freely to the Lord. King David also rejoiced greatly.",
+          "ID": "9"
+        },
+        {
+          "text": "Therefore David blessed the Lord before all the assembly and said, Be praised, adored, and thanked, O Lord, the God of Israel our [forefather], forever and ever.",
+          "ID": "10"
+        },
+        {
+          "text": "Yours, O Lord, is the greatness and the power and the glory and the victory and the majesty, for all that is in the heavens and the earth is Yours; Yours is the kingdom, O Lord, and Yours it is to be exalted as Head over all.",
+          "ID": "11"
+        },
+        {
+          "text": "Both riches and honor come from You, and You reign over all. In Your hands are power and might; in Your hands it is to make great and to give strength to all.",
+          "ID": "12"
+        },
+        {
+          "text": "Now therefore, our God, we thank You and praise Your glorious name and those attributes which that name denotes.",
+          "ID": "13"
+        },
+        {
+          "text": "But who am I, and what are my people, that we should retain strength and be able to offer thus so willingly? For all things come from You, and out of Your own [hand] we have given You.",
+          "ID": "14"
+        },
+        {
+          "text": "For we are strangers before You, and sojourners, as all our fathers were; our days on the earth are like a shadow, and there is no hope or expectation of remaining.",
+          "ID": "15"
+        },
+        {
+          "text": "O Lord our God, all this store that we have prepared to build You a house for Your holy Name and the token of Your presence comes from Your hand, and is all Your own.",
+          "ID": "16"
+        },
+        {
+          "text": "I know also, my God, that You try the heart and delight in uprightness. In the uprightness of my heart I have freely offered all these things. And now I have seen with joy Your people who are present here offer voluntarily and freely to You.",
+          "ID": "17"
+        },
+        {
+          "text": "O Lord, God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the minds of Your people, and direct and establish their hearts toward You.",
+          "ID": "18"
+        },
+        {
+          "text": "And give to Solomon my son a blameless heart to keep Your commandments, testimonies, and statutes, and to do all that is necessary to build the palace [for You] for which I have made provision.",
+          "ID": "19"
+        },
+        {
+          "text": "And David said to all the assembly, Now adore (praise and thank) the Lord your God! And all the assembly blessed the Lord, the God of their fathers, and bowed down and did obeisance to the Lord and to the king [as His earthly representative].",
+          "ID": "20"
+        },
+        {
+          "text": "The next day they offered sacrifices and burnt offerings to the Lord: 1,000 bulls, 1,000 rams, and 1,000 lambs, with their drink offerings, and sacrifices in abundance for all Israel.",
+          "ID": "21"
+        },
+        {
+          "text": "They ate and drank before the Lord on that day with great rejoicing. They made Solomon son of David king a second time, and anointed him as prince for the Lord and Zadok to be high priest.",
+          "ID": "22"
+        },
+        {
+          "text": "Then Solomon sat on the throne of the Lord as king instead of David his father; and he prospered, and all Israel obeyed him.",
+          "ID": "23"
+        },
+        {
+          "text": "All the leaders and mighty men, and also all the sons of King David, pledged allegiance to King Solomon.",
+          "ID": "24"
+        },
+        {
+          "text": "And the Lord magnified Solomon exceedingly in the sight of all Israel and bestowed upon him such royal majesty as had not been on any king before him in Israel.",
+          "ID": "25"
+        },
+        {
+          "text": "Thus David son of Jesse reigned over all Israel.",
+          "ID": "26"
+        },
+        {
+          "text": "The time he reigned over Israel was forty years–he reigned seven years in Hebron and thirty-three years in Jerusalem.",
+          "ID": "27"
+        },
+        {
+          "text": "He died in a good old age [his seventy-first year], full and satisfied with days, riches, and honor. Solomon his son reigned in his stead.",
+          "ID": "28"
+        },
+        {
+          "text": "Now the acts of King David, from first to last, are written in the recorded words of Samuel the seer, Nathan the prophet, and Gad the seer,",
+          "ID": "29"
+        },
+        {
+          "text": "With accounts of all his reign and his might, and the times through which he and Israel passed, as did all the kingdoms of the countries.",
+          "ID": "30"
+        }
+      ],
+      "ID": "OT:1CH.29"
+    }
+  ],
+  "version": "AMP",
+  "ID": "OT:1CH(AMP)"
+}

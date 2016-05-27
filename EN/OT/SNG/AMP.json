@@ -1,0 +1,523 @@
+{
+  "name": "Song of Solomon",
+  "text": [
+    {
+      "name": "Song of Solomon 1",
+      "text": [
+        {
+          "text": "THE SONG of songs [the most excellent of them all] which is Solomon's. [I Kings 4:32.]",
+          "ID": "1"
+        },
+        {
+          "text": "Let him kiss me with the kisses of his mouth! [she cries. Then, realizing that Solomon has arrived and has heard her speech, she turns to him and adds] For your love is better than wine!",
+          "ID": "2"
+        },
+        {
+          "text": "[And she continues] The odor of your ointments is fragrant; your name is like perfume poured out. Therefore do the maidens love you.",
+          "ID": "3"
+        },
+        {
+          "text": "Draw me! We will run after you! The king brings me into his apartments! We will be glad and rejoice in you! We will recall [when we were favored with] your love, more fragrant than wine. The upright [are not offended at your choice, but sincerely] love you.",
+          "ID": "4"
+        },
+        {
+          "text": "I am so black; but [you are] lovely and pleasant [the ladies assured her]. O you daughters of Jerusalem, [I am as dark] as the tents of [the Bedouin tribe] Kedar, like the [beautiful] curtains of Solomon!",
+          "ID": "5"
+        },
+        {
+          "text": "[Please] do not look at me, [she said, for] I am swarthy. [I have worked out] in the sun and it has left its mark upon me. My stepbrothers were angry with me, and they made me keeper of the vineyards; but my own vineyard [my complexion] I have not kept.",
+          "ID": "6"
+        },
+        {
+          "text": "[Addressing her shepherd, she said] Tell me, O you whom my soul loves, where you pasture your flock, where you make it lie down at noon. For why should I [as I think of you] be as a veiled one straying beside the flocks of your companions? [Ps. 23:1, 2.]",
+          "ID": "7"
+        },
+        {
+          "text": "If you do not know [where your lover is], O you fairest among women, run along, follow the tracks of the flock, and [amuse yourself by] pasturing your kids beside the shepherds' tents.",
+          "ID": "8"
+        },
+        {
+          "text": "O my love [he said as he saw her], you remind me of my [favorite] mare in the chariot spans of Pharaoh.",
+          "ID": "9"
+        },
+        {
+          "text": "Your cheeks are comely with ornaments, your neck with strings of jewels.",
+          "ID": "10"
+        },
+        {
+          "text": "We will make for you chains and ornaments of gold, studded with silver.",
+          "ID": "11"
+        },
+        {
+          "text": "While the king sits at his table [she said], my spikenard [my absent lover] sends forth [his] fragrance [over me].",
+          "ID": "12"
+        },
+        {
+          "text": "My beloved [shepherd] is to me like a [scent] bag of myrrh that lies in my bosom.",
+          "ID": "13"
+        },
+        {
+          "text": "My beloved [shepherd] is to me a cluster of henna flowers in the vineyards of En-gedi [famed for its fragrant shrubs].",
+          "ID": "14"
+        },
+        {
+          "text": "Behold, you are beautiful, my love! Behold, you are beautiful! You have doves' eyes.",
+          "ID": "15"
+        },
+        {
+          "text": "[She cried] Behold, you are beautiful, my beloved [shepherd], yes, delightful! Our arbor and couch are green and leafy.",
+          "ID": "16"
+        },
+        {
+          "text": "The beams of our house are cedars, and our rafters and panels are cypresses or pines.",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:SNG.1"
+    },
+    {
+      "name": "Song of Solomon 2",
+      "text": [
+        {
+          "text": "[SHE SAID] I am only a little rose or autumn crocus of the plain of Sharon, or a [humble] lily of the valleys [that grows in deep and difficult places].",
+          "ID": "1"
+        },
+        {
+          "text": "But Solomon replied, Like the lily among thorns, so are you, my love, among the daughters.",
+          "ID": "2"
+        },
+        {
+          "text": "Like an apple tree among the trees of the wood, so is my beloved [shepherd] among the sons [cried the girl]! Under his shadow I delighted to sit, and his fruit was sweet to my taste.",
+          "ID": "3"
+        },
+        {
+          "text": "He brought me to the banqueting house, and his banner over me was love [for love waved as a protecting and comforting banner over my head when I was near him].",
+          "ID": "4"
+        },
+        {
+          "text": "Sustain me with raisins, refresh me with apples, for I am sick with love.",
+          "ID": "5"
+        },
+        {
+          "text": "[I can feel] his left hand under my head and his right hand embraces me! [Deut. 33:27; Matt. 28:20.]",
+          "ID": "6"
+        },
+        {
+          "text": "[He said] I charge you, O you daughters of Jerusalem, by the gazelles or by the hinds of the field [which are free to follow their own instincts] that you not try to stir up or awaken [my] love until it pleases.",
+          "ID": "7"
+        },
+        {
+          "text": "[Vividly she pictured it] The voice of my beloved [shepherd]! Behold, he comes, leaping upon the mountains, bounding over the hills. [John 10:27.]",
+          "ID": "8"
+        },
+        {
+          "text": "My beloved is like a gazelle or a young hart. Behold, he stands behind the wall of our house, he looks in through the windows, he glances through the lattice.",
+          "ID": "9"
+        },
+        {
+          "text": "My beloved speaks and says to me, Rise up, my love, my fair one, and come away.",
+          "ID": "10"
+        },
+        {
+          "text": "For, behold, the winter is past; the rain is over and gone.",
+          "ID": "11"
+        },
+        {
+          "text": "The flowers appear on the earth; the time of the singing [of birds] has come, and the voice of the turtledove is heard in our land.",
+          "ID": "12"
+        },
+        {
+          "text": "The fig tree puts forth and ripens her green figs, and the vines are in blossom and give forth their fragrance. Arise, my love, my fair one, and come away.",
+          "ID": "13"
+        },
+        {
+          "text": "[So I went with him, and when we were climbing the rocky steps up the hillside, my beloved shepherd said to me] O my dove, [while you are here] in the seclusion of the clefts in the solid rock, in the sheltered and secret place of the cliff, let me see your face, let me hear your voice; for your voice is sweet, and your face is lovely.",
+          "ID": "14"
+        },
+        {
+          "text": "[My heart was touched and I fervently sang to him my desire] Take for us the foxes, the little foxes that spoil the vineyards [of our love], for our vineyards are in blossom.",
+          "ID": "15"
+        },
+        {
+          "text": "[She said distinctly] My beloved is mine and I am his! He pastures his flocks among the lilies. [Matt. 10:32; Acts 4:12.]",
+          "ID": "16"
+        },
+        {
+          "text": "[Then, longingly addressing her absent shepherd, she cried] Until the day breaks and the shadows flee away, return hastily, O my beloved, and be like a gazelle or a young hart as you cover the mountains [which separate us].",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:SNG.2"
+    },
+    {
+      "name": "Song of Solomon 3",
+      "text": [
+        {
+          "text": "IN THE night I dreamed that I sought the one whom I love. [She said] I looked for him but could not find him. [Isa. 26:9.]",
+          "ID": "1"
+        },
+        {
+          "text": "So I decided to go out into the city, into the streets and broad ways [which are so confusing to a country girl], and seek him whom my soul loves. I sought him, but I could not find him.",
+          "ID": "2"
+        },
+        {
+          "text": "The watchmen who go about the city found me, to whom I said, Have you seen him whom my soul loves?",
+          "ID": "3"
+        },
+        {
+          "text": "I had gone but a little way past them when I found him whom my soul loves. I held him and would not let him go until I had brought him into my mother's house, and into the chamber of her who conceived me. [Rom. 8:35; I Pet. 2:25.]",
+          "ID": "4"
+        },
+        {
+          "text": "I adjure you, O daughters of Jerusalem, by the gazelles or by the hinds of the field that you stir not up nor awaken love until it pleases.",
+          "ID": "5"
+        },
+        {
+          "text": "Who or what is this [she asked] that comes gliding out of the wilderness like stately pillars of smoke perfumed with myrrh, frankincense, and all the fragrant powders of the merchant?",
+          "ID": "6"
+        },
+        {
+          "text": "[Someone answered] Behold, it is the traveling litter (the bridal car) of Solomon. Sixty mighty men are around it, of the mighty men of Israel.",
+          "ID": "7"
+        },
+        {
+          "text": "They all handle the sword and are expert in war; every man has his sword upon his thigh, that fear be not excited in the night.",
+          "ID": "8"
+        },
+        {
+          "text": "King Solomon made himself a car or a palanquin from the [cedar] wood of Lebanon.",
+          "ID": "9"
+        },
+        {
+          "text": "He made its posts of silver, its back of gold, its seat of purple, the inside of it lovingly and intricately wrought in needlework by the daughters of Jerusalem.",
+          "ID": "10"
+        },
+        {
+          "text": "Go forth, O you daughters of Zion, and gaze upon King Solomon wearing the crown with which his mother [Bathsheba] crowned him on the day of his wedding, on the day of his gladness of heart.",
+          "ID": "11"
+        }
+      ],
+      "ID": "OT:SNG.3"
+    },
+    {
+      "name": "Song of Solomon 4",
+      "text": [
+        {
+          "text": "HOW FAIR you are, my love [he said], how very fair! Your eyes behind your veil [remind me] of those of a dove; your hair [makes me think of the black, wavy fleece] of a flock of [the Arabian] goats which one sees trailing down Mount Gilead [beyond the Jordan on the frontiers of the desert].",
+          "ID": "1"
+        },
+        {
+          "text": "Your teeth are like a flock of shorn ewes which have come up from the washing, of which all are in pairs, and none is missing among them.",
+          "ID": "2"
+        },
+        {
+          "text": "Your lips are like a thread of scarlet, and your mouth is lovely. Your cheeks are like halves of a pomegranate behind your veil.",
+          "ID": "3"
+        },
+        {
+          "text": "Your neck is like the tower of David, built for an arsenal, whereon hang a thousand bucklers, all of them shields of warriors.",
+          "ID": "4"
+        },
+        {
+          "text": "Your two breasts are like two fawns, like twins of a gazelle that feed among the lilies.",
+          "ID": "5"
+        },
+        {
+          "text": "Until the day breaks and the shadows flee away, [in my thoughts] I will get to the mountain of myrrh and the hill of frankincense [to him whom my soul adores].",
+          "ID": "6"
+        },
+        {
+          "text": "[He exclaimed] O my love, how beautiful you are! There is no flaw in you! [John 14:18; Eph. 5:27.]",
+          "ID": "7"
+        },
+        {
+          "text": "Come away with me from Lebanon, my [promised] bride, come with me from Lebanon. Depart from the top of Amana, from the peak of Senir and Hermon, from the lions' dens, from the mountains of the leopards. [II Cor. 11:2, 3.]",
+          "ID": "8"
+        },
+        {
+          "text": "You have ravished my heart and given me courage, my sister, my [promised] bride; you have ravished my heart and given me courage with one look from your eyes, with one jewel of your necklace.",
+          "ID": "9"
+        },
+        {
+          "text": "How beautiful is your love, my sister, my [promised] bride! How much better is your love than wine! And the fragrance of your ointments than all spices! [John 15:9; Rom. 8:35.]",
+          "ID": "10"
+        },
+        {
+          "text": "Your lips, O my [promised] bride, drop honey as the honeycomb; honey and milk are under your tongue. And the odor of your garments is like the odor of Lebanon.",
+          "ID": "11"
+        },
+        {
+          "text": "A garden enclosed and barred is my sister, my [promised] bride–a spring shut up, a fountain sealed.",
+          "ID": "12"
+        },
+        {
+          "text": "Your shoots are an orchard of pomegranates or a paradise with precious fruits, henna with spikenard plants, [John 15:5; Eph. 5:9.]",
+          "ID": "13"
+        },
+        {
+          "text": "Spikenard and saffron, calamus and cinnamon, with all trees of frankincense, myrrh, and aloes, with all the chief spices.",
+          "ID": "14"
+        },
+        {
+          "text": "You are a fountain [springing up] in a garden, a well of living waters, and flowing streams from Lebanon. [John 4:10; 7:37, 38.]",
+          "ID": "15"
+        },
+        {
+          "text": "[You have called me a garden, she said] Oh, I pray that the [cold] north wind and the [soft] south wind may blow upon my garden, that its spices may flow out [in abundance for you in whom my soul delights]. Let my beloved come into his garden and eat its choicest fruits.",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:SNG.4"
+    },
+    {
+      "name": "Song of Solomon 5",
+      "text": [
+        {
+          "text": "I HAVE come into my garden, my sister, my [promised] bride; I have gathered my myrrh with my balsam and spice [from your sweet words I have gathered the richest perfumes and spices]. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends [feast on, O revelers of the palace; you can never make my lover disloyal to me]! Drink, yes, drink abundantly of love, O precious one [for now I know you are mine, irrevocably mine! With his confident words still thrilling her heart, through the lattice she saw her shepherd turn away and disappear into the night]. [John 16:33.]",
+          "ID": "1"
+        },
+        {
+          "text": "I went to sleep, but my heart stayed awake. [I dreamed that I heard] the voice of my beloved as he knocked [at the door of my mother's cottage]. Open to me, my sister, my love, my dove, my spotless one [he said], for I am wet with the [heavy] night dew; my hair is covered with it. [Job 11:13-15.]",
+          "ID": "2"
+        },
+        {
+          "text": "[But weary from a day in the vineyards, I had already sought my rest] I had put off my garment–how could I [again] put it on? I had washed my feet–how could I [again] soil them? [Isa. 32:9; Heb. 3:15.]",
+          "ID": "3"
+        },
+        {
+          "text": "My beloved put in his hand by the hole of the door, and my heart was moved for him.",
+          "ID": "4"
+        },
+        {
+          "text": "I rose up to open for my beloved, and my hands dripped with myrrh, and my fingers with liquid [sweet-scented] myrrh, [which he had left] upon the handles of the bolt.",
+          "ID": "5"
+        },
+        {
+          "text": "I opened for my beloved, but my beloved had turned away and withdrawn himself, and was gone! My soul went forth [to him] when he spoke, but it failed me [and now he was gone]! I sought him, but I could not find him; I called him, but he gave me no answer.",
+          "ID": "6"
+        },
+        {
+          "text": "The watchmen who go about the city found me. They struck me, they wounded me; the keepers of the walls took my veil and my mantle from me.",
+          "ID": "7"
+        },
+        {
+          "text": "I charge you, O daughters of Jerusalem, if you find my beloved, that you tell him that I am sick from love [simply sick to be with him]. [Ps. 63:1.]",
+          "ID": "8"
+        },
+        {
+          "text": "What is your beloved more than another beloved, O you fairest among women [taunted the ladies]? What is your beloved more than another beloved, that you should give us such a charge? [John 10:26.]",
+          "ID": "9"
+        },
+        {
+          "text": "[She said] My beloved is fair and ruddy, the chief among ten thousand! [Ps. 45:2; John 1:14.]",
+          "ID": "10"
+        },
+        {
+          "text": "His head is [as precious as] the finest gold; his locks are curly and bushy and black as a raven.",
+          "ID": "11"
+        },
+        {
+          "text": "His eyes are like doves beside the water brooks, bathed in milk and fitly set.",
+          "ID": "12"
+        },
+        {
+          "text": "His cheeks are like a bed of spices or balsam, like banks of sweet herbs yielding fragrance. His lips are like bloodred anemones or lilies distilling liquid [sweet-scented] myrrh.",
+          "ID": "13"
+        },
+        {
+          "text": "His hands are like rods of gold set with [nails of] beryl or topaz. His body is a figure of bright ivory overlaid with [veins of] sapphires.",
+          "ID": "14"
+        },
+        {
+          "text": "His legs are like strong and steady pillars of marble set upon bases of fine gold. His appearance is like Lebanon, excellent, stately, and majestic as the cedars.",
+          "ID": "15"
+        },
+        {
+          "text": "His voice and speech are exceedingly sweet; yes, he is altogether lovely [the whole of him delights and is precious]. This is my beloved, and this is my friend, O daughters of Jerusalem! [Ps. 92:15; Col. 1:15.]",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:SNG.5"
+    },
+    {
+      "name": "Song of Solomon 6",
+      "text": [
+        {
+          "text": "WHERE HAS your beloved gone, O you fairest among women? [Again the ladies showed their interest in the remarkable person whom the Shulammite had championed with such unstinted praise; they too wanted to know him, they insisted.] Where is your beloved hiding himself? For we would seek him with you.",
+          "ID": "1"
+        },
+        {
+          "text": "[She replied] My beloved has gone down to his garden, to the beds of spices, to feed in the gardens and to gather lilies.",
+          "ID": "2"
+        },
+        {
+          "text": "I am my beloved's [garden] and my beloved is mine! He feeds among the lilies [which grow there].",
+          "ID": "3"
+        },
+        {
+          "text": "[He said] You are as beautiful as Tirzah [capital of the northern kingdom's first king], my love, and as comely as Jerusalem, [but you are] as terrible as a bannered host!",
+          "ID": "4"
+        },
+        {
+          "text": "Turn away your [flashing] eyes from me, for they have overcome me! Your hair is like a flock of goats trailing down from Mount Gilead.",
+          "ID": "5"
+        },
+        {
+          "text": "Your teeth are like a flock of ewes coming from their washing, of which all are in pairs, and not one of them is missing.",
+          "ID": "6"
+        },
+        {
+          "text": "Your cheeks are like halves of a pomegranate behind your veil.",
+          "ID": "7"
+        },
+        {
+          "text": "There are sixty queens and eighty concubines, and virgins without number;",
+          "ID": "8"
+        },
+        {
+          "text": "But my dove, my undefiled and perfect one, stands alone [above them all]; she is the only one of her mother, she is the choice one of her who bore her. The daughters saw her and called her blessed and happy, yes, the queens and the concubines, and they praised her. [Col. 2:8, 9.]",
+          "ID": "9"
+        },
+        {
+          "text": "[The ladies asked] Who is this that looks forth like the dawn, fair as the moon, clear and pure as the sun, and terrible as a bannered host?",
+          "ID": "10"
+        },
+        {
+          "text": "[The Shulammite replied] I went down into the nut orchard [one day] to look at the green plants of the valley, to see whether the grapevine had budded and the pomegranates were in flower.",
+          "ID": "11"
+        },
+        {
+          "text": "Before I was aware [of what was happening], my desire [to roam about] had brought me into the area of the princes of my people [the king's retinue].",
+          "ID": "12"
+        },
+        {
+          "text": "[I began to flee, but they called to me] Return, return, O Shulammite; return, return, that we may look upon you! [I replied] What is there for you to see in the [poor little] Shulammite? [And they answered] As upon a dance before two armies or a dance of Mahanaim.",
+          "ID": "13"
+        }
+      ],
+      "ID": "OT:SNG.6"
+    },
+    {
+      "name": "Song of Solomon 7",
+      "text": [
+        {
+          "text": "[THEN HER companions began noticing and commenting on the attractiveness of her person] How beautiful are your feet in sandals, O queenly maiden! Your rounded limbs are like jeweled chains, the work of a master hand.",
+          "ID": "1"
+        },
+        {
+          "text": "Your body is like a round goblet in which no mixed wine is wanting. Your abdomen is like a heap of wheat set about with lilies.",
+          "ID": "2"
+        },
+        {
+          "text": "Your two breasts are like two fawns, the twins of a gazelle.",
+          "ID": "3"
+        },
+        {
+          "text": "Your neck is like a tower of ivory, your eyes like the pools of Heshbon by the gate of Bath-rabbim. Your nose is like the tower of Lebanon which looks toward Damascus.",
+          "ID": "4"
+        },
+        {
+          "text": "Your head crowns you like Mount Carmel, and the hair of your head like purple. [Then seeing the king watching the girl in absorbed admiration, the speaker added] The king is held captive by its tresses.",
+          "ID": "5"
+        },
+        {
+          "text": "[The king came forward, saying] How fair and how pleasant you are, O love, with your delights!",
+          "ID": "6"
+        },
+        {
+          "text": "Your stature is like that of a palm tree, and your bosom like its clusters [of dates, declared the king].",
+          "ID": "7"
+        },
+        {
+          "text": "I resolve that I will climb the palm tree; I will grasp its branches. Let your breasts be like clusters of the grapevine, and the scent of your breath like apples,",
+          "ID": "8"
+        },
+        {
+          "text": "And your kisses like the best wine–[then the Shulammite interrupted] that goes down smoothly and sweetly for my beloved [shepherd, kisses] gliding over his lips while he sleeps!",
+          "ID": "9"
+        },
+        {
+          "text": "[She proudly said] I am my beloved's, and his desire is toward me! [John 10:28.]",
+          "ID": "10"
+        },
+        {
+          "text": "[She said] Come, my beloved! Let us go forth into the field, let us lodge in the villages. [Luke 14:33.]",
+          "ID": "11"
+        },
+        {
+          "text": "Let us go out early to the vineyards and see whether the vines have budded, whether the grape blossoms have opened, and whether the pomegranates are in bloom. There I will give you my love.",
+          "ID": "12"
+        },
+        {
+          "text": "The mandrakes give forth fragrance, and over our doors are all manner of choice fruits, new and old, which I have laid up for you, O my beloved!",
+          "ID": "13"
+        }
+      ],
+      "ID": "OT:SNG.7"
+    },
+    {
+      "name": "Song of Solomon 8",
+      "text": [
+        {
+          "text": "[LOOKING FORWARD to the shepherd's arrival, the eager girl pictures their meeting and says] Oh, that you were like my brother, who nursed from the breasts of my mother! If I should find you without, I would kiss you, yes, and none would despise me [for it]. [Ps. 143:6.]",
+          "ID": "1"
+        },
+        {
+          "text": "I would lead you and bring you into the house of my mother, who would instruct me. I would cause you to drink spiced wine and of the juice of my pomegranates.",
+          "ID": "2"
+        },
+        {
+          "text": "[Then musingly she added] Oh, that his left hand were under my head and that his right hand embraced me! [Exod. 19:4; Deut. 33:27.]",
+          "ID": "3"
+        },
+        {
+          "text": "I adjure you, O daughters of Jerusalem, that you never [again attempt to] stir up or awaken love until it pleases.",
+          "ID": "4"
+        },
+        {
+          "text": "Who is this who comes up from the wilderness leaning upon her beloved? [And as they sighted the home of her childhood, the bride said] Under the apple tree I awakened you; there your mother gave you birth, there she was in travail and bore you.",
+          "ID": "5"
+        },
+        {
+          "text": "Set me like a seal upon your heart, like a seal upon your arm; for love is as strong as death, jealousy is as hard and cruel as Sheol (the place of the dead). Its flashes are flashes of fire, a most vehement flame [the very flame of the Lord]! [Deut. 4:24; Isa. 49:16; I Cor. 10:22.]",
+          "ID": "6"
+        },
+        {
+          "text": "Many waters cannot quench love, neither can floods drown it. If a man would offer all the goods of his house for love, he would be utterly scorned and despised.",
+          "ID": "7"
+        },
+        {
+          "text": "[Gathered with her family and the wedding guests in her mother's cottage, the bride said to her stepbrothers, When I was a little girl, you said] We have a little sister and she has no breasts. What shall we do for our sister on the day when she is spoken for in marriage?",
+          "ID": "8"
+        },
+        {
+          "text": "If she is a wall [discreet and womanly], we will build upon her a turret [a dowry] of silver; but if she is a door [bold and flirtatious], we will enclose her with boards of cedar.",
+          "ID": "9"
+        },
+        {
+          "text": "[Well] I am a wall [with battlements], and my breasts are like the towers of it. Then was I in [the king's] eyes as one [to be respected and to be allowed] to find peace.",
+          "ID": "10"
+        },
+        {
+          "text": "Solomon had a vineyard at Baal-hamon; he let out the vineyard to keepers; everyone was to bring him a thousand pieces of silver for its fruit.",
+          "ID": "11"
+        },
+        {
+          "text": "You, O Solomon, can have your thousand [pieces of silver], and those who tend the fruit of it two hundred; but my vineyard, which is mine [with all its radiant joy], is before me!",
+          "ID": "12"
+        },
+        {
+          "text": "O you who dwell in the gardens, your companions have been listening to your voice–now cause me to hear it.",
+          "ID": "13"
+        },
+        {
+          "text": "[Joyfully the radiant bride turned to him, the one altogether lovely, the chief among ten thousand to her soul, and with unconcealed eagerness to begin her life of sweet companionship with him, she answered] Make haste, my beloved, and come quickly, like a gazelle or a young hart [and take me to our waiting home] upon the mountains of spices!",
+          "ID": "14"
+        }
+      ],
+      "ID": "OT:SNG.8"
+    }
+  ],
+  "version": "AMP",
+  "ID": "OT:SNG(AMP)"
+}

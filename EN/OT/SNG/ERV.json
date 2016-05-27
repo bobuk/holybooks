@@ -1,0 +1,665 @@
+{
+  "version": "ERV",
+  "text": [
+    {
+      "title": "She Speaks",
+      "text": [
+        {
+          "text": "Solomon’s Most Wonderful Song.",
+          "ID": "1"
+        },
+        {
+          "text": "Cover me with kisses,\nfor your love is better than wine.",
+          "ID": "2"
+        },
+        {
+          "text": "Your perfume smells wonderful,\nbut your name is sweeter than the best perfume.\nThat is why the young women love you.",
+          "ID": "3",
+          "comments": [
+            "name In Hebrew this word sounds like the word “perfume.”"
+          ]
+        },
+        {
+          "text": "Take me with you.\nLet’s run away.\nThe king took me into his room.\nWe will rejoice and be happy for you.\nRemember, your love is better than wine.\nWith good reason, the young women love you.",
+          "ID": "4"
+        },
+        {
+          "text": "Daughters of Jerusalem,\nI am dark and beautiful,\nas black as the tents of Kedar and Salma.",
+          "ID": "5",
+          "comments": [
+            "Kedar and Salma Arabian tribes. For “Salma” the standard Hebrew text has “Solomon,” but compare “Salma, Salmon” in Ruth 4:20-21."
+          ]
+        },
+        {
+          "text": "Don’t look at how dark I am,\nat how dark the sun has made me.\nMy brothers were angry with me.\nThey forced me to take care of their vineyards,\nso I could not take care of myself.",
+          "ID": "6",
+          "comments": [
+            "myself Literally, “my own vineyard.”"
+          ]
+        },
+        {
+          "text": "I love you with all my soul!\nTell me, where do you feed your sheep?\nWhere do you lay them down at noon?\nI should come to be with you\nor I will be like a hired woman caring for the sheep of your friends.",
+          "ID": "7",
+          "comments": [
+            "hired woman Or “a woman wearing a veil.” This might mean a prostitute."
+          ]
+        },
+        {
+          "text": "You are such a beautiful woman.\nSurely you know what to do.\nGo, follow the sheep.\nFeed your young goats near the shepherds’ tents.",
+          "ID": "8"
+        },
+        {
+          "text": "My darling, you are more exciting to me\nthan any mare among the stallions pulling Pharaoh’s chariots.",
+          "ID": "9",
+          "comments": [
+            "mare … stallions Female and male horses. Only male horses were used to pull chariots.",
+            "Literally, “To a mare among Pharaoh’s chariots I compare you, my darling.”"
+          ]
+        },
+        {
+          "text": "Your cheeks are so beautiful\nwith those ornaments hanging beside them.\nYour neck is so lovely\nunder that beautiful string of jewels.",
+          "ID": "10"
+        },
+        {
+          "text": "Let’s make you some more gold jewelry\nand decorate it with silver.",
+          "ID": "11"
+        },
+        {
+          "text": "The smell of my perfume reaches out\nto the king lying on his couch.",
+          "ID": "12"
+        },
+        {
+          "text": "My lover is like the small bag of myrrh around my neck,\nlying all night between my breasts.",
+          "ID": "13"
+        },
+        {
+          "text": "My lover is like a bunch of henna flowers\nnear the vineyards of En Gedi.",
+          "ID": "14"
+        },
+        {
+          "text": "My darling, you are so beautiful!\nOh, you are beautiful!\nYour eyes are like doves.",
+          "ID": "15"
+        },
+        {
+          "text": "You are so handsome, my lover!\nYes, and so charming!\nOur bed is so fresh and pleasant.",
+          "ID": "16",
+          "comments": [
+            "fresh and pleasant Or “lush and green” like a fresh field of grass."
+          ]
+        },
+        {
+          "text": "    The beams of our house are cedar.\nThe rafters are fir.",
+          "ID": "17"
+        }
+      ],
+      "ID": "OT:SNG.1",
+      "name": "Song of Solomon 1"
+    },
+    {
+      "title": "She Speaks to the Women",
+      "text": [
+        {
+          "text": "I am a rose on the plain of Sharon,\na lily in the valleys.",
+          "ID": "1",
+          "comments": [
+            "rose … Sharon Or “a crocus on the plain.”",
+            "lily A kind of flower. Here, it is probably a red flower. Also in 5:13."
+          ]
+        },
+        {
+          "text": "My darling, among other women,\nyou are like a lily among thorns!",
+          "ID": "2"
+        },
+        {
+          "text": "My lover, among other men,\nyou are an apple tree among the wild trees in the forest!\nI enjoy sitting in my lover’s shadow;\nhis fruit is so sweet to my taste.",
+          "ID": "3"
+        },
+        {
+          "text": "My lover took me to the wine house;\nhis intent toward me was love.",
+          "ID": "4"
+        },
+        {
+          "text": "Strengthen me with raisins;\nrefresh me with apples, because I am weak with love.",
+          "ID": "5",
+          "comments": [
+            "raisins Or “raisin cakes.”",
+            "I am weak with love Or “I am lovesick.”"
+          ]
+        },
+        {
+          "text": "My lover’s left arm is under my head,\nand his right arm holds me.",
+          "ID": "6"
+        },
+        {
+          "text": "Women of Jerusalem, promise me by the gazelles and wild deer,\ndon’t awaken love,\ndon’t arouse love, until I am ready.",
+          "ID": "7",
+          "comments": [
+            "until I am ready Literally, “until it desires.”"
+          ]
+        },
+        {
+          "text": "I hear my lover’s voice.\nHere it comes, jumping over the mountains,\nskipping over the hills.",
+          "ID": "8"
+        },
+        {
+          "text": "My lover is like a gazelle\nor a young deer.\nLook at him standing behind our wall,\nstaring out the window,\nlooking through the lattice.",
+          "ID": "9",
+          "comments": [
+            "lattice A wooden screen over a window."
+          ]
+        },
+        {
+          "text": "My lover speaks to me,\n“Get up, my darling, my beautiful one.\nLet’s go away!",
+          "ID": "10"
+        },
+        {
+          "text": "Look, winter is past,\nthe rains have come and gone.",
+          "ID": "11"
+        },
+        {
+          "text": "The flowers are blooming in the fields.\nIt’s time to sing!\nListen, the doves have returned.",
+          "ID": "12",
+          "comments": [
+            "sing Or “prune.”"
+          ]
+        },
+        {
+          "text": "Young figs are growing on the fig trees.\nSmell the vines in bloom.\nGet up, my darling, my beautiful one.\nLet’s go away!”",
+          "ID": "13"
+        },
+        {
+          "text": "My dove, hiding in the caves high on the cliff,\nhidden here on the mountain,\nlet me see you,\nlet me hear your voice.\nYour voice is so pleasant,\nand you are so beautiful!",
+          "ID": "14"
+        },
+        {
+          "text": "Catch the foxes for us—\nthe little foxes\nthat spoil the vineyard.\nOur vineyard is now in bloom.",
+          "ID": "15"
+        },
+        {
+          "text": "My lover is mine,\nand I am his!\nMy lover feeds among the lilies,",
+          "ID": "16"
+        },
+        {
+          "text": "    while the day breathes its last breath\nand the shadows run away.\nTurn, my lover,\nbe like a gazelle or a young deer on the cleft mountains!",
+          "ID": "17",
+          "comments": [
+            "the cleft mountains Or “the mountains of Bether” or “the mountains of spice.”"
+          ]
+        }
+      ],
+      "ID": "OT:SNG.2",
+      "name": "Song of Solomon 2"
+    },
+    {
+      "title": "The Women of Jerusalem Speak",
+      "text": [
+        {
+          "text": "At night on my bed,\nI look for the man I love.\nI looked for him,\nbut I could not find him.",
+          "ID": "1"
+        },
+        {
+          "text": "I will get up now!\nI will go around the city.\nIn the streets and squares,\nI will look for the man I love.\nI looked for him,\nbut I could not find him.",
+          "ID": "2"
+        },
+        {
+          "text": "The guards patrolling the city found me.\nI asked them, “Have you seen the man I love?”",
+          "ID": "3"
+        },
+        {
+          "text": "I had just left the guards\nwhen I found the man I love!\nI held him and would not let him go,\nwhile I took him to my mother’s house,\nto the room of one who bore me.",
+          "ID": "4",
+          "comments": [
+            "bore Or “taught.” See 8:2."
+          ]
+        },
+        {
+          "text": "Women of Jerusalem, promise me\nby the gazelles and wild deer,\ndon’t awaken love,\ndon’t arouse love, until I am ready.",
+          "ID": "5",
+          "comments": [
+            "until I am ready Literally, “until it desires.”"
+          ]
+        },
+        {
+          "text": "Who is this woman\ncoming from the desert\nwith this large group of people?\nThe dust rises behind them\nlike clouds of smoke from burning myrrh and frankincense and other spices.",
+          "ID": "6",
+          "comments": [
+            "woman coming from the desert See 8:5.",
+            "spices Literally, “powders of the trader.” These were imported spices and incense."
+          ]
+        },
+        {
+          "text": "Look, Solomon’s traveling chair.\nThere are 60 soldiers guarding it,\nstrong soldiers of Israel.",
+          "ID": "7",
+          "comments": [
+            "traveling chair A kind of chair that the rich traveled in. These chairs were covered and had poles that slaves used to carry them. Also in verse 9."
+          ]
+        },
+        {
+          "text": "All of them are trained fighting men\nwith their swords at their side,\nready for any danger of the night.",
+          "ID": "8"
+        },
+        {
+          "text": "King Solomon made a traveling chair for himself.\nThe wood came from Lebanon.",
+          "ID": "9"
+        },
+        {
+          "text": "The poles were made from silver,\nand the supports were made from gold.\nThe seat was covered with purple cloth.\nIt was inlaid with love by the women of Jerusalem.",
+          "ID": "10"
+        },
+        {
+          "text": "Women of Zion, come out\nand see King Solomon.\nSee the crown his mother put on him\nthe day he was married,\nthe day he was so happy!",
+          "ID": "11",
+          "comments": [
+            "crown This might be a wreath of flowers he wore on his head at his wedding."
+          ]
+        }
+      ],
+      "ID": "OT:SNG.3",
+      "name": "Song of Solomon 3"
+    },
+    {
+      "title": "She Speaks",
+      "text": [
+        {
+          "text": "My darling, you are so beautiful!\nOh, you are beautiful!\nYour eyes are like doves\nunder your veil.\nYour hair is long and flowing,\nlike little goats dancing down the slopes of Mount Gilead.",
+          "ID": "1"
+        },
+        {
+          "text": "Your teeth are white like ewes\njust coming from their bath.\nThey all give birth to twins;\nnot one of them has lost a baby.",
+          "ID": "2",
+          "comments": [
+            "ewes Female goats."
+          ]
+        },
+        {
+          "text": "Your lips are like a red silk thread.\nYour mouth is beautiful.\nYour cheeks under your veil\nare like two slices of pomegranate.",
+          "ID": "3"
+        },
+        {
+          "text": "Your neck is long and thin\nlike David’s tower.\nThat tower was built to be decorated\nwith a thousand shields on its walls,\nwith the shields of powerful soldiers.",
+          "ID": "4",
+          "comments": [
+            "Your neck … decorated Or “Your neck is like David’s tower, built with rows of stone.” This would mean she wore many necklaces, one above the other, which looked like rows of stone in a tower."
+          ]
+        },
+        {
+          "text": "Your breasts are like twin fawns,\nlike twins of a gazelle,\nfeeding among the lilies.",
+          "ID": "5"
+        },
+        {
+          "text": "I will go to that mountain of myrrh\nand to that hill of frankincense\nwhile the day breathes its last breath,\nand the shadows run away.",
+          "ID": "6"
+        },
+        {
+          "text": "My darling, you are beautiful all over.\nEvery part of you is perfect.",
+          "ID": "7"
+        },
+        {
+          "text": "Come with me, my bride, from Lebanon.\nCome with me from Lebanon.\nCome from the peak of Amana,\nfrom the top of Senir and Hermon,\nfrom the lion’s caves,\nfrom the mountain of the leopards.",
+          "ID": "8",
+          "comments": [
+            "Amana The name of a mountain in Lebanon.",
+            "Senir The Amorite word for “Snow Mountain.” This means Mount Hermon."
+          ]
+        },
+        {
+          "text": "My darling, my bride, you excite me!\nYou have stolen my heart with just one quick look from your eyes,\nwith just one of the jewels from your necklace.",
+          "ID": "9",
+          "comments": [
+            "darling Literally, “sister.” Also in verses 10, 11; 5:1, 2."
+          ]
+        },
+        {
+          "text": "Your love is so beautiful, my darling, my bride!\nYour love is better than wine.\nThe smell of your perfume\nis better than any kind of spice!",
+          "ID": "10"
+        },
+        {
+          "text": "My bride, your lips drip honey.\nHoney and milk are under your tongue.\nYour clothes smell as sweet as perfume.",
+          "ID": "11",
+          "comments": [
+            "perfume Or “Lebanon.”"
+          ]
+        },
+        {
+          "text": "My darling, my bride,\nyou are pure like a locked garden.\nYou are like a locked pool,\na closed fountain.",
+          "ID": "12"
+        },
+        {
+          "text": "Your limbs are like a garden\nfilled with pomegranates and other pleasant fruit,\nwith all the best spices:\nhenna,",
+          "ID": "13",
+          "comments": [
+            "henna A plant with sweet-smelling, blue-yellow flowers that grows in clusters (groups) like grapes."
+          ]
+        },
+        {
+          "text": "nard, saffron, calamus, and cinnamon.\nYour limbs are like a garden\nfilled with trees of frankincense, myrrh, and aloe.",
+          "ID": "14",
+          "comments": [
+            "saffron A kind of yellow flower used in making perfume.",
+            "calamus A kind of reed plant used in making perfume.",
+            "cinnamon A kind of plant used as a spice and in making perfume."
+          ]
+        },
+        {
+          "text": "You are like a garden fountain—\na well of fresh water—\nflowing down from the mountains of Lebanon.",
+          "ID": "15"
+        },
+        {
+          "text": "Wake up, north wind.\nCome, south wind.\nBlow on my garden.\nSpread its sweet smell.\nLet my lover enter his garden\nand eat its pleasant fruit.",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:SNG.4",
+      "name": "Song of Solomon 4"
+    },
+    {
+      "title": "She Answers the Women of Jerusalem",
+      "text": [
+        {
+          "text": "My darling my bride, I have entered my garden.\nI have gathered my myrrh and spice.\nI have eaten my honey and honeycomb.\nI have drunk my wine and milk.\nDearest friends, eat, drink!\nBe drunk with love!",
+          "ID": "1"
+        },
+        {
+          "text": "I am asleep,\nbut my heart is awake.\nI hear my lover knocking, saying,\n“Open to me, my darling, my love,\nmy dove, my perfect one!\nMy head is soaked with dew.\nMy hair is wet with the mist of the night.”",
+          "ID": "2"
+        },
+        {
+          "text": "“I have taken off my robe.\nI don’t want to put it on again.\nI have washed my feet.\nI don’t want to get them dirty again.”",
+          "ID": "3",
+          "comments": [
+            "robe Or “veil,” a piece of cloth used to cover a person’s face. Also in verse 7."
+          ]
+        },
+        {
+          "text": "But my lover put his hand through the opening,\nand I felt sorry for him.",
+          "ID": "4",
+          "comments": [
+            "put … opening Or “pulled his hand from the opening.” In one sense, this might refer to a lock and key. Some ancient keys were shaped like a hand. The key was inserted through a hole in the door, and the “fingers” fit into special holes that allowed the bolt to slide, locking and unlocking the door.",
+            "I felt sorry for him Literally, “My insides stirred for him.”"
+          ]
+        },
+        {
+          "text": "I got up to open for my lover,\nmyrrh dripping from my hands,\nmyrrh scented lotion dripped from my fingers\nonto the handles of the lock.",
+          "ID": "5"
+        },
+        {
+          "text": "I opened for my lover,\nbut my lover had turned away and was gone!\nI nearly died\nwhen he came and went.\nI looked for him,\nbut I couldn’t find him.\nI called for him,\nbut he didn’t answer me.",
+          "ID": "6",
+          "comments": [
+            "I nearly died … went Or “My soul left when he spoke.”"
+          ]
+        },
+        {
+          "text": "The guards patrolling the city found me.\nThey hit me.\nThey hurt me.\nThe guards on the wall\ntook my robe from me.",
+          "ID": "7"
+        },
+        {
+          "text": "I tell you, women of Jerusalem,\nif you find my lover, tell him I am weak with love.",
+          "ID": "8",
+          "comments": [
+            "I am weak with love Or “I am lovesick.”"
+          ]
+        },
+        {
+          "text": "Beautiful woman,\nhow is your lover different from other lovers?\nIs your lover better than other lovers?\nIs that why you ask us to make this promise?",
+          "ID": "9"
+        },
+        {
+          "text": "My lover is tanned and radiant.\nHe would stand out among 10,000 men.",
+          "ID": "10"
+        },
+        {
+          "text": "His head is like the purest gold.\nHis hair is curly and as black as a raven.",
+          "ID": "11"
+        },
+        {
+          "text": "His eyes are like doves by a stream,\nlike doves in a pool of milk,\nlike a jewel in its setting.",
+          "ID": "12"
+        },
+        {
+          "text": "His cheeks are like a garden of spices,\nlike flowers used for perfume.\nHis lips are like lilies,\ndripping with liquid myrrh.",
+          "ID": "13"
+        },
+        {
+          "text": "His arms are like gold rods,\nfilled with jewels.\nHis body is like smooth ivory\nwith sapphires set in it.",
+          "ID": "14"
+        },
+        {
+          "text": "His legs are like marble pillars\non bases of fine gold.\nHe stands tall\nlike the finest cedar tree in Lebanon!",
+          "ID": "15"
+        },
+        {
+          "text": "Yes, women of Jerusalem, my lover is everything I desire.\nHis mouth is the sweetest of all.\nThis is my lover;\nthis is my darling.",
+          "ID": "16"
+        }
+      ],
+      "ID": "OT:SNG.5",
+      "name": "Song of Solomon 5"
+    },
+    {
+      "title": "The Women of Jerusalem Call to Her",
+      "text": [
+        {
+          "text": "Beautiful woman,\nwhere has your lover gone?\nWhich way did your lover go?\nTell us so that we can help you look for him.",
+          "ID": "1"
+        },
+        {
+          "text": "My lover has gone down to his garden,\nwhere sweet-smelling spices grow.\nThere, like a sheep, he will eat the grass,\nand he will enjoy the lilies.",
+          "ID": "2"
+        },
+        {
+          "text": "I belong to my lover, and my lover belongs to me.\nHe is the one feeding among the lilies.",
+          "ID": "3"
+        },
+        {
+          "text": "My darling, you are as beautiful as Tirzah,\nas pleasant as Jerusalem,\nas awesome as the stars in the sky.",
+          "ID": "4",
+          "comments": [
+            "Tirzah One of the capital cities of northern Israel.",
+            "the stars in the sky Or “an army ready for war.” The meaning of the Hebrew word here and in verse 10 is uncertain."
+          ]
+        },
+        {
+          "text": "Don’t look at me!\nYour eyes excite me too much!\nAnd your hair is long and flowing,\nlike little goats dancing down the slopes of Mount Gilead.",
+          "ID": "5"
+        },
+        {
+          "text": "Your teeth are white like ewes\njust coming from their bath.\nThey all give birth to twins.\nNot one of them has lost a baby.",
+          "ID": "6",
+          "comments": [
+            "ewes Female goats."
+          ]
+        },
+        {
+          "text": "Your cheeks under your veil\nare like slices of pomegranate.",
+          "ID": "7"
+        },
+        {
+          "text": "There might be 60 queens\nand 80 slave women,\nand young women too many to count,",
+          "ID": "8"
+        },
+        {
+          "text": "but there is only one woman for me,\nmy dove, my perfect one.\nShe is the favorite of her mother,\nher mother’s favorite child.\nThe young women see her and praise her.\nEven the queens and slave women praise her.",
+          "ID": "9"
+        },
+        {
+          "text": "Who is that young woman?\nShe shines out like the dawn.\nShe is as pretty as the moon.\nShe is as bright as the sun.\nShe is as awesome\nas the stars in the sky.",
+          "ID": "10"
+        },
+        {
+          "text": "I went down to the grove of walnut trees,\nto see the fruit of the valley,\nto see if the vines were in bloom,\nto see if the pomegranates had budded.",
+          "ID": "11"
+        },
+        {
+          "text": "I was so excited\nwhen she put me in the royal chariot.",
+          "ID": "12",
+          "comments": [
+            "the royal chariot Or “the chariots of my noble people.” See “chariot” in the Word List."
+          ]
+        },
+        {
+          "text": "Come back, come back, Shulamith!\nCome back, come back, so we may look at you.\nWhy are you staring at Shulamith,\nas she dances the Mahanaim dance?",
+          "ID": "13",
+          "comments": [
+            "Shulamith Or “Shulamite.” The word might be the feminine form of the name “Solomon.” This could mean she was or would become the bride of Solomon. This name might also mean “perfect,” “at peace,” or “woman from Shunem.”",
+            "Mahanaim dance Or “the victory dance” or “the dance of the two camps.”"
+          ]
+        }
+      ],
+      "ID": "OT:SNG.6",
+      "name": "Song of Solomon 6"
+    },
+    {
+      "title": "She Speaks to Him",
+      "text": [
+        {
+          "text": "Princess, your feet are beautiful in those sandals.\nThe curves of your thighs are like jewelry made by an artist.",
+          "ID": "1",
+          "comments": [
+            "Princess Literally, “Daughter of a prince.”"
+          ]
+        },
+        {
+          "text": "Your navel is like a round cup;\nmay it never be without wine.\nYour belly is like a pile of wheat\nsurrounded by lilies.",
+          "ID": "2",
+          "comments": [
+            "round cup Or “turned bowl,” a stone bowl made on a lathe and used for mixing wine before it is poured into cups. This might also mean a bowl shaped like a crescent or half-moon."
+          ]
+        },
+        {
+          "text": "Your breasts are like twin fawns\nof a young gazelle.",
+          "ID": "3"
+        },
+        {
+          "text": "Your neck is like an ivory tower.\nYour eyes are like the pools in Heshbon\nnear the gate of Bath Rabbim.\nYour nose is like the tower of Lebanon\nthat looks toward Damascus.",
+          "ID": "4"
+        },
+        {
+          "text": "Your head is like Carmel,\nand the hair on your head is like silk.\nYour long flowing hair\ncaptures even a king.",
+          "ID": "5"
+        },
+        {
+          "text": "You are so beautiful and so pleasant,\na lovely, delightful young woman!",
+          "ID": "6"
+        },
+        {
+          "text": "You are tall—\nas tall as a palm tree.\nAnd your breasts are like\nthe clusters of fruit on that tree.",
+          "ID": "7"
+        },
+        {
+          "text": "I would love to climb that tree\nand take hold of its branches.\nMay your breasts be like clusters of grapes\nand your fragrance like apples.",
+          "ID": "8",
+          "comments": [
+            "fragrance Literally, “breath of your nose.”"
+          ]
+        },
+        {
+          "text": "May your mouth be like the best wine,\nflowing straight to my love,\nflowing gently to the sleeper’s lips.",
+          "ID": "9"
+        },
+        {
+          "text": "I belong to my lover,\nand he wants me.",
+          "ID": "10"
+        },
+        {
+          "text": "Come, my lover,\nlet’s go out into the field;\nlet’s spend the night in the villages.",
+          "ID": "11"
+        },
+        {
+          "text": "Let’s get up early and go to the vineyards.\nLet’s see if the vines are in bloom.\nLet’s see if the blossoms have opened\nand if the pomegranates are in bloom.\nThere I will give you my love.",
+          "ID": "12"
+        },
+        {
+          "text": "Smell the mandrakes\nand all the pleasant flowers by our door.\nI have saved many pleasant things for you, my lover,\npleasant things, new and old.",
+          "ID": "13",
+          "comments": [
+            "mandrakes Plants with roots that look like people. People thought these plants had the power to make people fall in love."
+          ]
+        }
+      ],
+      "ID": "OT:SNG.7",
+      "name": "Song of Solomon 7"
+    },
+    {
+      "title": "She Speaks to Him",
+      "text": [
+        {
+          "text": "If you were a baby, like my little brother nursing at his mother’s breasts,\nand if I found you outside,\nI could kiss you,\nand no one would say it was wrong.",
+          "ID": "1"
+        },
+        {
+          "text": "I would lead you into my mother’s house,\nto the room of she who taught me.\nI would give you spiced wine\nsqueezed from my pomegranate.",
+          "ID": "2"
+        },
+        {
+          "text": "His left arm is under my head,\nand his right hand holds me.",
+          "ID": "3"
+        },
+        {
+          "text": "Women of Jerusalem, promise me,\ndon’t awaken love,\ndon’t arouse love, until I am ready.",
+          "ID": "4",
+          "comments": [
+            "until I am ready Literally, “until it desires.”"
+          ]
+        },
+        {
+          "text": "Who is this woman\ncoming from the desert, leaning on her lover?\nI woke you under the apple tree,\nwhere your mother gave birth to you,\nwhere you were born.",
+          "ID": "5"
+        },
+        {
+          "text": "Keep me near you like a seal you wear over your heart,\nlike a signet ring you wear on your hand.\nLove is as strong as death.\nPassion is as strong as the grave.\nIts sparks become a flame,\nand it grows to become a great fire!",
+          "ID": "6",
+          "comments": [
+            "the grave Or “Sheol,” the place where dead people go.",
+            "great fire Or “the flame of the Lord.”"
+          ]
+        },
+        {
+          "text": "A flood cannot put out love.\nRivers cannot drown love.\nWould people despise a man for giving\neverything he owns for love?",
+          "ID": "7"
+        },
+        {
+          "text": "We have a little sister,\nand her breasts are not yet grown.\nWhat should we do for our sister\nwhen a man comes asking to marry her?",
+          "ID": "8"
+        },
+        {
+          "text": "If she were a wall,\nwe would put silver trim around her.\nIf she were a door,\nwe would put a cedar board around her.",
+          "ID": "9",
+          "comments": [
+            "trim Or “supports.” Often horizontal beams and towers were built into walls to strengthen and support them. But here, this seems to be a decoration."
+          ]
+        },
+        {
+          "text": "I am a wall,\nand my breasts are my towers.\nAnd he is satisfied with me!",
+          "ID": "10",
+          "comments": [
+            "he is satisfied with me Literally, “in his eyes I find peace.” In Hebrew this is also like the names “Solomon” and “Shulamith.”"
+          ]
+        },
+        {
+          "text": "Solomon had a vineyard at Baal Hamon.\nHe put men in charge of the vineyard.\nEach man brought in grapes\nworth 1000 shekels of silver.",
+          "ID": "11",
+          "comments": [
+            "1000 shekels About 25 pounds (11.5 kg). Also in verse 12."
+          ]
+        },
+        {
+          "text": "Solomon, you can keep your 1000 shekels.\nGive 200 shekels to each man for the grapes he brought.\nBut I will keep my own vineyard.",
+          "ID": "12"
+        },
+        {
+          "text": "There you are, sitting in the garden.\nFriends are listening to your voice.\nLet me hear it too!",
+          "ID": "13"
+        },
+        {
+          "text": "Hurry, my lover!\nBe like a gazelle or a young deer on the mountains of spice.",
+          "ID": "14"
+        }
+      ],
+      "ID": "OT:SNG.8",
+      "name": "Song of Solomon 8"
+    }
+  ],
+  "ID": "OT:SNG(ERV)",
+  "name": "Song of Solomon"
+}

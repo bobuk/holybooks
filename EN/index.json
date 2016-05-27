@@ -1,0 +1,45 @@
+{
+  "language": "English",
+  "versions": [
+    {
+      "ID": "ERV",
+      "title": "Easy-to-Read Version",
+      "wikilink": "https://en.wikipedia.org/wiki/Easy-to-Read_Version"
+    },
+    {
+      "ID": "AMP",
+      "title": "Amplified Bible",
+      "wikilink": "https://en.wikipedia.org/wiki/Amplified_Bible"
+    },
+    {
+      "ID": "ASV",
+      "title": "American Standard Version",
+      "wikilink": "https://en.wikipedia.org/wiki/American_Standard_Version"
+    },
+    {
+      "ID": "CPDV",
+      "title": "Catholic Public Domain Version",
+      "wikilink": null
+    },
+    {
+      "ID": "ESV",
+      "title": "English Standard Version",
+      "wikilink": "https://en.wikipedia.org/wiki/English_Standard_Version"
+    },
+    {
+      "ID": "KJV",
+      "title": "King James Version",
+      "wikilink": "https://en.wikipedia.org/wiki/King_James_Version"
+    },
+    {
+      "ID": "NASB",
+      "title": "New American Standard Bible",
+      "wikilink": "https://en.wikipedia.org/wiki/New_American_Standard_Bible"
+    },
+    {
+      "ID": "WEB",
+      "title": "World English Bible",
+      "wikilink": "https://en.wikipedia.org/wiki/World_English_Bible"
+    }
+  ]
+}
