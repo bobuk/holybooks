@@ -1,0 +1,124 @@
+{
+  "description": "Holy Books repository containing multiple translations of biblical texts in various languages",
+  "structure": "Texts are organized by language, testament, book, and version (translation)",
+  "directory_format": "/{LANGUAGE}/{TESTAMENT}/{BOOK}/{VERSION}.json",
+  "languages": [
+    {
+      "ID": "EN",
+      "name": "English",
+      "versions": [
+        {
+          "ID": "ERV",
+          "title": "Easy-to-Read Version",
+          "wikilink": "https://en.wikipedia.org/wiki/Easy-to-Read_Version"
+        },
+        {
+          "ID": "AMP",
+          "title": "Amplified Bible",
+          "wikilink": "https://en.wikipedia.org/wiki/Amplified_Bible"
+        },
+        {
+          "ID": "ASV",
+          "title": "American Standard Version",
+          "wikilink": "https://en.wikipedia.org/wiki/American_Standard_Version"
+        },
+        {
+          "ID": "CPDV",
+          "title": "Catholic Public Domain Version",
+          "wikilink": null
+        },
+        {
+          "ID": "ESV",
+          "title": "English Standard Version",
+          "wikilink": "https://en.wikipedia.org/wiki/English_Standard_Version"
+        },
+        {
+          "ID": "KJV",
+          "title": "King James Version",
+          "wikilink": "https://en.wikipedia.org/wiki/King_James_Version"
+        },
+        {
+          "ID": "NASB",
+          "title": "New American Standard Bible",
+          "wikilink": "https://en.wikipedia.org/wiki/New_American_Standard_Bible"
+        },
+        {
+          "ID": "WEB",
+          "title": "World English Bible",
+          "wikilink": "https://en.wikipedia.org/wiki/World_English_Bible"
+        }
+      ]
+    },
+    {
+      "ID": "RU",
+      "name": "Russian",
+      "versions": [
+        {
+          "ID": "BTI",
+          "title": "Новый Завет под редакцией М.П. Кулакова",
+          "wikilink": "https://ru.wikipedia.org/wiki/Библия._Книги_Священного_Писания_Ветхого_и_Нового_Завета_в_современном_русском_переводе"
+        },
+        {
+          "ID": "CSLAV",
+          "title": "Библия на церковнославянском языке",
+          "wikilink": "https://ru.wikipedia.org/wiki/Церковнославянский_язык"
+        },
+        {
+          "ID": "RSP",
+          "title": "Новый Завет: Современный перевод",
+          "wikilink": "https://ru.wikipedia.org/wiki/Современный_русский_перевод_Библии"
+        },
+        {
+          "ID": "SYNO",
+          "title": "Синодальный перевод",
+          "wikilink": "https://ru.wikipedia.org/wiki/Синодальный_перевод"
+        },
+        {
+          "ID": "NRP",
+          "title": "Новый Русский Перевод",
+          "wikilink": "https://ru.wikipedia.org/wiki/Новый_русский_перевод"
+        }
+      ]
+    }
+  ],
+  "testaments": [
+    {
+      "ID": "OT",
+      "name": "Old Testament",
+      "description": "The first part of the Christian Bible, comprising ancient Hebrew scriptures. It consists of narratives, laws, poetry, and prophecies, traditionally attributed to authors from 1200-165 BCE. The Old Testament contains 39 books in Protestant canons, and additional texts in Catholic and Orthodox traditions.",
+      "wikilink": "https://en.wikipedia.org/wiki/Old_Testament"
+    },
+    {
+      "ID": "NT",
+      "name": "New Testament",
+      "description": "The second division of the Christian biblical canon, containing 27 books that describe the life and teachings of Jesus, the early Christian church, and Christian theology. Written primarily in Koine Greek during the first century CE, it includes four Gospels, Acts of the Apostles, 21 Epistles, and the Book of Revelation.",
+      "wikilink": "https://en.wikipedia.org/wiki/New_Testament"
+    },
+    {
+      "ID": "AP",
+      "name": "Apocrypha",
+      "description": "A collection of ancient religious texts found in some editions of the Bible but excluded from others. These works, which include books like Tobit, Judith, Wisdom of Solomon, and Maccabees, are canonical in Catholic and Orthodox traditions but considered non-canonical in Protestant denominations. Most were composed between 300 BCE and 100 CE.",
+      "wikilink": "https://en.wikipedia.org/wiki/Biblical_apocrypha"
+    }
+  ],
+  "file_format": {
+    "description": "All texts are stored in JSON format with consistent structure",
+    "schema": {
+      "version": "Translation identifier",
+      "ID": "Full identifier of book, canon and translation",
+      "name": "Book name",
+      "text": [
+        {
+          "ID": "Chapter identifier",
+          "name": "Chapter name",
+          "text": [
+            {
+              "ID": "Paragraph identifier",
+              "text": "Paragraph text"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
