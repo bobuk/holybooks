@@ -1,26 +1,26 @@
-# Библия для машин
+# Bible for Machines
 
-Цель этого проекта совершенно проста - я для собственных нужд приводил разные варианты Ветхого и Нового завета в машиночитаемый вид, а потом решил поделиться результатом с вами. Структура каталогов предельно простая:
-Язык -> Канон -> Книга -> Версия.
+The purpose of this project is quite simple - I was converting different versions of the `Old` and `New Testament` into machine-readable format for my own needs, and then decided to share the result with you. The directory structure is extremely simple:
+Language -> Canon -> Book -> Version.
 
-В папке языка лежит так же index.json, имеющий очевидную структуру
+In the language folder there is also index.json, which has an obvious structure
 
-Я по возможности придерживаюсь стандартного наименования для книг и вариантов.
-Чтобы найти, например, синодальный перевод Бытия из Ветхого Завета, стоит посмотреть в каталог *RU / OT / GEN / SYNO.json*
+I try to stick to standard naming for books and versions whenever possible.
+To find, for example, the `Synodal translation` of `Genesis` from the `Old Testament`, look in the directory *RU / OT / GEN / SYNO.json*
 
-Структура самих файлов чуть менее очевидна:
+The structure of the files themselves is a little less obvious:
 
 ```
 {
-    "version": "идентификатор версии или перевода",
-    "ID": "полный идентификатор книги, канона и перевода",
-    "name": "название книги",
+    "version": "version or translation identifier",
+    "ID": "full identifier of book, canon and translation",
+    "name": "book name",
     "text": [
         {
-            "ID": "идентификатор главы",
-            "name": "название главы",
+            "ID": "chapter identifier",
+            "name": "chapter name",
             "text": [
-                {"ID": "идентификатор абзаца", "text": "текст абзаца"},
+                {"ID": "paragraph identifier", "text": "paragraph text"},
                 ...
             ]
         },
@@ -29,12 +29,10 @@
 }
 ```
 
-Если вы нашли какие-то недочеты или проблемы в файлах, или хотите загрузить другие варианты (или переводы) - присылайте пулл-реквесты, все как обычно.
+If you find any flaws or problems in the files, or want to upload other variants (or translations) - send pull requests, as usual.
 
 ### TODO
 
-  * Явно нужен файл, описывающий версию (метаинформацию и какие книги в
-   него входят)
-  * Вообще надо вычитать глазами все файлы
-  * Надо, наверное, сконвертировать уже все в англоязычный проект, не только же русским надо.
-  
+  * We clearly need a file describing the version (meta information and which books are included in it)
+  * Need to proofread all files by eye
+  * We need more books and options, pull requests are welcome
